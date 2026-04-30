@@ -1,0 +1,634 @@
+Name,Average Runtime,End Date,Premiere Date,Genres,Type,Language,Network,Critic_Rating,Total Seasons,Total Episodes,Premier Date,User_Rating,vote_count,poster_path,tagline,Metacritic_Rating
+Breaking Bad,60.0,2008-01-20,2019-10-11,"['Drama', 'Crime', 'Thriller']",Scripted,English,AMC,9.2,5,62,2019-10-11,8.89,12398.0,/3xnWaLQjelJDDF7LT1WBo6f4BRe.jpg,Change the equation.,88.2
+Firefly,64.0,2002-09-20,2002-12-20,"['Drama', 'Adventure', 'Science-Fiction']",Scripted,English,FOX,9.0,1,14,2002-12-20,8.331,1830.0,/vZcKsy4sGAvWMVqLluwYuoi11Kj.jpg,You can't take the sky from me.,63.0
+Avatar: The Last Airbender,30.0,2005-02-21,2008-07-19,"['Action', 'Adventure', 'Fantasy']",Animation,English,Nickelodeon,8.9,3,61,2008-07-19,8.69,3497.0,/cHFZA8Tlv03nKTGXhLOYOLtqoSm.jpg,Water. Earth. Fire. Air.,N/A
+Sherlock,90.0,2010-07-25,2017-01-15,"['Drama', 'Crime', 'Mystery']",Scripted,English,BBC One,8.9,4,12,2017-01-15,8.537,4716.0,/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg,A new sleuth for the 21st century.,88.0
+The Wire,60.0,2002-06-02,2008-03-09,"['Drama', 'Crime']",Scripted,English,HBO,8.9,5,60,2008-03-09,8.535,1889.0,/4lbclFySvugI51fwsyxBTOm4DqK.jpg,All in the game.,91.8
+Gravity Falls,30.0,2012-06-15,2016-02-15,"['Adventure', 'Mystery', 'Supernatural']",Animation,English,Disney XD,8.9,2,40,2016-02-15,8.531,2512.0,/dNxEEK5CdNQbp4YcEtICXelRqvP.jpg,Just west of weird.,N/A
+Band of Brothers,59.0,2001-09-09,2001-11-04,"['Drama', 'Action', 'War']",Scripted,English,HBO,8.9,1,10,2001-11-04,8.488,3107.0,/pGzV187ogXzgJrvPRy2YPi29ofH.jpg,There was a time when the world asked ordinary men to do extraordinary things.,86.0
+Game of Thrones,61.0,2011-04-17,2019-05-19,"['Drama', 'Adventure', 'Fantasy']",Scripted,English,HBO,8.9,8,73,2019-05-19,8.442,21857.0,/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg,Winter Is Coming,83.88
+The Twilight Zone,33.0,1959-10-02,1964-06-19,"['Science-Fiction', 'Mystery', 'Supernatural']",Scripted,English,CBS,8.9,5,156,1964-06-19,8.472,780.0,/7uY4pCOxbEdv4M8jTE4uMPVoSIW.jpg,You are about to enter another dimension.,N/A
+The Twilight Zone,33.0,1959-10-02,1964-06-19,"['Science-Fiction', 'Mystery', 'Supernatural']",Scripted,English,CBS,8.9,5,156,1964-06-19,6.721,306.0,/aEuzZqJTEH9E4JwQyv8JtuCu22B.jpg,What dimension are you even in?,N/A
+The Twilight Zone,33.0,1959-10-02,1964-06-19,"['Science-Fiction', 'Mystery', 'Supernatural']",Scripted,English,CBS,8.9,5,156,1964-06-19,7.3,92.0,/sS1ykUhvyurff4CohExIh8qYO99.jpg,Check your reality at the door.,N/A
+Stargate SG-1,60.0,1997-07-27,2008-07-29,"['Action', 'Adventure', 'Science-Fiction']",Scripted,English,Syfy,8.9,10,213,2008-07-29,8.255,1365.0,/rst5xc4f7v1KiDiQjzDiZqLtBpl.jpg,Saving the world... one episode at a time,48.0
+Stargate Atlantis,60.0,2004-07-16,2009-01-09,"['Action', 'Adventure', 'Science-Fiction']",Scripted,English,Syfy,8.8,5,100,2009-01-09,8.017,901.0,/l0JYr2iqwId6VOmCV8dHzlIM6Wd.jpg,A new gate will open. A lost city will rise again.,N/A
+Oz,60.0,1997-07-12,2003-02-23,"['Drama', 'Crime']",Scripted,English,HBO,8.8,6,56,2003-02-23,8.064,621.0,/oTQ9PUnCgf9CimYeWuDGp8iaT07.jpg,Life's not a word. It's a sentence.,70.0
+The Sopranos,60.0,1999-01-10,2007-06-10,"['Drama', 'Crime']",Scripted,English,HBO,8.8,6,86,2007-06-10,8.6,2292.0,/xjORbljyMZ8mgYlnftYOVujHoAi.jpg,Family. Redefined.,94.5
+Person of Interest,60.0,2011-09-22,2016-06-21,"['Action', 'Crime', 'Science-Fiction']",Scripted,English,CBS,8.8,5,103,2016-06-21,8.1,1483.0,/6FuKOyJgViZXgMDOq9djFJLWPqX.jpg,You're Being Watched,66.0
+House,60.0,2004-11-16,2012-05-21,"['Drama', 'Mystery', 'Medical']",Scripted,English,FOX,8.8,8,176,2012-05-21,8.595,5799.0,/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg,Genius has side effects.,76.0
+Planet Earth,60.0,2006-03-05,2006-12-10,['Nature'],Documentary,English,BBC One,8.8,1,11,2006-12-10,8.524,948.0,/mfXulHiALTloIqivuC4Q3lI3RGw.jpg,Prepare to see it as never before.,N/A
+Battlestar Galactica,61.0,2003-12-08,2010-01-10,"['Drama', 'Science-Fiction', 'War']",Scripted,English,Syfy,8.7,4,73,2010-01-10,8.226,1343.0,/99PJSbcO2LeM10uOGWeFihNp77j.jpg,So say we all!,N/A
+Battlestar Galactica,61.0,2003-12-08,2010-01-10,"['Drama', 'Science-Fiction', 'War']",Scripted,English,Syfy,8.7,4,73,2010-01-10,7.1,199.0,/27jl4H9PauenZlmVBbOO1pr1lGf.jpg,The Last Battlestar Galactica Leads a Rag Tag Fugitive Fleet on a Lonely Quest for a Shining Planet Known as...Earth.,N/A
+Justified,60.0,2010-03-16,2015-04-14,"['Drama', 'Crime', 'Western']",Scripted,English,FX,8.7,6,78,2015-04-14,8.002,602.0,/aVYuGDlOZMCRt89fAnHTYgk3BMr.jpg,He's law and order.,87.17
+Fringe,61.0,2008-09-09,2013-01-18,"['Drama', 'Action', 'Science-Fiction']",Scripted,English,FOX,8.7,5,100,2013-01-18,8.119,2154.0,/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg,Question the answers.,70.5
+Deadwood,60.0,2004-03-21,2019-05-31,"['Drama', 'Crime', 'Western']",Scripted,English,HBO,8.7,3,36,2019-05-31,8.109,694.0,/4Yp35DVbVOAWkfQUIQ7pbh3u0aN.jpg,A hell of a place to make your fortune,86.0
+Friends,30.0,1994-09-22,2004-05-06,"['Comedy', 'Romance']",Scripted,English,NBC,8.6,10,236,2004-05-06,8.444,7192.0,/f496cm9enuEsZkSPzCwnTESEK5s.jpg,I'll be there for you,59.0
+The West Wing,60.0,1999-09-22,2006-05-14,['Drama'],Scripted,English,NBC,8.6,7,154,2006-05-14,8.28,409.0,/yqDWr5NAE7m1IWrygYwLyEB6pN0.jpg,Right place. Right time. Right man.,79.0
+The Shield,61.0,2002-03-12,2008-11-25,"['Drama', 'Crime']",Scripted,English,FX,8.6,7,88,2008-11-25,8.124,622.0,/AfdZXqqlFsPUEfi6kWWWthxw7Nz.jpg,The law is just a suggestion.,88.5
+Orphan Black,60.0,2013-03-30,2017-08-12,"['Drama', 'Science-Fiction', 'Thriller']",Scripted,English,CTV Sci-Fi Channel,8.6,5,50,2017-08-12,7.8,1114.0,/xKo79AxtabAFoJTqz4RuC3APND4.jpg,She's been duped.,76.25
+Banshee,60.0,2013-01-11,2016-05-20,"['Drama', 'Action', 'Crime']",Scripted,English,Cinemax,8.6,4,38,2016-05-20,7.971,1025.0,/5nXFiz8Rn8eezVjSTZBd7HmnF1G.jpg,Small town. Big secrets.,62.0
+Farscape,60.0,1999-03-19,2003-03-21,"['Action', 'Adventure', 'Science-Fiction']",Scripted,English,Syfy,8.6,4,88,2003-03-21,7.916,449.0,/fCJx7cCXKOEkmCVIIyP8qk0Pb7Y.jpg,"My name is John Crichton, an astronaut.  I'm just looking for a way home.",74.0
+Better Call Saul,64.0,2015-02-08,2022-08-15,"['Drama', 'Crime', 'Legal']",Scripted,English,AMC,8.6,6,63,2022-08-15,8.645,4354.0,/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg,Putting the “criminal” in “criminal lawyer.”,88.29
+The X-Files,60.0,1993-09-10,2018-03-21,"['Drama', 'Crime', 'Science-Fiction']",Scripted,English,FOX,8.6,11,218,2018-03-21,8.397,2726.0,/5BD0kiTGnDxONqdrsswTewnk6WH.jpg,The truth is out there.,65.67
+Shameless,60.0,2011-01-09,2021-04-11,"['Drama', 'Comedy', 'Family']",Scripted,English,Showtime,8.5,11,134,2021-04-11,8.2,2268.0,/9akij7PqZ1g6zl42DQQTtL9CTSb.jpg,"The Gallaghers. Absolutely, Wildly, Unapologetically... Shameless",N/A
+Cosmos,60.0,1980-09-28,2020-04-20,[],Documentary,English,National Geographic,8.5,3,39,2020-04-20,8.444,1370.0,/5o07ps0QZ0bNoRYxTn9cPdRWlUu.jpg,"An epic adventure in time, space and life.",N/A
+The Office,30.0,2005-03-24,2013-05-16,['Comedy'],Scripted,English,NBC,8.5,9,202,2013-05-16,8.587,3443.0,/dg9e5fPRRId8PoBE0F6jl5y85Eu.jpg,A comedy for anyone whose boss is an idiot.,63.0
+Rome,60.0,2005-08-28,2007-03-25,"['Drama', 'Action', 'Adventure']",Scripted,English,HBO,8.5,2,22,2007-03-25,8.263,1090.0,/6TthtTTZ0H7SUkQxJIv0l9yhOOU.jpg,Every city has its secrets.,69.5
+Fawlty Towers,30.0,1975-09-19,1979-10-25,['Comedy'],Scripted,English,BBC Two,8.5,2,12,1979-10-25,8.228,605.0,/tvTYIjujN87dcKAmSLqcvAahykH.jpg,Don’t mention the war!,N/A
+The Americans,62.0,2013-01-30,2018-05-30,"['Drama', 'Espionage']",Scripted,English,FX,8.5,6,75,2018-05-30,7.9,778.0,/lD4gTLrI81Crs6CDwwjQrnkJrUm.jpg,All's fair in love and cold war.,89.83
+Babylon 5,60.0,1993-02-22,2023-08-15,"['Drama', 'Action', 'Science-Fiction']",Scripted,English,TNT,8.5,5,110,2023-08-15,8.109,445.0,/rj87TqwabgJzslrH4G6BCDseBKV.jpg,"The last, best hope for peace.",55.0
+Luther,60.0,2010-05-04,2023-03-10,"['Drama', 'Crime', 'Thriller']",Scripted,English,BBC One,8.5,5,20,2023-03-10,7.865,903.0,/hDxOMX8zzH1FiqKWVBzNaYGBkle.jpg,What if your worst enemy was your own conscience?,73.8
+Batman: The Animated Series,30.0,1992-09-05,1998-03-17,"['Action', 'Adventure', 'Science-Fiction']",Animation,English,Fox Kids,8.5,4,85,1998-03-17,8.512,1392.0,/lBomQFW1vlm1yUYMNSbFZ45R4Ox.jpg,Out Of The Shadows.,N/A
+Line of Duty,62.0,2012-06-26,2021-05-02,"['Drama', 'Crime', 'Thriller']",Scripted,English,BBC One,8.5,6,36,2021-05-02,8.3,322.0,/ysGUKnnR1pGYIndjXWcjupGbWpS.jpg,"If you think catching criminals is tough, try catching police officers.",N/A
+Buffy the Vampire Slayer,60.0,1997-03-10,2003-05-20,"['Drama', 'Action', 'Supernatural']",Scripted,English,UPN,8.5,7,144,2003-05-20,8.172,1517.0,/y7fVZkyheCEQHDUEHwNmYENGfT2.jpg,Get home before dark.,80.0
+Peaky Blinders,61.0,2013-09-12,2022-04-03,"['Drama', 'Crime', 'History']",Scripted,English,BBC One,8.5,6,36,2022-04-03,8.546,8836.0,/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg,London's for the taking,85.0
+Cowboy Bebop,30.0,1998-10-24,2001-09-01,"['Action', 'Adventure', 'Anime', 'Science-Fiction']",Animation,Japanese,WOWOW,8.5,1,26,2001-09-01,8.5,1384.0,/xDiXDfZwC6XYC6fxHI1jl3A3Ill.jpg,See you space cowboy...,N/A
+Silicon Valley,30.0,2014-04-06,2019-12-08,['Comedy'],Scripted,English,HBO,8.4,6,53,2019-12-08,8.132,1379.0,/dc5r71XI1gD4YwIUoEYCLiVvtss.jpg,How big is too big?,86.25
+Endeavour,120.0,2012-01-02,2023-03-12,"['Drama', 'Crime', 'Mystery']",Scripted,English,ITV1,8.4,9,35,2023-03-12,8.146,195.0,/zlVQsugPBkSfIklJkh7XgnwSwqE.jpg,"A crusade in search of justice, risking everything for the truth ...",80.0
+Grimm,60.0,2011-10-28,2017-03-31,"['Drama', 'Crime', 'Supernatural']",Scripted,English,NBC,8.4,6,123,2017-03-31,8.283,2869.0,/iOptnt1QHi6bIHmOq6adnZTV0bU.jpg,Mortal. Danger.,55.0
+Black Sails,60.0,2014-01-25,2017-04-02,"['Drama', 'Action', 'Adventure']",Scripted,English,STARZ,8.4,4,38,2017-04-02,7.601,1172.0,/mZcSwrDdw6cdOVgXm496DgwrQcQ.jpg,Take what's yours,58.0
+Broadchurch,60.0,2013-03-04,2017-04-17,"['Drama', 'Crime', 'Mystery']",Scripted,English,ITV1,8.4,3,24,2017-04-17,7.965,702.0,/f5gQRyTZ3v4asugU2F5HXE2FIDg.jpg,A town wrapped in secrets.,83.0
+The Unit,60.0,2006-03-07,2009-05-10,"['Drama', 'Action', 'Crime']",Scripted,English,CBS,8.4,4,69,2009-05-10,7.288,160.0,/ftwhXqizcVRo4pgqFnTysR9tAIM.jpg,Covert warriors. Unsung heroes,61.0
+Blackadder,30.0,1983-06-15,1989-11-02,"['Comedy', 'History']",Scripted,English,BBC One,8.4,4,24,1989-11-02,7.938,390.0,/pwr2DISBcHfGIHv50HAAbC6lYeU.jpg,The most gripping sitcom since 1380.,N/A
+Dexter,60.0,2006-10-01,2013-09-22,"['Drama', 'Crime', 'Mystery']",Scripted,English,Showtime,8.4,8,96,2013-09-22,8.19,3675.0,/q8dWfc4JwQuv3HayIZeO84jAXED.jpg,A serial killer with a heart..... just pray it's not yours,N/A
+Warehouse 13,60.0,2009-07-07,2014-05-19,"['Drama', 'Science-Fiction', 'Mystery']",Scripted,English,Syfy,8.4,5,64,2014-05-19,7.661,566.0,/5AHe7Wmwl2T0qmJwktTgXG9sFCJ.jpg,Mystery loves company,67.0
+The Newsroom,60.0,2012-06-24,2014-12-14,['Drama'],Scripted,English,HBO,8.4,3,25,2014-12-14,8.119,513.0,/2s6IPLtfw0GiMxlJznb1TkA6KXk.jpg,More as the story develops.,61.67
+Star Trek: Deep Space Nine,60.0,1993-01-03,1999-06-02,"['Action', 'Adventure', 'Science-Fiction']",Scripted,English,Syndication,8.4,7,176,1999-06-02,7.89,669.0,/37gPCTyiQOLa9vJeKrpX4HqRq6P.jpg,"At the edge of the Final Frontier, the Universe's greatest mystery is about to unfold.",74.0
+Utopia,60.0,2013-01-15,2014-08-12,"['Drama', 'Science-Fiction', 'Thriller']",Scripted,English,Channel 4,8.4,2,12,2014-08-12,8.03,452.0,/dQTHgka2IA8gFZ6aiB12CaxBR0b.jpg,The Network is watching.,N/A
+Utopia,60.0,2013-01-15,2014-08-12,"['Drama', 'Science-Fiction', 'Thriller']",Scripted,English,Channel 4,8.4,2,12,2014-08-12,7.31,399.0,/oMY53BtS9vOTAhKgWr2gNYyLBOw.jpg,What have you done to earn your place in this crowded world?,N/A
+Seinfeld,30.0,1989-07-05,1998-05-14,['Comedy'],Scripted,English,NBC,8.4,9,180,1998-05-14,8.282,1671.0,/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg,These pretzels are making me thirsty!,79.0
+Star Trek,60.0,1966-09-08,1969-06-03,"['Action', 'Adventure', 'Science-Fiction']",Scripted,English,NBC,8.4,3,79,1969-06-03,8.1,1122.0,/qD8WmNZ4qDeHEgYktUXvz9ptgQ.jpg,To boldly go where no man has gone before,N/A
+Elementary,60.0,2012-09-27,2019-08-15,"['Drama', 'Crime', 'Mystery']",Scripted,English,CBS,8.3,7,154,2019-08-15,7.572,1465.0,/q9dObe29W4bDpgzUfOOH3ZnzDbR.jpg,New Holmes. New Watson. New York.,73.0
+M*A*S*H,31.0,1972-09-17,1983-02-28,"['Comedy', 'War', 'Medical']",Scripted,English,CBS,8.3,11,251,1983-02-28,7.933,560.0,/6rhuM3oMoEWKxAdrm7IyM8oq8cC.jpg,"Goodbye, Farewell, and Amen.",N/A
+The Knick,60.0,2014-08-08,2015-12-18,"['Drama', 'Medical']",Scripted,English,Cinemax,8.3,3,20,2015-12-18,7.93,374.0,/oeEqDSIVOi6q0GcZj8L9Q6G7fGC.jpg,Modern medicine had to start somewhere.,80.0
+Sons of Anarchy,60.0,2008-09-03,2014-12-09,"['Drama', 'Action', 'Crime']",Scripted,English,FX,8.3,7,92,2014-12-09,8.445,2569.0,/dNNZe7wqrcXgTSbiSlkEaodhm5s.jpg,Let freedom ride.,76.75
+Chuck,60.0,2007-09-24,2012-01-27,"['Drama', 'Comedy', 'Action']",Scripted,English,NBC,8.3,5,91,2012-01-27,7.7,879.0,/vEZvGVVMjk1TRs59nfypTI5lAXj.jpg,Saving the world... At $11 an hour.,73.0
+Boardwalk Empire,60.0,2010-09-19,2014-10-26,"['Drama', 'Crime']",Scripted,English,HBO,8.3,5,56,2014-10-26,7.991,908.0,/kL6SqlVPpfAof2nQbh1VxkUuXBQ.jpg,"When alcohol was outlawed, outlaws became kings.",81.2
+The Killing,60.0,2011-04-03,2014-08-01,"['Drama', 'Crime', 'Thriller']",Scripted,English,AMC,8.3,4,44,2014-08-01,7.873,648.0,/mOzYV3QH5Nwm8CwkVIUmb0Ae0IO.jpg,The past can't be washed away.,68.5
+Doctor Who,25.0,1963-11-23,1996-05-12,"['Action', 'Adventure', 'Science-Fiction']",Scripted,English,BBC One,8.3,26,700,1996-05-12,7.4,2639.0,/sz4zF5z9zyFh8Z6g5IQPNq91cI7.jpg,Space. For all.,76.0
+24,60.0,2001-11-06,2014-09-30,"['Drama', 'Action', 'Thriller']",Scripted,English,FOX,8.3,9,204,2014-09-30,7.792,1330.0,/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg,A lot can happen in a day.,78.62
+The Pacific,60.0,2010-03-14,2010-05-16,"['Drama', 'Action', 'War']",Scripted,English,HBO,8.3,1,10,2010-05-16,7.738,2123.0,/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg,Hell was an ocean away.,86.0
+Mr. Robot,61.0,2015-06-24,2019-12-22,"['Drama', 'Crime', 'Thriller']",Scripted,English,USA Network,8.3,4,45,2019-12-22,8.242,4119.0,/oKIBhzZzDX07SoE2bOLhq2EE8rf.jpg,Control is an illusion.,80.67
+Supernatural,60.0,2005-09-13,2020-11-19,"['Drama', 'Action', 'Supernatural']",Scripted,English,The CW,8.3,15,327,2020-11-19,8.304,6909.0,/KoYWXbnYuS3b0GyQPkbuexlVK9.jpg,Between darkness and deliverance,59.0
+Archer,30.0,2009-09-17,2023-12-17,"['Comedy', 'Action', 'Espionage']",Animation,English,FXX,8.3,14,143,2023-12-17,7.927,1074.0,/o51NY5Zjgh7ridCu93dKOdKftVy.jpg,Spy life is the high life.,79.33
+Poldark,60.0,2015-03-08,2019-08-26,"['Drama', 'Romance']",Scripted,English,BBC One,8.3,5,43,2019-08-26,7.8,248.0,/fTJZHMzlIGSJVPSe7Xz4p5SRwYP.jpg,Loyalty. Bravery. Passion.,72.0
+Humans,60.0,2015-06-14,2018-07-05,"['Drama', 'Science-Fiction', 'Thriller']",Scripted,English,Channel 4,8.2,3,24,2018-07-05,7.5,516.0,/iBjjSGgnjAQBSQGO9pYIh7Gp2PO.jpg,Made in our image. Out of our control.,77.5
+Parks and Recreation,30.0,2009-04-09,2015-02-24,['Comedy'],Scripted,English,NBC,8.2,7,125,2015-02-24,8.0,1250.0,/dDuzrl9rUIBYieZjqmtNCdncrmZ.jpg,Because parks don’t grow on trees.,70.67
+Lost,60.0,2004-09-22,2010-05-23,"['Drama', 'Adventure', 'Supernatural']",Scripted,English,ABC,8.2,6,121,2010-05-23,7.961,3659.0,/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg,Everything happens for a reason.,83.67
+Lost,60.0,2004-09-22,2010-05-23,"['Drama', 'Adventure', 'Supernatural']",Scripted,English,ABC,8.2,6,121,2010-05-23,8.5,15.0,/h2KVyiF5qYjOSQKbEw8ev0dUM5n.jpg,"A 27-year-old man afraid of himself, afraid of becoming nothing.",83.67
+Better Off Ted,30.0,2009-03-18,2010-02-09,['Comedy'],Scripted,English,ABC,8.2,2,26,2010-02-09,7.5,166.0,/u6QkbGwjH0qtGO6Cz9fFi6BxRi2.jpg,They're putting comedy to work.,75.0
+Stargate Universe,60.0,2009-10-02,2011-05-09,"['Action', 'Adventure', 'Science-Fiction']",Scripted,English,Syfy,8.2,2,40,2011-05-09,7.356,605.0,/n23WMoa9y5TYPuKSQjPArpbHr9x.jpg,The Only Mission Is Survival,61.0
+Suits,60.0,2011-06-23,2019-09-25,"['Drama', 'Legal']",Scripted,English,USA Network,8.2,9,134,2019-09-25,8.208,4470.0,/vQiryp6LioFxQThywxbC6TuoDjy.jpg,Two lawyers. One degree.,61.0
+Friday Night Lights,60.0,2006-10-03,2011-02-09,"['Drama', 'Sports']",Scripted,English,NBC,8.2,5,76,2011-02-09,8.074,237.0,/Eu7MzZY1DldJ683z7vLkILHNRD.jpg,Clear eyes. Full hearts. Can't lose!,83.6
+Prison Break,60.0,2005-08-29,2017-05-30,"['Drama', 'Crime', 'Thriller']",Scripted,English,FOX,8.2,5,88,2017-05-30,8.094,4508.0,/z885tJn5kkUHppjIK1g2Q54iTff.jpg,Break in. Break out. Save your brother's life.,56.5
+Halt and Catch Fire,60.0,2014-06-01,2017-10-14,['Drama'],Scripted,English,AMC,8.2,4,40,2017-10-14,8.014,403.0,/iABJ86eaNPUSnivk89Y0Cnxmsvy.jpg,What are you searching for?,79.25
+Mad Men,60.0,2007-07-19,2015-05-17,['Drama'],Scripted,English,AMC,8.2,7,92,2015-05-17,8.105,1023.0,/7v8iCNzKFpdlrCMcqCoJyn74Nsa.jpg,Where the truth lies.,86.12
+Doctor Who,48.0,2005-03-26,2022-10-23,"['Drama', 'Adventure', 'Science-Fiction']",Scripted,English,BBC One,8.2,13,153,2022-10-23,7.4,2639.0,/sz4zF5z9zyFh8Z6g5IQPNq91cI7.jpg,Space. For all.,76.0
+Angel,60.0,1999-10-05,2004-05-19,"['Drama', 'Action', 'Supernatural']",Scripted,English,The WB,8.2,5,110,2004-05-19,7.953,828.0,/yC7F367aFSOzsPEvEmzmKtIXyfX.jpg,Lost souls saved nightly.,75.0
+Six Feet Under,60.0,2001-06-03,2005-08-21,"['Drama', 'Comedy']",Scripted,English,HBO,8.2,5,63,2005-08-21,8.115,816.0,/ztuH5aJIZQpu5ci27tY2nx1gwjO.jpg,Life is wasted on the living.,74.0
+The Mentalist,60.0,2008-09-23,2015-02-18,"['Drama', 'Crime', 'Mystery']",Scripted,English,CBS,8.2,7,151,2015-02-18,8.39,3378.0,/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg,Let the mind games begin.,65.0
+Westworld,63.0,2016-10-02,2022-08-14,"['Drama', 'Science-Fiction', 'Western']",Scripted,English,HBO,8.2,4,36,2022-08-14,8.075,4948.0,/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg,These violent delights have violent ends.,69.5
+Star Trek: Voyager,60.0,1995-01-16,2001-05-23,"['Action', 'Adventure', 'Science-Fiction']",Scripted,English,UPN,8.2,7,172,2001-05-23,7.87,792.0,/gNS5tRSG3UlXodCxznKKOKweqxh.jpg,Charting the new frontier,66.0
+Hannibal,60.0,2013-04-04,2015-08-29,"['Drama', 'Crime', 'Horror']",Scripted,English,NBC,8.2,3,39,2015-08-29,8.23,2121.0,/pbV2eLnKSIm1epSZt473UYfqaeZ.jpg,Savor the hunt,80.67
+Mr. Bean,30.0,1990-01-01,1995-11-15,"['Comedy', 'Family']",Scripted,English,ITV1,8.2,1,14,1995-11-15,7.967,1150.0,/pUNQV35kDaKuejnXGNiUeEBurNE.jpg,The Amazing Mr. Bean!,N/A
+White Collar,60.0,2009-10-23,2014-12-18,"['Drama', 'Comedy', 'Crime']",Scripted,English,USA Network,8.2,6,81,2014-12-18,8.3,1205.0,/417XNiGvdzCsG9kDnnQJYaBsIrx.jpg,"To solve the hardest crimes, hire the smartest criminal.",79.0
+The Venture Bros.,30.0,2003-02-16,2023-07-21,"['Comedy', 'Adventure']",Animation,English,Adult Swim,8.2,7,81,2023-07-21,7.749,169.0,/ckQE1aLYQkRpp2HmHljiELAiOr1.jpg,Cockpits! Booby traps!,N/A
+Homeland,60.0,2011-10-02,2020-04-26,"['Drama', 'Thriller', 'Espionage']",Scripted,English,Showtime,8.2,8,96,2020-04-26,7.544,1969.0,/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg,The nation sees a hero. She sees a threat..,79.14
+Castle,60.0,2009-03-09,2016-05-16,"['Drama', 'Crime']",Scripted,English,ABC,8.2,8,173,2016-05-16,8.012,1632.0,/diXBeMzvfJb2iJg3G0kCUaMCzEc.jpg,A whole new chapter in crime solving.,54.0
+Leverage,60.0,2008-12-07,2012-12-25,"['Drama', 'Action', 'Crime']",Scripted,English,TNT,8.1,5,77,2012-12-25,7.559,313.0,/t5KJXooBqJLKUClpvYuSKNrcYGy.jpg,The art of the con,68.0
+Brooklyn Nine-Nine,30.0,2013-09-17,2021-09-16,"['Comedy', 'Action', 'Crime']",Scripted,English,NBC,8.1,8,153,2021-09-16,8.236,2875.0,/hgRMSOt7a1b8qyQR68vUixJPang.jpg,The law. Without the order.,75.5
+Bones,60.0,2005-09-13,2017-03-28,"['Drama', 'Crime', 'Medical']",Scripted,English,FOX,8.1,12,246,2017-03-28,8.264,2891.0,/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg,Every body has secrets.,55.0
+Bones,60.0,2005-09-13,2017-03-28,"['Drama', 'Crime', 'Medical']",Scripted,English,FOX,8.1,12,246,2017-03-28,8.5,2.0,/g007gi75guayxAgsNAjFhDUmogN.jpg,Everything has its breaking point.,55.0
+Life,60.0,2007-09-26,2009-04-08,"['Drama', 'Crime']",Scripted,English,NBC,8.1,2,32,2009-04-08,8.3,308.0,/lk6lrS81gDVGMAErTwEL9308kq1.jpg,"Four years, 3000 filming days, ten part blockbuster.",N/A
+The Blacklist,60.0,2013-09-23,2023-07-13,"['Drama', 'Crime', 'Thriller']",Scripted,English,NBC,8.1,10,218,2023-07-13,7.619,2834.0,/r935SMphvXppx5bJjbIBNx02fwc.jpg,Never trust a criminal... Until you have to.,74.0
+Ray Donovan,60.0,2013-06-30,2022-01-14,"['Drama', 'Action', 'Crime']",Scripted,English,Showtime,8.1,7,82,2022-01-14,7.539,675.0,/zxftW7ZGVrOCqH2ifuruieCTb5X.jpg,Some damage can't be controlled.,73.0
+Gilmore Girls,60.0,2000-10-05,2007-05-15,"['Drama', 'Comedy', 'Romance']",Scripted,English,The CW,8.1,7,153,2007-05-15,7.929,848.0,/d2Aw8BloAZQTmXMjNoy2M6KekLi.jpg,Life's short. Talk fast.,78.0
+Pushing Daisies,60.0,2007-10-03,2009-06-13,"['Drama', 'Mystery', 'Supernatural']",Scripted,English,ABC,8.1,2,22,2009-06-13,7.864,334.0,/oSRO8cGvve0pggPK9gHGItfl4j5.jpg,A touch of romance. A touch of mystery. A touch of magic.,84.5
+Dead Like Me,61.0,2003-06-27,2004-10-31,"['Drama', 'Comedy', 'Supernatural']",Scripted,English,Showtime,8.1,2,29,2004-10-31,7.651,381.0,/o5wnviUMWiQALNFxKKtE72MowQQ.jpg,Life for her was boring. Death is anything but.,N/A
+Alias,60.0,2001-09-30,2006-05-22,"['Drama', 'Action', 'Espionage']",Scripted,English,ABC,8.1,5,105,2006-05-22,6.708,554.0,/Dl3KIxWlSEvnXogNHxdXA4pbAk.jpg,She can be anyone,76.0
+Torchwood,53.0,2006-10-22,2011-09-09,"['Drama', 'Science-Fiction']",Scripted,English,STARZ,8.1,4,41,2011-09-09,7.3,440.0,/8fxK9SMaKvQMI4a4VAclf2qEtpD.jpg,Save the Planet (One Alien at a Time),N/A
+Psych,60.0,2006-07-07,2021-11-18,"['Drama', 'Comedy', 'Crime']",Scripted,English,USA Network,8.1,8,119,2021-11-18,7.879,673.0,/fDI15gTVbtW5Sbv5QenqecRxWKJ.jpg,Fake psychic. Real detectives.,59.0
+Forever,60.0,2014-09-22,2015-05-05,"['Drama', 'Crime', 'Supernatural']",Scripted,English,ABC,8.1,1,22,2015-05-05,7.77,488.0,/4OnnU4j2tQEOnsPnRZswW91v9vr.jpg,Who says you only live once?,N/A
+The Middle,30.0,2009-09-30,2018-05-22,"['Comedy', 'Family']",Scripted,English,ABC,8.1,9,215,2018-05-22,7.555,573.0,/u6FluiFx3ocVS0MgZszfpPKXT2p.jpg,"Oh, and your family's so perfect.",70.0
+Northern Exposure,60.0,1990-07-12,1995-07-26,"['Drama', 'Comedy']",Scripted,English,CBS,8.1,6,110,1995-07-26,7.9,131.0,/4yPQY1PcH7W2j3fTE77xQcoEgbZ.jpg,"Welcome to Cicely, Alaska",81.5
+Only Fools and Horses,35.0,1981-09-08,2003-12-25,['Comedy'],Scripted,English,BBC One,8.1,7,45,2003-12-25,8.0,234.0,/8QznQBwr4aqPIQTiymL7obM3qOK.jpg,Cushty!,N/A
+Steven Universe,16.0,2013-11-04,2019-01-21,"['Action', 'Adventure', 'Science-Fiction']",Animation,English,Cartoon Network,8.1,5,154,2019-01-21,8.458,1051.0,/gKUuGaeZ9qiJ9Spoq0LrANQSN5x.jpg,Believe in Steven.,N/A
+MacGyver,60.0,1985-09-29,1994-11-24,"['Action', 'Adventure']",Scripted,English,ABC,8.1,7,139,1994-11-24,7.323,840.0,/2zAogx9dmSAu2HYxbWzHe4ZaNY5.jpg,No man has done more with less.,N/A
+MacGyver,60.0,1985-09-29,1994-11-24,"['Action', 'Adventure']",Scripted,English,ABC,8.1,7,139,1994-11-24,7.745,717.0,/nLMziyY3Z98fbrPC4e6RwLNPWl2.jpg,His mind is the ultimate weapon.,N/A
+Cheers,30.0,1982-09-30,1993-05-20,['Comedy'],Scripted,English,NBC,8.1,11,273,1993-05-20,7.588,505.0,/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg,Where everybody knows your name.,80.0
+Ripper Street,62.0,2012-12-30,2016-10-12,"['Drama', 'Crime', 'Mystery']",Scripted,English,BBC Two,8.1,5,36,2016-10-12,7.398,147.0,/6w8yKYsA7RkuyauW224kBZQebFt.jpg,The law for the lawless.,72.0
+Charmed,60.0,1998-10-07,2006-05-21,"['Drama', 'Romance', 'Supernatural']",Scripted,English,The WB,8.1,8,178,2006-05-21,8.189,2068.0,/z4bPJ1BWU2EtV69NII2GVvsugQ2.jpg,"Once lucky, Twice smart, Three times Charmed",61.0
+Charmed,60.0,1998-10-07,2006-05-21,"['Drama', 'Romance', 'Supernatural']",Scripted,English,The WB,8.1,8,178,2006-05-21,7.347,383.0,/doXHjfOtEmX8kEq1tsMnNqq9YLZ.jpg,Reclaim your power.,61.0
+Review,30.0,2014-03-06,2017-03-30,['Comedy'],Scripted,English,Comedy Central,8.0,3,22,2017-03-30,7.7,39.0,/zT7Ujia53WOHsIh5FMprro8ia2Y.jpg,Life: it's literally all we have. But is it any good?,71.0
+Combat!,60.0,1962-10-02,1967-03-14,"['Drama', 'War']",Scripted,English,ABC,8.0,5,152,1967-03-14,7.5,92.0,/4Xk9VQ5Xa6jkRHBINkHiRzRNgde.jpg,"On television, war is heck.",N/A
+Queer As Folk,60.0,2000-12-03,2005-08-07,"['Drama', 'Romance']",Scripted,English,Showtime,8.0,5,83,2005-08-07,8.287,458.0,/mmhL30PonbrrpEOQH5OdyUguyMg.jpg,You know you want it.,N/A
+Life on Mars,60.0,2006-01-09,2007-04-10,"['Drama', 'Crime', 'Science-Fiction']",Scripted,English,BBC One,8.0,2,16,2007-04-10,7.808,226.0,/kFmhMpfyCVsu8AdJmz0xzULUduZ.jpg,"Is he mad, in a coma… or has Detective Sam Tyler really travelled back in time?",N/A
+Life on Mars,60.0,2006-01-09,2007-04-10,"['Drama', 'Crime', 'Science-Fiction']",Scripted,English,BBC One,8.0,2,16,2007-04-10,6.519,79.0,/opP6O99cWRZ9tfdPaLsWefbcPRs.jpg,A modern day cop in a 1973 world.,N/A
+Rizzoli & Isles,60.0,2010-07-12,2016-09-05,"['Drama', 'Crime']",Scripted,English,TNT,8.0,7,105,2016-09-05,7.982,381.0,/dm80vpySzVtLiVAVJirmxIyQn8H.jpg,Little girls are sugar and spice...and everything vice,61.0
+Burn Notice,60.0,2007-06-28,2013-09-12,"['Drama', 'Action', 'Crime']",Scripted,English,USA Network,8.0,7,111,2013-09-12,7.489,424.0,/o2fnD3SNiQjGVgA2C3ezaeh2HK.jpg,"Spies don't get fired, they get burned",72.0
+Gunsmoke,58.0,1955-09-10,1975-03-31,"['Action', 'Adventure', 'Western']",Scripted,English,CBS,8.0,20,635,1975-03-31,6.7,86.0,/x7WjYizqcrA64xi9XLqUWCz5DNk.jpg,Get out of Dodge!,N/A
+Southland,60.0,2009-04-09,2013-04-17,"['Drama', 'Crime', 'Thriller']",Scripted,English,FOX,8.0,5,43,2013-04-17,7.968,141.0,/pMwmVO4929JYTh8jl3HiFsap4qI.jpg,Protect. Serve. Survive.,79.8
+The Tudors,60.0,2007-04-01,2010-06-20,"['Drama', 'History']",Scripted,English,Showtime,8.0,4,38,2010-06-20,7.838,606.0,/tGdf0NIGXrEnFQezRxh9UoT1Baa.jpg,It's Good to Be King.,66.0
+Freaks and Geeks,60.0,1999-09-25,2000-07-08,"['Drama', 'Comedy']",Scripted,English,NBC,8.0,1,18,2000-07-08,8.1,627.0,/tPqV63zcW6ZV0Hd48DMGb5UzQIG.jpg,What high school was like for the rest of us.,88.0
+Yonderland,30.0,2013-11-10,2016-12-04,"['Comedy', 'Fantasy']",Scripted,English,Sky Showcase,8.0,3,24,2016-12-04,7.583,12.0,/pUMoOTyZvmi15C7c7MgxIXf7Ye3.jpg,She's the Chosen one!,N/A
+Blue Mountain State,30.0,2010-01-11,2011-11-30,"['Comedy', 'Sports']",Scripted,English,Paramount Network,8.0,3,39,2011-11-30,7.54,348.0,/dPWBuJZa9ARvDTvHBQnwcGic8ue.jpg,Go long. Go deep. Go state!,N/A
+The Big Bang Theory,30.0,2007-09-24,2019-05-16,['Comedy'],Scripted,English,CBS,8.0,12,279,2019-05-16,7.879,10322.0,/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg,Smart is the new sexy.,57.0
+The Prisoner,50.0,1967-10-01,1968-02-04,"['Drama', 'Science-Fiction', 'Mystery']",Scripted,English,ITV1,8.0,1,17,1968-02-04,7.8,159.0,/1FtqAlj6jsBk25PKwL2NrgzdFSo.jpg,No man is just a number.,45.0
+The Night Shift,60.0,2014-05-27,2017-08-31,"['Drama', 'Action', 'Medical']",Scripted,English,NBC,8.0,4,45,2017-08-31,7.632,209.0,/qSfjudewdGEHAva8LvlbyH0ydof.jpg,Night falls. Duty Calls.,45.0
+Jericho,60.0,2006-09-20,2008-03-25,"['Drama', 'Action', 'Science-Fiction']",Scripted,English,CBS,8.0,2,29,2008-03-25,7.1,20.0,/fNQhxTLPz877SrblqUxd9XOuMLP.jpg,Yesterday wilderness. Tomorrow civilisation.,60.0
+Terriers,60.0,2010-09-08,2010-12-01,"['Drama', 'Comedy', 'Crime']",Scripted,English,FX,8.0,1,13,2010-12-01,8.167,81.0,/51T6VEO74kijlt2SDowGiiq0Cti.jpg,They'll solve anything for the right price.,75.0
+The Fall,62.0,2013-05-13,2016-10-28,"['Drama', 'Crime', 'Thriller']",Scripted,English,BBC Two,8.0,3,17,2016-10-28,7.724,717.0,/77g1S4HFtvjbvaCqxLsqOSsp2cL.jpg,A killer within reach.,N/A
+Peep Show,30.0,2003-09-19,2015-12-16,['Comedy'],Scripted,English,Channel 4,8.0,9,54,2015-12-16,8.013,309.0,/6rdoQ0cTjsEQLIwEjhBV8U98oUm.jpg,Welcome to the private world of Jeremy and Mark - two very ordinary weirdos.,N/A
+Rescue Me,60.0,2004-07-21,2011-09-07,"['Drama', 'Comedy']",Scripted,English,FX,8.0,7,93,2011-09-07,7.7,136.0,/2N3VPD5wqqwxJZJ0lpMaFPTAzDU.jpg,"They save us, but who saves them?",84.0
+Parenthood,60.0,2010-03-02,2015-01-29,"['Drama', 'Comedy', 'Family']",Scripted,English,NBC,8.0,6,103,2015-01-29,7.319,119.0,/9KjKLJrrUI1sU9bNsQaQ5H8kTyY.jpg,Life divides. Family unites.,61.0
+"I, Claudius",50.0,1976-09-20,1976-12-06,"['Drama', 'History']",Scripted,English,BBC Two,8.0,1,13,1976-12-06,7.9,95.0,/1EgS8DxHeRwoEYhIZF0D3YbTdxK.jpg,Let all the poisons that lurk in the mud hatch out.,N/A
+Married... with Children,30.0,1987-04-05,1997-06-09,"['Comedy', 'Family']",Scripted,English,FOX,8.0,11,259,1997-06-09,7.7,883.0,/qxdOgESOkBMmfcWUizL01mbdqzl.jpg,Domestic bliss was never like this!,N/A
+Extras,30.0,2005-07-21,2006-10-19,['Comedy'],Scripted,English,BBC Two,8.0,2,12,2006-10-19,7.8,315.0,/oxiA2O4wRBCOzvfxYjNKZQuitQc.jpg,"Big, big big, stars. And this guy.",84.5
+Marvel's Agents of S.H.I.E.L.D.,60.0,2013-09-24,2020-08-12,"['Action', 'Adventure', 'Science-Fiction']",Scripted,English,ABC,8.0,7,136,2020-08-12,7.492,3221.0,/gHUCCMy1vvj58tzE3dZqeC9SXus.jpg,Not all heroes are super.,N/A
+Houdini,120.0,2014-09-01,2014-09-02,['Drama'],Scripted,English,History,8.0,1,2,2014-09-02,6.994,255.0,/ba43f5KXfH01ipDmDR4lZSQyDkL.jpg,He Knew No Limits,51.0
+Lie to Me,60.0,2009-01-21,2011-01-31,"['Drama', 'Crime', 'Mystery']",Scripted,English,FOX,8.0,3,48,2011-01-31,7.935,1313.0,/rrTeGVXHqppoTUydoWV6bCzZs1W.jpg,They're undeceivable.,64.0
+Continuum,60.0,2012-05-27,2015-10-09,"['Drama', 'Crime', 'Science-Fiction']",Scripted,English,Showcase,8.0,4,42,2015-10-09,7.534,747.0,/s2rTk8cNuaeyaLhrd3PIKCFyYZ9.jpg,The future is in her hands.,N/A
+Star Wars: Clone Wars,5.0,2003-11-07,2005-03-25,"['Action', 'Family', 'Science-Fiction']",Animation,English,Cartoon Network,8.0,3,25,2005-03-25,7.724,331.0,/2lsuke69bRdyB1sxtKmavtwkc35.jpg,"Spread like fire, the Clone Wars have!",N/A
+Lost Girl,60.0,2010-09-12,2015-10-25,"['Drama', 'Fantasy', 'Horror']",Scripted,English,Showcase,8.0,5,77,2015-10-25,7.817,378.0,/jE6sqorxIyVU55VhDbz7NbqxZlV.jpg,The underworld has a new hero.,68.0
+The Lost Room,90.0,2006-12-11,2006-12-13,"['Drama', 'Science-Fiction', 'Thriller']",Scripted,English,Syfy,8.0,1,3,2006-12-13,7.8,386.0,/ixfo1ysvboBxYehdDDC9D0T3Q33.jpg,Some doors are better left closed.,58.0
+The Rockford Files,60.0,1974-03-27,1980-01-10,"['Drama', 'Action', 'Crime']",Scripted,English,NBC,8.0,6,123,1980-01-10,7.5,82.0,/dN1r26OF2eHTVqryoDTHM7TETI6.jpg,"This is Jim Rockford. At the tone leave your name and message, I'll get back to you.",N/A
+Columbo,108.0,1968-02-20,2003-01-30,"['Drama', 'Crime', 'Mystery']",Scripted,English,ABC,8.0,20,69,2003-01-30,8.048,570.0,/ypIU92ah9ytKWhDyJJCFoZitbOJ.jpg,"Oh, just one more thing...",N/A
+The Musketeers,60.0,2014-01-19,2016-08-01,"['Drama', 'Action', 'Adventure']",Scripted,English,BBC One,8.0,3,30,2016-08-01,6.939,155.0,/6kOMlk4hlavwO5L82eLdklN0fm5.jpg,For love. For honor. For adventure.,69.0
+Spooks,60.0,2002-05-13,2011-10-23,"['Drama', 'Thriller', 'Espionage']",Scripted,English,BBC One,8.0,10,86,2011-10-23,7.712,104.0,/5kODxCYihuM49oQWke6GfHdsRT6.jpg,It's a fine line between safety and terror. Meet the rulers.,N/A
+Coupling,30.0,2000-05-12,2004-06-14,"['Comedy', 'Romance']",Scripted,English,BBC Three,8.0,4,28,2004-06-14,7.924,249.0,/dWfEw2YPrpKwHxH2K9SloCcMrnI.jpg,The naughty new comedy about nothing...but SEX!,N/A
+Tales from the Crypt,30.0,1989-06-10,1996-07-19,"['Comedy', 'Fantasy', 'Horror']",Scripted,English,HBO,8.0,7,93,1996-07-19,7.961,775.0,/sEQmw4B2eaPWGMlpvbRuzEn2QP4.jpg,Dead-On Humor and Horror.,N/A
+My So-Called Life,60.0,1994-08-25,1995-01-26,['Drama'],Scripted,English,ABC,8.0,1,19,1995-01-26,7.559,112.0,/kuyxEBpuAYdfHqfzip2Y6UYRI2C.jpg,You know how it feels.,92.0
+Monk,60.0,2002-07-12,2023-12-08,"['Drama', 'Comedy', 'Crime']",Scripted,English,USA Network,8.0,8,124,2023-12-08,7.895,897.0,/l7XKtJwl4uxXkbpHdJ3JAfBwRfl.jpg,Obsessive. Compulsive. Detective.,75.0
+John Adams,70.0,2008-03-16,2008-04-20,"['Drama', 'History']",Scripted,English,HBO,8.0,1,7,2008-04-20,7.804,247.0,/34qRIcLKkTpmM9x9gzm9nKvo5pW.jpg,He United the States of America.,78.0
+Frasier,30.0,1993-09-16,2004-05-13,['Comedy'],Scripted,English,NBC,8.0,12,264,2004-05-13,7.7,666.0,/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg,I'm listening.,80.0
+That '70s Show,30.0,1998-08-23,2006-05-18,['Comedy'],Scripted,English,FOX,8.0,8,200,2006-05-18,7.989,1253.0,/1rzL6DVmCSZ3jzLFon8mhYcRsUK.jpg,Be groovy... be very groovy!,64.0
+The Legend of Korra,30.0,2012-04-14,2014-12-19,"['Action', 'Adventure', 'Fantasy']",Animation,English,Nickelodeon,8.0,4,52,2014-12-19,8.253,1841.0,/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg,Only the Avatar can master all four elements.,N/A
+TURN: Washington's Spies,60.0,2014-04-06,2017-08-12,"['Drama', 'War']",Scripted,English,AMC,8.0,4,40,2017-08-12,7.2,202.0,/AehTUycX0VSvCkOOkZzurLnjHsS.jpg,Pledge Defiance,N/A
+Rectify,62.0,2013-04-22,2016-12-14,"['Drama', 'Crime']",Scripted,English,SundanceTV,8.0,4,30,2016-12-14,7.6,231.0,/tm9nQe9165cyjnTz8NB50izwcpJ.jpg,Sentenced to die. Condemned to live.,90.5
+Olive Kitteridge,60.0,2014-11-02,2014-11-03,['Drama'],Scripted,English,HBO,8.0,1,4,2014-11-03,7.582,214.0,/2tuB2kGd4is7tFMhcOTfEGB96lm.jpg,There's no such thing as a simple life.,89.0
+Kingdom,60.0,2014-10-08,2017-08-02,"['Drama', 'Family', 'Sports']",Scripted,English,Audience Network,8.0,3,40,2017-08-02,6.9,107.0,/xkRyopANOnO60KWm6DjozXlq9w4.jpg,One of the strong,N/A
+Boston Legal,60.0,2004-10-03,2008-12-08,"['Drama', 'Comedy', 'Legal']",Scripted,English,ABC,8.0,5,101,2008-12-08,7.9,275.0,/eQyJoKFGUTlytx9f2zNjqmMOR82.jpg,Just when you thought it was safe to go back into the courtroom.,69.0
+Limitless,60.0,2015-09-22,2016-04-26,"['Drama', 'Crime', 'Science-Fiction']",Scripted,English,CBS,8.0,1,22,2016-04-26,7.3,734.0,/l5BERaKn3ozRTLhoylIiNwMDvax.jpg,Open your mind.,N/A
+Ash vs Evil Dead,30.0,2015-10-31,2018-04-29,"['Comedy', 'Action', 'Horror']",Scripted,English,STARZ,8.0,3,30,2018-04-29,7.688,1427.0,/zsX1atjvymc4CKu72jE400QJGzL.jpg,It's time to test the mettle of man,N/A
+Homicide: Life on the Street,60.0,1993-01-31,2000-02-13,"['Drama', 'Crime', 'Mystery']",Scripted,English,NBC,8.0,8,122,2000-02-13,8.178,104.0,/nb5310xlFjx5r9TnpKoaOTQsAlP.jpg,Homicide: our day begins when yours ends.,94.0
+Bates Motel,60.0,2013-03-18,2017-04-24,"['Drama', 'Horror', 'Thriller']",Scripted,English,A&E,8.0,5,50,2017-04-24,8.102,1441.0,/xXKcfZE7ulYxgjjYv51s0zDG69s.jpg,She wouldn't even harm a fly.,71.33
+Human Target,60.0,2010-01-17,2011-02-09,"['Action', 'Adventure', 'Crime']",Scripted,English,FOX,8.0,2,25,2011-02-09,7.217,129.0,/28DQmHuzVetpvq3dcK0snfEXflG.jpg,He's a guardian. Not an angel,70.0
+The Glades,60.0,2010-07-11,2013-08-26,"['Drama', 'Action', 'Crime']",Scripted,English,A&E,8.0,4,49,2013-08-26,7.131,99.0,/44mkq0KpOngpJSs22m0LdP37Jpp.jpg,Sunny with a chance of homicide,64.0
+Monty Python's Flying Circus,30.0,1969-10-05,1974-12-05,['Comedy'],Variety,English,BBC One,8.0,4,45,1974-12-05,8.253,538.0,/jugMPE9rTDySDyirqeDssPJLNQy.jpg,And now for something completely different...,N/A
+Teen Wolf,60.0,2011-06-05,2023-01-26,"['Drama', 'Romance', 'Supernatural']",Scripted,English,MTV,8.0,6,100,2023-01-26,8.569,3803.0,/fmlMmxSBgPEunHS5gjokIej048g.jpg,Watch your pack.,61.0
+Twin Peaks,62.0,1990-04-08,2017-09-03,"['Crime', 'Mystery', 'Supernatural']",Scripted,English,Showtime,8.0,3,48,2017-09-03,8.295,1775.0,/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg,A town where everyone knows everyone and nothing is what it seems.,85.0
+Smallville,60.0,2001-10-16,2011-05-13,"['Drama', 'Adventure', 'Science-Fiction']",Scripted,English,The CW,8.0,10,217,2011-05-13,8.232,3730.0,/pUhJGETy2sec4vEkiqJ9eGeIywc.jpg,Every story has a beginning.,75.0
+Veep,30.0,2012-04-22,2019-05-12,['Comedy'],Scripted,English,HBO,8.0,7,65,2019-05-12,7.4,352.0,/rsP68RZwUkhdi47hE8AEPLQNVfQ.jpg,The buck stops somewhere near here.,83.71
+Sanctuary,60.0,2008-10-03,2011-12-30,"['Drama', 'Adventure', 'Science-Fiction']",Scripted,English,Syfy,8.0,4,59,2011-12-30,7.218,211.0,/7KIBYETkRSfHNsfWAWAt7uq7oGm.jpg,Some hide. They seek.,56.0
+The Comeback,30.0,2005-06-05,2014-12-28,['Comedy'],Scripted,English,HBO,8.0,2,21,2014-12-28,7.5,38.0,/mYDVwE8vDniLnxNLo2w1zKqZeBr.jpg,A star is reborn.,64.5
+The Leftovers,61.0,2014-06-29,2017-06-04,"['Drama', 'Science-Fiction', 'Thriller']",Scripted,English,HBO,8.0,3,28,2017-06-04,7.6,857.0,/ri8xr223xBb2TeHX3GKypvQPV2B.jpg,We're still here.,81.0
+Galavant,30.0,2015-01-04,2016-01-31,"['Comedy', 'Fantasy', 'Music']",Scripted,English,ABC,8.0,2,18,2016-01-31,7.268,125.0,/3q9a5WFsf08v8RQYVfI2DzNd7B4.jpg,Sing his name.,61.0
+Carnivàle,60.0,2003-09-14,2005-03-27,"['Drama', 'Fantasy', 'Horror']",Scripted,English,HBO,8.0,2,24,2005-03-27,7.969,353.0,/5pKvfZ3qLuKJd8PQfKcPxN9jTO9.jpg,Into each generation is born a creature of light and a creature of darkness.,N/A
+Invader ZIM,30.0,2001-03-30,2006-08-19,['Children'],Animation,English,Nickelodeon,8.0,2,46,2006-08-19,8.434,350.0,/h9T3oTwclpHP13BeutA7wQjEC4r.jpg,Bow down and prepare for DOOM!,N/A
+ER,60.0,1994-09-19,2009-04-02,"['Drama', 'Medical']",Scripted,English,NBC,8.0,15,331,2009-04-02,7.845,719.0,/fuS63AoFTkprf8PFeL1f8z68zJr.jpg,Life. Death. Chaos. It's all in a day's work.,80.0
+The Outer Limits,60.0,1963-09-16,1965-01-16,"['Drama', 'Science-Fiction']",Scripted,English,ABC,8.0,2,49,1965-01-16,7.9,120.0,/f6IxRbfpfOiJgs15DG42s4BbCb6.jpg,There is nothing wrong with your television. Do not attempt to adjust the picture.,N/A
+Soap,30.0,1977-09-13,1981-05-25,['Comedy'],Scripted,English,ABC,8.0,4,90,1981-05-25,7.2,47.0,/kq2G0SjdVcZnKh5cpq9hp0MKvWL.jpg,Soap: the TV show that made Soap Operas funny!,N/A
+The Untouchables,60.0,1959-10-15,1963-05-21,"['Drama', 'Action', 'Crime']",Scripted,English,ABC,8.0,4,118,1963-05-21,7.822,107.0,/80IDXgaHmcxj6CKRImkpHjnIMcd.jpg,The true story of FBI man Eliot Ness's savage war on the notorious mobsters Al Capone left behind!,N/A
+Samurai Jack,30.0,2001-08-10,2017-05-20,"['Action', 'Adventure']",Animation,English,Adult Swim,8.0,5,62,2017-05-20,8.453,650.0,/ddZ7Q2WZ0xAHkVXYvcEgNGFgVkw.jpg,Death is failure,N/A
+Shameless,60.0,2004-01-13,2013-05-28,"['Drama', 'Comedy', 'Family']",Scripted,English,Channel 4,8.0,11,138,2013-05-28,8.2,2268.0,/9akij7PqZ1g6zl42DQQTtL9CTSb.jpg,"The Gallaghers. Absolutely, Wildly, Unapologetically... Shameless",N/A
+Quantum Leap,60.0,1989-03-26,1993-05-05,"['Drama', 'Action', 'Science-Fiction']",Scripted,English,NBC,8.0,5,96,1993-05-05,8.068,612.0,/ujIGP3e3V6kDQHRhjNYtUE3fHJi.jpg,Oh Boy!,61.0
+Quantum Leap,60.0,1989-03-26,1993-05-05,"['Drama', 'Action', 'Science-Fiction']",Scripted,English,NBC,8.0,5,96,1993-05-05,7.222,72.0,/zyNyPN9XRJrkyphvKcF1OKVeesk.jpg,One leap can change everything.,61.0
+The Avengers,60.0,1961-01-07,1969-05-21,"['Comedy', 'Action', 'Crime']",Scripted,English,ITV1,8.0,6,161,1969-05-21,7.847,111.0,/uU7CrpWkD7W04HBpuK4CSbtSKRi.jpg,"Mrs Peel, We're Needed!",N/A
+Police Squad!,30.0,1982-03-04,1982-07-08,"['Comedy', 'Crime']",Scripted,English,ABC,8.0,1,6,1982-07-08,7.8,304.0,/bWpzkpnFCQ50NgObaP5it2MiagQ.jpg,When these cops crack down on crime... you crack up with laughter!,N/A
+Ironside,61.0,1967-03-28,1993-05-04,"['Drama', 'Crime']",Scripted,English,NBC,8.0,8,193,1993-05-04,5.395,19.0,/f14yvzQg1xEpK3rQGdlApltJki4.jpg,His team. His town. His rules.,N/A
+Human Planet,60.0,2011-01-13,2011-03-03,['Nature'],Documentary,English,BBC One,8.0,1,8,2011-03-03,8.32,161.0,/bjhP5yIeyWMRMxJdLjBuiIf255X.jpg,Natural born survivors.,N/A
+Millennium,60.0,1996-10-25,1999-05-21,"['Drama', 'Crime', 'Mystery']",Scripted,English,FOX,8.0,3,67,1999-05-21,7.679,224.0,/qi69yoYHNL30Mznult8mQc2dngu.jpg,We don't want to scare you. We want to terrify you.,N/A
+The League of Gentlemen,30.0,1999-01-11,2017-12-20,['Comedy'],Scripted,English,BBC Two,8.0,4,21,2017-12-20,7.6,95.0,/wLAWxtYXvqUo4uVwiVsU7ACui6w.jpg,Welcome to Royston Vasey. You'll Never Leave!,N/A
+Over the Garden Wall,11.0,2014-11-03,2014-11-07,"['Drama', 'Fantasy', 'Mystery']",Animation,English,Cartoon Network,8.0,1,10,2014-11-07,8.538,1230.0,/m3lU8n7WxzMecxKZcqhq5y5ESy.jpg,Will you take a peek?,N/A
+Snowfall,64.0,2017-07-05,2023-04-19,"['Drama', 'Crime']",Scripted,English,FX,8.0,6,60,2023-04-19,8.549,317.0,/y7ntzl7msiaS6o7dvDbNG7XFYcR.jpg,An empire is built brick by brick.,62.0
+Pride and Prejudice,52.0,1995-09-24,1995-10-29,"['Drama', 'Romance']",Scripted,English,BBC One,8.0,1,6,1995-10-29,8.222,405.0,/rlqOyCEaZuKoYTI1vhZ0kVyCTV7.jpg,The celebrated BBC dramatisation of a classic romance,N/A
+Waking the Dead,60.0,2000-09-04,2011-04-11,"['Drama', 'Crime']",Scripted,English,BBC One,7.9,9,92,2011-04-11,7.6,27.0,/pthoQb9tOrM0gi43ZER4cOKgm8D.jpg,A second chance to catch the killer!,N/A
+The Lying Game,60.0,2011-08-15,2013-03-12,"['Drama', 'Thriller']",Scripted,English,Freeform,7.9,2,30,2013-03-12,7.0,60.0,/nH6qbWjBJf9ZzqVrwyO17gQZMdh.jpg,A lost twin. A dark secret. A deadly game.,N/A
+The Dresden Files,60.0,2007-01-21,2007-04-15,"['Drama', 'Fantasy', 'Mystery']",Scripted,English,Syfy,7.9,1,12,2007-04-15,6.974,78.0,/rujRcP9fZAk7Sq0U8iDITOXouCW.jpg,"If you need help, call the cops. If you need a miracle, call Harry Dresden",55.0
+Magnum P.I.,60.0,1980-12-11,1988-05-01,"['Drama', 'Action', 'Mystery']",Scripted,English,CBS,7.9,8,162,1988-05-01,7.7,246.0,/srJGLcgZqjo6Ojt62IbGaO8TurC.jpg,He’ll have you at aloha.,N/A
+Battlestar Galactica,60.0,1978-09-17,1979-04-29,"['Action', 'Adventure', 'Science-Fiction']",Scripted,English,ABC,7.9,1,24,1979-04-29,8.226,1343.0,/99PJSbcO2LeM10uOGWeFihNp77j.jpg,So say we all!,N/A
+Battlestar Galactica,60.0,1978-09-17,1979-04-29,"['Action', 'Adventure', 'Science-Fiction']",Scripted,English,ABC,7.9,1,24,1979-04-29,7.1,199.0,/27jl4H9PauenZlmVBbOO1pr1lGf.jpg,The Last Battlestar Galactica Leads a Rag Tag Fugitive Fleet on a Lonely Quest for a Shining Planet Known as...Earth.,N/A
+The Paradise,60.0,2012-09-25,2013-12-08,"['Drama', 'Romance', 'History']",Scripted,English,BBC One,7.9,2,16,2013-12-08,7.301,68.0,/nS1yUFslArJOBheY1XkTlyMflkj.jpg,Step inside for your heart's desire.,71.0
+The Closer,60.0,2005-06-13,2012-08-13,"['Drama', 'Crime', 'Mystery']",Scripted,English,TNT,7.9,7,109,2012-08-13,7.87,265.0,/sVE1SSDlXNCBh3sPYkIUTKfxOAk.jpg,They'll bring you in. She'll make you talk.,65.0
+Hustle,60.0,2004-02-24,2012-02-17,"['Drama', 'Crime', 'Thriller']",Scripted,English,BBC One,7.9,8,48,2012-02-17,7.708,137.0,/6UTmAZnaqcIsWVKSBWm7pDmdDTI.jpg,The con is on!,71.0
+In Plain Sight,61.0,2008-06-01,2012-05-04,"['Drama', 'Action', 'Crime']",Scripted,English,USA Network,7.9,5,61,2012-05-04,7.205,73.0,/sYxUjS4PblT1YKg1Cy5YdXPNeuN.jpg,Welcome to witness protection. Now get lost,56.0
+Californication,30.0,2007-08-13,2014-06-29,"['Drama', 'Comedy']",Scripted,English,Showtime,7.9,7,84,2014-06-29,7.661,971.0,/jPqOY8cq9KXQN4bD7zJGHCNvcb4.jpg,He's in way too deep.,66.0
+True Blood,60.0,2008-09-07,2014-08-24,"['Drama', 'Romance', 'Supernatural']",Scripted,English,HBO,7.9,7,80,2014-08-24,7.624,1641.0,/ktEp6fzL4xzCWsSVtrcH8JaQNQy.jpg,Thou shall not crave thy neighbor.,70.33
+Curb Your Enthusiasm,32.0,2000-10-15,2024-04-07,['Comedy'],Scripted,English,HBO,7.9,12,120,2024-04-07,8.056,622.0,/tMKxFUneUgHFdId4DPuL05Khjqk.jpg,The world has changed. He hasn't.,84.86
+Vegas,60.0,2012-09-25,2013-05-10,['Drama'],Scripted,English,CBS,7.9,1,21,2013-05-10,5.0,2.0,/rcf0lknfnbPD6aT6iQeSmIE5szu.jpg,Never bow your head.,68.0
+Merlin,60.0,2008-09-20,2012-12-24,"['Adventure', 'Fantasy']",Scripted,English,BBC One,7.9,5,65,2012-12-24,7.813,814.0,/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg,Magic is his destiny.,56.0
+Merlin,60.0,2008-09-20,2012-12-24,"['Adventure', 'Fantasy']",Scripted,English,BBC One,7.9,5,65,2012-12-24,6.788,229.0,/ra2F5ufWFV9qDMcZR1VbCfKZO2Z.jpg,The most magical adventure of all time.,56.0
+Bunheads,60.0,2012-06-11,2013-02-25,"['Drama', 'Comedy']",Scripted,English,Freeform,7.9,1,18,2013-02-25,7.265,34.0,/eSQxZYyOiQ4ZUuM0hCckKFlqVX5.jpg,Sometimes life raises the barre.,74.0
+Nikita,60.0,2010-09-09,2013-12-27,"['Drama', 'Action', 'Crime']",Scripted,English,The CW,7.9,4,73,2013-12-27,7.32,359.0,/iGgHX4OOPWwVMlXvhnTdxbHgKjB.jpg,Looks do kill.,67.0
+Absolutely Fabulous,30.0,1992-11-12,2012-07-23,['Comedy'],Scripted,English,BBC One,7.9,6,33,2012-07-23,7.457,129.0,/y961thfQVrK3VV4PItxPsYeoGwt.jpg,Darling!,N/A
+Kyle XY,60.0,2006-06-26,2009-03-16,"['Drama', 'Science-Fiction', 'Mystery']",Scripted,English,Freeform,7.9,3,43,2009-03-16,7.046,284.0,/4omwjf3HgGx4nZXcA0Avmd9bQny.jpg,Who is Kyle XY?,N/A
+V,73.0,1983-05-01,1985-03-22,"['Drama', 'Action', 'Science-Fiction']",Scripted,English,NBC,7.9,3,24,1985-03-22,7.736,851.0,/fV5U1eWPC8Dvxq0BUIoF7cvBK1o.jpg,Humankind's last stand.,57.5
+V,73.0,1983-05-01,1985-03-22,"['Drama', 'Action', 'Science-Fiction']",Scripted,English,NBC,7.9,3,24,1985-03-22,6.821,618.0,/b2w3vq0uvfmahS6dB41WeWByhVy.jpg,We are of peace. Always.,57.5
+House of Lies,30.0,2012-01-08,2016-06-12,"['Drama', 'Comedy']",Scripted,English,Showtime,7.9,5,58,2016-06-12,6.596,162.0,/xrrNWeMC9p2J0fEUCYYsyA67EdB.jpg,"Liar, liar...",63.0
+Nurse Jackie,30.0,2009-06-08,2015-06-28,"['Drama', 'Comedy']",Scripted,English,Showtime,7.9,7,80,2015-06-28,7.02,171.0,/efKrmVB9Jwmh6HxFjED6FyeOUpW.jpg,Trauma queen,75.8
+Baby Daddy,30.0,2012-06-20,2017-05-22,"['Comedy', 'Family']",Scripted,English,Freeform,7.9,6,100,2017-05-22,7.179,182.0,/lwpaNYFacUITOtfIZ1UDq7vnKeD.jpg,Time to Dad up.,51.0
+Louie,30.0,2010-06-29,2015-05-28,"['Drama', 'Comedy']",Scripted,English,FX,7.9,5,61,2015-05-28,7.8,431.0,/wunIdpYD42rtTgu9luzyzXc0COz.jpg,Misery loves comedy.,87.4
+The Riches,60.0,2007-03-12,2008-04-29,"['Drama', 'Comedy']",Scripted,English,FX,7.9,2,20,2008-04-29,7.193,44.0,/c8eyL7xBTVZeeqb9oDEADqHlNc2.jpg,It's a wonderful lie,68.5
+Top Boy,60.0,2011-10-31,2013-09-10,"['Drama', 'Crime', 'Thriller']",Scripted,English,Channel 4,7.9,2,8,2013-09-10,8.133,83.0,/7Kk3gRMypBHX6gHqbMaa1gXPycn.jpg,Loyalty before everything.,N/A
+The Listener,60.0,2009-06-03,2014-08-18,"['Drama', 'Crime', 'Supernatural']",Scripted,English,CTV,7.9,5,65,2014-08-18,6.865,85.0,/8408RJvs3zRjA0e69I1zJTRxQye.jpg,You think. He knows.,42.0
+Weeds,30.0,2005-08-07,2012-09-16,"['Drama', 'Comedy', 'Crime']",Scripted,English,Showtime,7.9,8,102,2012-09-16,7.5,747.0,/gKUsBTa5b0GY7U4iWBseeBalfjO.jpg,Let's blow this joint.,74.25
+Backstrom,60.0,2015-01-22,2015-04-30,"['Drama', 'Comedy', 'Crime']",Scripted,English,FOX,7.9,1,13,2015-04-30,6.7,70.0,/jX1hRlRiBilKbOciczFgOibe6rO.jpg,Brilliant cop. Total jerk.,51.0
+NYPD Blue,60.0,1993-09-21,2005-03-01,"['Drama', 'Crime']",Scripted,English,ABC,7.9,12,261,2005-03-01,7.123,118.0,/hrdusQVSArJPRGnB5bHzd2ISP4V.jpg,Ride along with the boys in blue.,84.0
+Numb3rs,60.0,2005-01-23,2010-03-12,"['Drama', 'Action', 'Crime']",Scripted,English,CBS,7.9,6,118,2010-03-12,7.069,333.0,/wOzbxJmpccPA5MYvBSGbor3WKh3.jpg,We all use Math every day,53.0
+Angels in America,60.0,2003-12-07,2003-12-14,"['Drama', 'Fantasy']",Scripted,English,HBO,7.9,1,6,2003-12-14,7.632,190.0,/rrV0kCmzcP8oB00gemSZDns90rb.jpg,The messenger has arrived.,N/A
+Moonlighting,60.0,1985-03-03,1989-05-14,['Comedy'],Scripted,English,ABC,7.9,5,67,1989-05-14,7.5,298.0,/lrx6v9iD7WWkzkYMCvikvG3DIFp.jpg,Detectives with a heart,N/A
+The Fresh Prince of Bel-Air,30.0,1990-09-10,1996-05-20,"['Comedy', 'Family']",Scripted,English,NBC,7.9,6,148,1996-05-20,7.955,2056.0,/3d6tBbClvVjgF6ZyPl3SojfFU3e.jpg,Influence goes both ways.,58.0
+Emergency!,60.0,1972-01-15,2022-08-20,"['Drama', 'Action', 'Medical']",Scripted,English,NBC,7.9,6,122,2022-08-20,7.9,39.0,/ue1o5MfUCdgCL2hc7PBWw6ID88.jpg,"Squad 51, this is Rampart. Continue to monitor patient and transport immediately.",N/A
+X Company,60.0,2015-02-18,2017-03-15,"['Drama', 'War', 'Espionage']",Scripted,English,CBC,7.9,3,28,2017-03-15,7.581,37.0,/1O3REMtCAdrSaPrDxPM3W2fNcEJ.jpg,The allies needed a secret weapon. They got five.,N/A
+Hatfields & McCoys,96.0,2012-05-28,2012-05-30,"['Drama', 'Romance', 'Western']",Scripted,English,History,7.9,1,3,2012-05-30,7.455,268.0,/20sdSd2UxKb6286zA87aufliu9M.jpg,Never Forgive. Never Forget.,68.0
+The Vampire Diaries,60.0,2009-09-10,2017-03-10,"['Drama', 'Romance', 'Supernatural']",Scripted,English,The CW,7.9,8,171,2017-03-10,8.337,8356.0,/aBkVgChtyyJaHyZh1gfd8DbzQon.jpg,You remember your first kiss forever... and ever.,50.0
+Commander in Chief,60.0,2005-09-27,2006-06-14,['Drama'],Scripted,English,ABC,7.9,1,18,2006-06-14,7.788,26.0,/2WMS3a43ppLxqDTHyGYmOsqOBbr.jpg,Wife. Mother. Leader of the free world.,56.0
+The Royals,60.0,2015-03-15,2018-05-13,['Drama'],Scripted,English,E!,7.9,4,40,2018-05-13,7.467,105.0,/5XLmgVS3HPWE2gpTVOyD4c9mQ7D.jpg,Anarchy in the Monarchy,48.0
+One Tree Hill,60.0,2003-09-23,2012-04-04,['Drama'],Scripted,English,The CW,7.9,9,187,2012-04-04,7.8,390.0,/sOrelBaAhp7DZbPTivDwKEyPslC.jpg,Where nothing ever changed until one outsider changed everything.,46.0
+La Femme Nikita,60.0,1997-01-13,2001-03-04,"['Drama', 'Action', 'Thriller']",Scripted,English,USA Network,7.9,5,96,2001-03-04,7.56,207.0,/pvm8hc0JzbDOcH85bPmlqmMJDvT.jpg,Mistakes are not an option,68.0
+Magic City,60.0,2012-03-30,2013-08-09,"['Drama', 'Crime', 'Mystery']",Scripted,English,STARZ,7.9,2,16,2013-08-09,6.859,71.0,/g06xRDpwPmhFuhqx0srjM8oqwn3.jpg,The beautiful life is about to get ugly.,56.0
+Melissa & Joey,30.0,2010-08-17,2015-08-05,"['Comedy', 'Family']",Scripted,English,Freeform,7.8,4,104,2015-08-05,6.973,91.0,/4Jju36sQpOTnMICesTDsenOREK9.jpg,A good manny is hard to find.,53.0
+Night Court,30.0,1984-01-04,1992-05-31,"['Comedy', 'Legal']",Scripted,English,NBC,7.8,9,193,1992-05-31,7.0,22.0,/aDgsyosno3aKCiAn0UoUuw6HNME.jpg,Court is back in session.,N/A
+Hot in Cleveland,30.0,2010-06-16,2015-06-03,['Comedy'],Scripted,English,TV Land,7.8,6,126,2015-06-03,7.619,97.0,/mvSXebWlltJxJUNNkoLb0tzygi2.jpg,Hot in Cleveland,64.0
+How I Met Your Mother,30.0,2005-09-19,2014-03-31,"['Drama', 'Comedy', 'Romance']",Scripted,English,CBS,7.8,9,208,2014-03-31,8.158,4376.0,/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg,A love story in reverse.,69.0
+Jane by Design,60.0,2012-01-03,2012-07-31,"['Drama', 'Comedy']",Scripted,English,Freeform,7.8,1,18,2012-07-31,7.357,28.0,/v0t6EzLG2p0u1ugxYmZ9YMsxbNW.jpg,From high school to high fashion.,54.0
+Perception,60.0,2012-07-09,2015-03-17,"['Drama', 'Crime']",Scripted,English,TNT,7.8,3,39,2015-03-17,7.234,207.0,/5L6MsJVdMDbdGZ4P1lGBunOp0VZ.jpg,Crime Scene Differently,52.0
+Gotham,60.0,2014-09-22,2019-04-25,"['Drama', 'Action', 'Crime']",Scripted,English,FOX,7.8,5,100,2019-04-25,7.6,3157.0,/4XddcRDtnNjYmLRMYpbrhFxsbuq.jpg,"Before Batman, there was Gotham.",71.0
+CSI: NY,60.0,2004-09-22,2013-02-22,"['Drama', 'Action', 'Crime']",Scripted,English,CBS,7.8,9,197,2013-02-22,7.383,609.0,/4TGV4Bb3OPay4cHkQRlfwghv3vC.jpg,How long does it take to get hooked on the latest CSI: hit? About a New York minute.,61.0
+Chase,60.0,2010-09-20,2011-05-21,"['Drama', 'Action', 'Crime']",Scripted,English,NBC,7.8,1,18,2011-05-21,6.852,27.0,/sayLpKaFnTrgmIvIMmItGbyCXb4.jpg,"To catch the worst, it takes the best",47.0
+Switched at Birth,60.0,2011-06-06,2017-04-11,"['Drama', 'Family']",Scripted,English,Freeform,7.8,5,103,2017-04-11,7.625,184.0,/db5XnOxGcUHeNhBRNbHfqTlzXmk.jpg,One mistake changed two families forever.,N/A
+Everybody Hates Chris,30.0,2005-09-22,2009-05-08,['Comedy'],Scripted,English,The CW,7.8,4,88,2009-05-08,8.0,877.0,/3FjakKDEuaO8FpR1qJctV6njqYy.jpg,Get ready to ROCK,88.0
+"The Adventures of Brisco County, Jr.",62.0,1993-08-27,1994-05-20,"['Adventure', 'Science-Fiction', 'Western']",Scripted,English,FOX,7.8,1,27,1994-05-20,7.051,69.0,/lL6s4WiImhvOg0GayU1tMduUn1s.jpg,Smile. You're about to meet your new hero.,N/A
+Drop Dead Diva,60.0,2009-07-12,2014-06-22,"['Drama', 'Comedy']",Scripted,English,Lifetime,7.8,6,78,2014-06-22,7.815,230.0,/4J8DKF6UOfcHIWcyap9NK1acnoU.jpg,Sometimes life throws you curves.,69.0
+How to Make It in America,30.0,2010-02-14,2011-11-20,"['Drama', 'Comedy']",Scripted,English,HBO,7.8,2,16,2011-11-20,7.46,63.0,/xSKGT90ScJbHsL6FvMn7Aiov6tS.jpg,Dream big or go home.,59.0
+My Name Is Earl,30.0,2005-09-20,2009-05-14,['Comedy'],Scripted,English,NBC,7.8,4,96,2009-05-14,7.7,868.0,/57shLTTkHvhLUhyP1t0lNZPoAxD.jpg,Karma is a funny thing.,77.0
+Adventure Time,15.0,2008-12-07,2018-09-03,"['Comedy', 'Adventure', 'Fantasy']",Animation,English,Cartoon Network,7.8,10,278,2018-09-03,8.477,2474.0,/qk3eQ8jW4opJ48gFWYUXWaMT4l.jpg,"They’re not righteous, they’re wrongteous!",N/A
+Motive,60.0,2013-02-03,2016-08-30,"['Drama', 'Crime', 'Mystery']",Scripted,English,CTV,7.8,4,52,2016-08-30,6.557,70.0,/gA5mK6VO1tJ4DCGhmXEcsYetvqH.jpg,The murder is just the beginning.,51.0
+NCIS: Los Angeles,60.0,2009-09-22,2023-05-21,"['Drama', 'Action', 'Crime']",Scripted,English,CBS,7.8,14,323,2023-05-21,7.563,1053.0,/TIIgcznwNfNr3KOZvxn26eKV99.jpg,New city. New team. Same attitude.,58.0
+Mistresses,60.0,2013-06-03,2016-09-06,"['Drama', 'Romance']",Scripted,English,ABC,7.8,4,52,2016-09-06,5.4,56.0,/6ayoSSIrbLYm6MrgBhzw2tTp96a.jpg,Four friends. Four hearts. 13 weeks of seduction.,N/A
+Red Dwarf,32.0,1988-02-15,2020-04-09,"['Comedy', 'Science-Fiction']",Scripted,English,Dave,7.8,12,73,2020-04-09,8.034,334.0,/dAaVWMhCCrSuimSETs9Z5ZTZQ3v.jpg,Smeg Head!,N/A
+Scandal,60.0,2012-04-05,2018-04-19,"['Drama', 'Thriller']",Scripted,English,ABC,7.8,7,124,2018-04-19,7.2,478.0,/4XmF8PMSqtHCGNoL15oHbjr5ZuO.jpg,Dirty little secrets always come out.,64.0
+Hart of Dixie,60.0,2011-09-26,2015-03-27,"['Drama', 'Comedy', 'Romance']",Scripted,English,The CW,7.8,4,76,2015-03-27,7.35,244.0,/xOwH2ZUtdzqeat5RhiD3oes2ASx.jpg,Her life is about to go South.,43.0
+Chasing Life,60.0,2014-06-10,2015-09-28,"['Drama', 'Romance', 'Medical']",Scripted,English,Freeform,7.8,2,34,2015-09-28,7.553,47.0,/divzwWoDznYdqn0FtwyPuQfacg6.jpg,Cancer sucks.,59.0
+Dollhouse,60.0,2009-02-13,2010-01-29,"['Action', 'Science-Fiction']",Scripted,English,FOX,7.8,2,26,2010-01-29,7.239,387.0,/oq5WPzUn7R0YcIk7QGwpXqvgSWO.jpg,"She can be anyone, except herself.",57.0
+FlashForward,60.0,2009-09-24,2010-05-27,"['Drama', 'Crime', 'Science-Fiction']",Scripted,English,ABC,7.8,1,22,2010-05-27,7.069,416.0,/7iu2HJ8ZSNbBgFLi42JNcuPjBax.jpg,Everyone in the world will get a flash of their own future.,71.0
+Saving Hope,60.0,2012-06-07,2017-08-03,"['Drama', 'Fantasy', 'Medical']",Scripted,English,CTV,7.8,5,85,2017-08-03,7.224,85.0,/1OGQisCT1T5ChkzZVdFqhX4O1G.jpg,"Life, death and everything in between.",49.0
+Rush,60.0,2014-07-17,2014-09-18,"['Drama', 'Medical']",Scripted,English,USA Network,7.8,1,10,2014-09-18,7.595,158.0,/aQiWbhicCGDJAgCV60pmfkfFJNB.jpg,Good doctor. Bad habits.,N/A
+Charlie's Angels,60.0,1976-09-22,1981-06-24,"['Action', 'Adventure']",Scripted,English,ABC,7.8,5,115,1981-06-24,6.634,175.0,/pvSdc81hTTiTugMEGjObuEMijDc.jpg,We're the one to turn to.,30.0
+Charlie's Angels,60.0,1976-09-22,1981-06-24,"['Action', 'Adventure']",Scripted,English,ABC,7.8,5,115,1981-06-24,5.236,36.0,/4UiQ46T777kvKJCx9F9DAI3HajP.jpg,They're not saints.,30.0
+The Triangle,90.0,2005-12-05,2005-12-07,"['Drama', 'Action', 'Adventure']",Scripted,English,Syfy,7.8,1,3,2005-12-07,6.2,134.0,/mOASmvCKDOtUtZLxG4er4bDfycq.jpg,In the Bermuda Triangle nothing stays lost forever,N/A
+Silk Stalkings,60.0,1991-11-07,1999-04-18,"['Drama', 'Action', 'Crime']",Scripted,English,USA Network,7.8,8,176,1999-04-18,6.3,23.0,/mzJDp1iZmhxlSCBBicWsiYcZGv.jpg,"Smut, smut and more smut - with sex and murder thrown in for good measure.",N/A
+Sledge Hammer!,30.0,1986-09-23,1988-02-12,"['Comedy', 'Action']",Scripted,English,ABC,7.8,2,41,1988-02-12,7.976,127.0,/exYBfVOkRDg9f7HlRIDZ6gy3A73.jpg,"Trust me, I know what I'm doing.",N/A
+Due South,60.0,1994-04-26,1999-03-14,"['Drama', 'Crime']",Scripted,English,CTV,7.8,4,66,1999-03-14,7.603,68.0,/6VhCmn2YPhFyK2SjMb5Px9shxD4.jpg,Thank you kindly.,N/A
+Legit,30.0,2013-01-17,2014-05-14,['Comedy'],Scripted,English,FXX,7.8,2,26,2014-05-14,7.41,61.0,/4wKawZKCcWpQYJXDB5XBSMRCWDm.jpg,He wants to help. In the worst way.,71.0
+I Dream of Jeannie,30.0,1965-09-18,1991-10-20,"['Comedy', 'Fantasy', 'Romance']",Scripted,English,NBC,7.8,5,139,1991-10-20,7.83,698.0,/ljlyB3C3uU8Hd1krfEsYn2BVyaj.jpg,"No one keeps this impish, delightful genie bottled up",N/A
+Takeshi's Castle,30.0,2002-11-09,2013-03-29,"['Comedy', 'Action', 'Family']",Game Show,English,Challenge,7.8,5,128,2013-03-29,7.583,36.0,/5rSiau1StRsoiaR9Jdxa2rQIML2.jpg,Takeshi's Castle,N/A
+The Outer Limits,60.0,1995-03-26,2002-01-18,"['Drama', 'Horror', 'Science-Fiction']",Scripted,English,Syfy,7.8,7,154,2002-01-18,7.9,120.0,/f6IxRbfpfOiJgs15DG42s4BbCb6.jpg,There is nothing wrong with your television. Do not attempt to adjust the picture.,N/A
+All in the Family,30.0,1971-01-12,1979-04-08,"['Comedy', 'Family']",Scripted,English,CBS,7.8,9,210,1979-04-08,7.773,143.0,/s2Y9QWyuyjRP78DZsatknEjn0iN.jpg,"Like the Good Book says, ""Let him who is without sin... be the rollin' stone.""",N/A
+Happy Days,30.0,1974-01-15,1984-09-24,['Comedy'],Scripted,English,ABC,7.8,11,255,1984-09-24,7.7,230.0,/sepIwNPCEhkKvFOQSjXK6tekkjR.jpg,Those were the days of the 1950's...filled with innocence and the promise of even better days to come.,N/A
+Amazing Stories,31.0,1985-09-29,1987-04-10,"['Fantasy', 'Science-Fiction']",Scripted,English,NBC,7.8,2,45,1987-04-10,7.414,372.0,/evcvXE6BP8fT8UoWsyiTBvxqyrL.jpg,Five tales. Infinite imagination.,N/A
+Crusade,60.0,1999-06-09,1999-09-01,"['Drama', 'Action', 'Science-Fiction']",Scripted,English,TNT,7.8,1,13,1999-09-01,6.6,87.0,/nro8P92M0XFA4sxwD7xy1h6yFIy.jpg,"Who do you serve, and who do you trust?",N/A
+Defiance,62.0,2013-04-15,2015-08-28,"['Action', 'Adventure', 'Science-Fiction']",Scripted,English,Syfy,7.8,3,38,2015-08-28,6.812,430.0,/1LnkD9QZWo2dPoB82f8jyRk9ukh.jpg,New Earth. New rules.,57.0
+3rd Rock from the Sun,30.0,1996-01-09,2001-05-22,"['Comedy', 'Family', 'Science-Fiction']",Scripted,English,NBC,7.8,6,139,2001-05-22,7.489,422.0,/sUB4lZghNnwQywKqgjIfJsyBqI2.jpg,There's a new family in town. They're not from another city... They're from another planet.,52.0
+Eli Stone,60.0,2008-01-31,2009-07-11,"['Drama', 'Fantasy', 'Legal']",Scripted,English,ABC,7.8,2,26,2009-07-11,6.992,63.0,/hWVuLjx3QPhpfTCePbB9nunIJt0.jpg,Partly cloudy... with a chance of visions.,66.5
+No Ordinary Family,60.0,2010-09-28,2011-04-05,"['Drama', 'Action', 'Science-Fiction']",Scripted,English,ABC,7.8,1,20,2011-04-05,7.072,321.0,/2Hytyjin1oa8kwpPDTpRiEQvXpL.jpg,New powers. Instructions not included.,65.0
+Knight Rider,60.0,1982-09-26,1991-05-19,"['Drama', 'Action', 'Crime']",Scripted,English,NBC,7.7,4,90,1991-05-19,7.518,1123.0,/t57NXzTrwp5rnPXiaX4BThrDxt1.jpg,"Michael Knight is today's hero! Driving the car of tomorrow! Together, they're the ultimate crimecrashers!",21.0
+Knight Rider,60.0,1982-09-26,1991-05-19,"['Drama', 'Action', 'Crime']",Scripted,English,NBC,7.7,4,90,1991-05-19,7.431,539.0,/e93H0P6GYoDUhHR5uCdmfLDAvKt.jpg,An icon reborn.,21.0
+The 100,60.0,2014-03-19,2020-09-30,"['Action', 'Adventure', 'Science-Fiction']",Scripted,English,The CW,7.7,7,100,2020-09-30,7.916,7666.0,/wcaDIAG1QdXQLRaj4vC1EFdBT2.jpg,Survival isn't who you are. It's who you become.,63.0
+Revenge,60.0,2011-09-21,2015-05-10,"['Drama', 'Thriller', 'Mystery']",Scripted,English,ABC,7.7,4,89,2015-05-10,7.6,678.0,/qx7XytRgg1F03NN5BoK8jx3Cyft.jpg,What goes around comes around.,66.0
+Ironside,60.0,2013-10-02,2013-10-23,"['Drama', 'Action', 'Crime']",Scripted,English,NBC,7.7,1,9,2013-10-23,5.395,19.0,/f14yvzQg1xEpK3rQGdlApltJki4.jpg,His team. His town. His rules.,N/A
+Happy Town,60.0,2010-04-28,2010-07-01,"['Drama', 'Crime', 'Mystery']",Scripted,English,ABC,7.7,1,8,2010-07-01,5.621,29.0,/k6SUulnvLKKe1RblxVDeKDEGtxZ.jpg,Don't let the name fool you.,52.0
+Jeremiah,60.0,2002-03-03,2004-01-19,"['Drama', 'Adventure', 'Science-Fiction']",Scripted,English,Showtime,7.7,2,35,2004-01-19,7.086,58.0,/yBaq79cbv8Lmhaa7ej3z6GOp9zK.jpg,A generation lost. The future unknown.,N/A
+iZombie,60.0,2015-03-17,2019-08-01,"['Drama', 'Crime', 'Horror']",Scripted,English,The CW,7.7,5,71,2019-08-01,7.797,2628.0,/q4nqNwAhzVR7JuYctrWJvUWz3xR.jpg,Rebel without a cure.,74.0
+Ghost Whisperer,60.0,2005-09-23,2010-05-21,"['Drama', 'Fantasy']",Scripted,English,CBS,7.7,5,107,2010-05-21,8.088,1541.0,/nIboXXCporMO9Xskq7Rsf45Z6qW.jpg,The dead are talking...and she is listening.,29.0
+Entourage,30.0,2004-07-18,2011-09-11,"['Drama', 'Comedy']",Scripted,English,HBO,7.7,8,96,2011-09-11,7.317,462.0,/kLKP8zrArBtBboGz3qJOuMGC7rL.jpg,A lifestyle is a terrible thing to waste.,66.8
+Madam Secretary,60.0,2014-09-21,2019-12-08,['Drama'],Scripted,English,CBS,7.7,6,120,2019-12-08,7.0,260.0,/6Nl1ablo4DNTLb4ZH7Mycz81AEt.jpg,Not politics as usual.,66.0
+Modern Family,30.0,2009-09-23,2020-04-08,"['Comedy', 'Family']",Scripted,English,ABC,7.7,11,250,2020-04-08,7.841,2346.0,/klL4yhwiU8aF4AuF5dCfJA9sRnS.jpg,"One big (straight, gay, multi-cultural, traditional) happy family.",86.0
+Reaper,60.0,2007-09-25,2009-05-26,"['Drama', 'Comedy', 'Supernatural']",Scripted,English,The CW,7.7,2,31,2009-05-26,7.085,170.0,/uYkgVxxRvRFceDHXlbSrqXmMut0.jpg,Meet Satan's biggest tools.,68.5
+Big Love,60.0,2006-03-12,2011-03-20,['Drama'],Scripted,English,HBO,7.7,5,53,2011-03-20,7.0,109.0,/38aaxDXz4qim9M85VTzpUecKlq9.jpg,Polygamy Loves Company,75.0
+Life on Mars,60.0,2008-10-09,2009-04-01,"['Drama', 'Crime', 'Fantasy']",Scripted,English,ABC,7.7,1,17,2009-04-01,7.808,226.0,/kFmhMpfyCVsu8AdJmz0xzULUduZ.jpg,"Is he mad, in a coma… or has Detective Sam Tyler really travelled back in time?",N/A
+Life on Mars,60.0,2008-10-09,2009-04-01,"['Drama', 'Crime', 'Fantasy']",Scripted,English,ABC,7.7,1,17,2009-04-01,6.519,79.0,/opP6O99cWRZ9tfdPaLsWefbcPRs.jpg,A modern day cop in a 1973 world.,N/A
+You're the Worst,31.0,2014-07-17,2019-04-03,"['Drama', 'Comedy', 'Romance']",Scripted,English,FXX,7.7,5,62,2019-04-03,7.411,176.0,/whXfP89yXz4AwQ9dzWCTGcl9YvV.jpg,Terrible people. Perfect for each other.,77.33
+Private Practice,60.0,2007-09-26,2013-01-22,"['Drama', 'Romance', 'Medical']",Scripted,English,ABC,7.7,6,111,2013-01-22,7.686,288.0,/pW20ANAGdrgreYJExduUVaWos6H.jpg,A new start on life.,44.5
+12 Monkeys,59.0,2015-01-16,2018-07-06,"['Drama', 'Adventure', 'Science-Fiction']",Scripted,English,Syfy,7.7,4,47,2018-07-06,7.441,970.0,/tPX5Jg29XSx05qNterYGYGKbh3o.jpg,End at the beginning.,N/A
+Almost Human,60.0,2013-11-17,2014-03-03,"['Drama', 'Crime', 'Science-Fiction']",Scripted,English,FOX,7.7,1,13,2014-03-03,7.39,448.0,/7KNvabIPtsfR01H1bJwc1sobRUM.jpg,Some cops are born. Others are made.,62.0
+Batman,30.0,1966-01-12,1968-03-14,"['Comedy', 'Action', 'Adventure']",Scripted,English,ABC,7.7,3,120,1968-03-14,7.4,473.0,/eJWKgqICVxgDOOWRNBQ7b6Hh5Xb.jpg,The Worst Is Yet To Come,N/A
+A Place to Call Home,60.0,2013-04-28,2018-10-21,"['Drama', 'Romance']",Scripted,English,Showcase,7.7,6,67,2018-10-21,7.5,35.0,/ctjoNliuHbsRK3asfSjP7z8qhum.jpg,Some obligations can't be passed on.,N/A
+Devious Maids,60.0,2013-06-23,2016-08-08,"['Drama', 'Crime']",Scripted,English,Lifetime,7.7,4,49,2016-08-08,7.1,121.0,/gn61HHk9KRa9RKeFCz476EqLR61.jpg,Deliciously Dirty,63.0
+Deception,60.0,2013-01-07,2013-03-18,"['Drama', 'Crime', 'Mystery']",Scripted,English,NBC,7.7,1,11,2013-03-18,7.841,207.0,/fRQ3JV67ADyTrRNyXqefqJkJsD4.jpg,The FBI has a new trick up its sleeve.,52.0
+Deception,60.0,2013-01-07,2013-03-18,"['Drama', 'Crime', 'Mystery']",Scripted,English,NBC,7.7,1,11,2013-03-18,5.648,27.0,/AnJBeMJdIw9umj958VRCyz7PWrI.jpg,"To find the truth, she'll become a lie.",52.0
+The Office,30.0,2001-07-09,2003-12-27,['Comedy'],Scripted,English,BBC Two,7.7,3,12,2003-12-27,8.587,3443.0,/dg9e5fPRRId8PoBE0F6jl5y85Eu.jpg,A comedy for anyone whose boss is an idiot.,63.0
+The Wonder Years,30.0,1988-01-31,1993-05-12,"['Drama', 'Comedy', 'Family']",Scripted,English,ABC,7.7,6,115,1993-05-12,8.363,878.0,/tkaduqdhFrF1vp8L55OJfB5jw8Z.jpg,With a little help from my friends.,80.0
+The Wonder Years,30.0,1988-01-31,1993-05-12,"['Drama', 'Comedy', 'Family']",Scripted,English,ABC,7.7,6,115,1993-05-12,7.2,190.0,/stTtZ97QiXTvCQFDF6rNfFfFt9K.jpg,Return to wonder.,80.0
+Heroes,60.0,2006-09-25,2010-02-08,"['Drama', 'Action', 'Science-Fiction']",Scripted,English,NBC,7.7,4,78,2010-02-08,7.487,2018.0,/7Cn1Sj5yipu7tBX14BbaXuBHbL1.jpg,"You can't choose your family, you can choose a side.",61.5
+Body of Proof,60.0,2011-03-29,2013-05-28,"['Drama', 'Crime']",Scripted,English,ABC,7.7,3,42,2013-05-28,6.992,123.0,/nZaJymzkQeJPsqv3vm7Ok7iRenr.jpg,Get away with murder? Over her dead bodies.,56.0
+Copper,60.0,2012-08-19,2013-09-22,"['Drama', 'Crime']",Scripted,English,BBC America,7.7,2,23,2013-09-22,6.357,56.0,/z2oQu8SipXvlnlrJrt6gZ47D408.jpg,"In 1864, he was New York's finest.",67.0
+Flashpoint,60.0,2008-07-11,2012-12-13,"['Action', 'Adventure', 'Crime']",Scripted,English,CTV,7.7,5,75,2012-12-13,7.402,122.0,/3Bp3vJrPxnrN8iRDaclsVUPwgWa.jpg,One Moment Changes Everything,50.0
+New Amsterdam,60.0,2008-03-04,2008-04-14,"['Drama', 'Crime', 'Fantasy']",Scripted,English,FOX,7.7,1,8,2008-04-14,8.457,886.0,/jsH4AeGZn5Q6h314A3OTUHKxHhR.jpg,Take care. Always.,63.0
+New Amsterdam,60.0,2008-03-04,2008-04-14,"['Drama', 'Crime', 'Fantasy']",Scripted,English,FOX,7.7,1,8,2008-04-14,7.355,62.0,/iyhUIAQbGA1BysXbZhJm45JY2oi.jpg,Live like there's always tomorrow.,63.0
+Malcolm in the Middle,30.0,2000-01-09,2006-05-14,['Comedy'],Scripted,English,FOX,7.7,7,151,2006-05-14,8.495,3896.0,/ckLLIsNy3Z0Go1PYHA2PHzVymUA.jpg,Family. The weirdest people you'll ever meet.,88.0
+The Flintstones,30.0,1960-09-30,1966-04-01,"['Comedy', 'Adventure', 'Children']",Animation,English,ABC,7.7,6,166,1966-04-01,7.363,789.0,/30P6ifagQ3fguTsI33KMmDLTAx6.jpg,Yabba Dabba Doo!,N/A
+Impastor,30.0,2015-07-15,2016-12-07,"['Comedy', 'Crime']",Scripted,English,TV Land,7.7,2,20,2016-12-07,7.2,52.0,/4TFkZz3nsbnPSOOekrbT7S04PRV.jpg,Fake identity. Real trouble,49.0
+Schitt's Creek,30.0,2015-01-13,2020-04-07,['Comedy'],Scripted,English,CBC,7.7,6,79,2020-04-07,7.775,400.0,/iRfSzrPS5VYWQv7KVSEg2BZZL6C.jpg,Own this town,64.0
+Spotless,60.0,2015-03-16,2015-04-13,"['Drama', 'Crime']",Scripted,French,Canal+,7.7,1,10,2015-04-13,6.8,27.0,/lARKdHXgWomQDiSjG5XqlVLhTWt.jpg,"In some families, death is in the blood.",79.0
+Shark,60.0,2006-09-21,2008-05-20,"['Drama', 'Crime', 'Legal']",Scripted,English,CBS,7.7,2,38,2008-05-20,7.0,81.0,/um1pU14K6ox4VRznnqB0F4c8Oe6.jpg,It takes a predator to put one away.,60.0
+Rosemary's Baby,120.0,2014-05-11,2014-05-15,"['Drama', 'Horror', 'Thriller']",Scripted,English,NBC,7.7,1,2,2014-05-15,5.776,123.0,/rJ9lgdZd8qGabCy4HJXSy5nJjYP.jpg,Fear brought to life.,51.0
+Kojak,63.0,1973-10-24,1990-03-16,"['Drama', 'Crime']",Scripted,English,CBS,7.7,6,125,1990-03-16,6.8,87.0,/7F1eH97Bpi8zQbc172drbJCsOsG.jpg,"Who loves ya, baby?",N/A
+The Finder,60.0,2012-01-12,2012-05-11,"['Drama', 'Comedy', 'Crime']",Scripted,English,FOX,7.7,1,13,2012-05-11,7.047,127.0,/iKJ5hTFvX0IScXrxcagYsePTnTd.jpg,A different kind of detective,58.0
+Charlie's Angels,60.0,2011-09-22,2011-12-18,"['Action', 'Crime']",Scripted,English,ABC,7.7,1,8,2011-12-18,6.634,175.0,/pvSdc81hTTiTugMEGjObuEMijDc.jpg,We're the one to turn to.,30.0
+Charlie's Angels,60.0,2011-09-22,2011-12-18,"['Action', 'Crime']",Scripted,English,ABC,7.7,1,8,2011-12-18,5.236,36.0,/4UiQ46T777kvKJCx9F9DAI3HajP.jpg,They're not saints.,30.0
+Treme,60.0,2010-04-11,2013-12-29,"['Drama', 'Music']",Scripted,English,HBO,7.7,4,36,2013-12-29,7.9,103.0,/k4pV1FUccFmmbz9DwUON7KWT0gi.jpg,Wrap your troubles in dreams.,84.0
+Red Band Society,60.0,2014-09-17,2015-02-07,"['Drama', 'Comedy']",Scripted,English,FOX,7.7,1,13,2015-02-07,7.239,69.0,/5P9YyoiiP2mtSNcROhqMywO4RB6.jpg,Band together.,58.0
+Off the Map,60.0,2011-01-12,2011-04-06,"['Drama', 'Adventure', 'Medical']",Scripted,English,ABC,7.7,1,13,2011-04-06,6.8,18.0,/s25iy6jAQotC5eJY3FbXJYnUwBB.jpg,"For some doctors, there are no boundaries.",49.0
+Anthony Bourdain: Parts Unknown,60.0,2013-04-14,2018-11-11,"['Food', 'Travel']",Documentary,English,CNN,7.7,12,95,2018-11-11,7.361,61.0,/qg7lcydNf8DBVFIFK3XEuccv1jf.jpg,"Get hungry, get curious, get lost.",N/A
+Political Animals,60.0,2012-07-15,2012-08-19,['Drama'],Scripted,English,USA Network,7.7,1,6,2012-08-19,7.328,61.0,/fnFNsleo5IcUAqNjiKgixkGyxd2.jpg,Power runs in the family,65.0
+Malibu Country,30.0,2012-11-02,2013-03-22,['Comedy'],Scripted,English,ABC,7.7,1,18,2013-03-22,6.0,4.0,/wtvWGPbS52DWLbtXvwbH2xpoaeN.jpg,Life's a beach.,41.0
+Containment,60.0,2016-04-19,2016-07-19,"['Drama', 'Horror', 'Thriller']",Scripted,English,The CW,7.6,1,13,2016-07-19,6.614,153.0,/eeNd3ovnS8rztZgIpbCDx74VjSs.jpg,Hope is contagious.,48.0
+Second Chance,60.0,2016-01-13,2016-03-25,"['Drama', 'Crime', 'Science-Fiction']",Scripted,English,FOX,7.6,1,11,2016-03-25,6.707,145.0,/vXQXjPQ0qq5caOSvTElc9UMp6Rf.jpg,Death gave him a second chance at life.,47.0
+Second Chance,60.0,2016-01-13,2016-03-25,"['Drama', 'Crime', 'Science-Fiction']",Scripted,English,FOX,7.6,1,11,2016-03-25,4.8,14.0,/wtsTkRZkyCBlQgXt4ORQoQjafzf.jpg,Only you can give your life a new chance.,47.0
+Courage the Cowardly Dog,30.0,1999-11-12,2002-11-22,"['Adventure', 'Children', 'Horror']",Animation,English,Cartoon Network,7.6,4,53,2002-11-22,8.161,1340.0,/dzD8EWDvtg7rBCINu0RCH5EUejh.jpg,Stupid dog. You make me look bad.,N/A
+Rogue,60.0,2013-04-03,2017-05-24,"['Action', 'Crime']",Scripted,English,Audience Network,7.6,4,50,2017-05-24,7.407,44.0,/fiGa4VkDw9lb2AqKUbZvNd4K1Jw.jpg,Truth has its consequences.,47.0
+Harry's Law,60.0,2011-01-17,2012-05-27,"['Drama', 'Legal']",Scripted,English,NBC,7.6,2,34,2012-05-27,7.182,33.0,/zaxAqo2tNNL9zN58YtXorKLo4wy.jpg,"Go ahead, make her case.",48.0
+Young & Hungry,30.0,2014-06-25,2018-07-25,"['Comedy', 'Food', 'Romance']",Scripted,English,Freeform,7.6,5,71,2018-07-25,6.872,129.0,/l2n2WemhvroaVh0bPE9wQgHl6WG.jpg,Believe in your selfie.,N/A
+Fallen,60.0,2007-08-04,2007-08-05,"['Adventure', 'Fantasy']",Scripted,English,Freeform,7.6,1,4,2007-08-05,6.457,35.0,/f2I0lwI5c7WVwZOhYgK4QSgWo4E.jpg,Torn between good and evil.,N/A
+Zero Hour,60.0,2013-02-14,2013-08-03,"['Drama', 'Thriller', 'Supernatural']",Scripted,English,ABC,7.6,1,13,2013-08-03,5.302,43.0,/vRExY6DiLcDp4q4o8KJveDNmQwo.jpg,Break the code. Save the world.,39.0
+Regular Show,15.0,2010-09-06,2017-01-16,"['Comedy', 'Adventure']",Animation,English,Cartoon Network,7.6,8,246,2017-01-16,8.655,1783.0,/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg,It's anything but.,N/A
+The Spoils of Babylon,30.0,2014-01-09,2014-02-06,['Comedy'],Scripted,English,IFC,7.6,1,6,2014-02-06,6.089,45.0,/fFhrAk5IM9ofS8AksfLigX5shZ6.jpg,Love has no morals.,69.0
+Who's the Boss?,30.0,1984-09-20,1992-04-25,"['Comedy', 'Family']",Scripted,English,ABC,7.6,8,196,1992-04-25,7.555,235.0,/uZjNwfCNi6lX3jmYAxHB1DUuqcB.jpg,Father doesn't always know best!,N/A
+Conviction,60.0,2006-03-03,2006-05-19,"['Drama', 'Crime', 'Legal']",Scripted,English,NBC,7.6,1,13,2006-05-19,6.7,100.0,/7GZAKNbm4e1ljnTuDNhdYNPzdyx.jpg,"For the wrongly convicted, there's one last hope.",44.0
+Early Edition,60.0,1996-09-28,2000-05-27,"['Drama', 'Fantasy', 'Science-Fiction']",Scripted,English,CBS,7.6,4,90,2000-05-27,7.371,128.0,/uycL5H5ir0ckyyt17FXZAuSQU4p.jpg,What if you had tomorrow's news... TODAY?,N/A
+Revolution,60.0,2012-09-17,2014-05-21,"['Action', 'Adventure', 'Science-Fiction']",Scripted,English,NBC,7.6,2,42,2014-05-21,6.385,461.0,/pNyg4V6kuDstSSxk6Q9GgaBn4B8.jpg,Take back the power.,64.0
+Ugly Betty,60.0,2006-09-28,2010-04-14,"['Drama', 'Comedy']",Scripted,English,ABC,7.6,4,85,2010-04-14,6.249,189.0,/5W64XnpFAId4gGyRrR6nmafE8lV.jpg,Ugly is the new beautiful.,75.0
+The Flash,62.0,1990-09-20,1991-05-18,"['Action', 'Adventure', 'Science-Fiction']",Scripted,English,CBS,7.6,1,22,1991-05-18,7.797,10642.0,/lJA2RCMfsWoskqlQhXPSLFQGXEJ.jpg,The fastest man alive.,67.0
+Terra Nova,60.0,2011-09-26,2011-12-19,"['Action', 'Adventure', 'Science-Fiction']",Scripted,English,FOX,7.6,1,13,2011-12-19,6.764,687.0,/y8dFONeUSXhMHiFecqFoaGI7S6y.jpg,There is no paradise without sacrifice.,64.0
+Hellcats,60.0,2010-09-08,2011-05-17,"['Drama', 'Comedy']",Scripted,English,The CW,7.6,1,22,2011-05-17,7.637,102.0,/j52TnaTJ0yHN1m98NKkNj4bvku1.jpg,Before the competition is an even fiercer competition.,51.0
+Cougar Town,30.0,2009-09-23,2015-03-31,['Comedy'],Scripted,English,TBS,7.6,6,102,2015-03-31,6.423,200.0,/s8JLZq24rbbJsYxjt0WcitYUY0R.jpg,Bad title. Good comedy.,63.67
+American Gothic,60.0,1995-09-22,1998-02-06,"['Drama', 'Horror']",Scripted,English,CBS,7.6,1,22,1998-02-06,7.643,42.0,/qajOMTtQ958JEpmokPXTruwA9qp.jpg,Beyond the edge of evil lies the point of no return.,N/A
+Crossing Lines,60.0,2013-06-23,2015-12-04,"['Drama', 'Action', 'Crime']",Scripted,English,TF1,7.6,3,34,2015-12-04,6.771,94.0,/xraj4mL476xVyevEM2dNoTfvPMS.jpg,A world without borders needs justice without borders.,58.0
+Mildred Pierce,60.0,2011-03-27,2011-04-10,['Drama'],Scripted,English,HBO,7.6,1,5,2011-04-10,7.135,193.0,/eZ7TUocetldADAXZfnMSEVl7SbJ.jpg,Having it all would cost her everything.,69.0
+Wayward Pines,60.0,2015-05-14,2016-07-27,"['Drama', 'Science-Fiction', 'Mystery']",Scripted,English,FOX,7.6,2,20,2016-07-27,6.832,700.0,/mK9MowBCPEn7RbsDXqN0MxyPc4.jpg,One road in. No road out.,56.0
+The Secret Circle,60.0,2011-09-15,2012-05-10,"['Drama', 'Horror', 'Supernatural']",Scripted,English,The CW,7.6,1,22,2012-05-10,7.331,293.0,/3MwvNMhD9xpf1exlSfWgVm4sOF5.jpg,You know you want in.,56.0
+Hostages,51.0,2013-10-13,2016-04-19,"['Drama', 'Crime']",Scripted,Hebrew,Channel 10,7.6,2,22,2016-04-19,4.7,3.0,/p1pPd1HcXdlmXfC1uOzCXTCwIhZ.jpg,444 days. Decades in the making.,64.0
+Rookie Blue,60.0,2010-06-24,2015-07-29,"['Drama', 'Action', 'Crime']",Scripted,English,Global,7.6,6,74,2015-07-29,7.73,163.0,/e3hfrKjLHKjj3p82xvvGvfIu628.jpg,Every day is a first.,52.0
+Kim Possible,30.0,2002-06-07,2007-09-07,"['Comedy', 'Action', 'Adventure']",Animation,English,Disney Channel,7.6,4,88,2007-09-07,7.555,417.0,/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg,What's the sitch?,N/A
+Las Vegas,60.0,2003-09-22,2008-02-15,"['Drama', 'Crime']",Scripted,English,NBC,7.6,5,106,2008-02-15,6.939,189.0,/sLDHKh9zfsBf7eU1mroFhlO22jH.jpg,Fast. Furious. Fun,59.0
+Detroit 1-8-7,60.0,2010-09-21,2011-03-20,"['Drama', 'Action', 'Crime']",Scripted,English,ABC,7.6,1,18,2011-03-20,6.765,17.0,/6Pr1PiKJadiJld8pB5ZQ4gGCE3m.jpg,Our city. Our rules.,63.0
+Xena: Warrior Princess,60.0,1995-09-04,2001-06-25,"['Action', 'Adventure', 'Fantasy']",Scripted,English,Syndication,7.6,6,134,2001-06-25,7.584,1161.0,/qjUn6GVZVDifLHB7bvVrgZsOfzE.jpg,Her courage will change the world!,N/A
+Harper's Island,60.0,2009-04-09,2009-07-11,"['Horror', 'Thriller', 'Mystery']",Scripted,English,CBS,7.6,1,13,2009-07-11,7.007,212.0,/ihpf4yvi9GWATXj7IApblIHRMP4.jpg,13 weeks. 25 suspects. 1 killer.,63.0
+Marvel's Guardians of the Galaxy,30.0,2015-09-05,2019-06-09,"['Action', 'Adventure', 'Science-Fiction']",Animation,English,Disney XD,7.6,3,77,2019-06-09,7.224,67.0,/oXwe3wVhdvvxiixL9UJf6PgBybZ.jpg,We're back. You're welcome.,N/A
+Royal Pains,60.0,2009-06-04,2016-07-06,"['Drama', 'Comedy', 'Family']",Scripted,English,USA Network,7.5,8,104,2016-07-06,6.898,133.0,/4WW26JPHeG5mgrFkgjvv3Qmgcwg.jpg,Some doctors still make house calls,61.0
+Felicity,60.0,1998-09-29,2002-05-22,"['Drama', 'Romance']",Scripted,English,The WB,7.5,4,84,2002-05-22,6.597,68.0,/i6gZ7fVpLBK3l5FkxCzMtEtT7Bz.jpg,She's about to make the best mistake of her life.,87.0
+Reign,60.0,2013-10-17,2017-06-16,"['Drama', 'Romance', 'History']",Scripted,English,The CW,7.5,4,78,2017-06-16,8.042,742.0,/epNfFs0gPyrpekecpzyX0XTkZgI.jpg,Love is the most dangerous subject.,N/A
+Desperate Housewives,55.0,2004-10-03,2012-05-13,"['Drama', 'Comedy', 'Mystery']",Scripted,English,ABC,7.5,8,180,2012-05-13,7.929,1628.0,/mmL7HMdGOEaA8tR58s1PrpFsSmY.jpg,Secrets. Romance. Murder. All on one street,68.0
+United States of Tara,30.0,2009-01-18,2011-06-20,"['Drama', 'Comedy']",Scripted,English,Showtime,7.5,3,36,2011-06-20,7.063,127.0,/newGv7rjbWdBkFySAg3d2g94mD4.jpg,"Just your average mother, teenager, biker dude, housewife",73.0
+Once Upon a Time,60.0,2011-10-23,2018-05-18,"['Drama', 'Fantasy', 'Romance']",Scripted,English,ABC,7.5,7,156,2018-05-18,7.315,1948.0,/49qD372jeHUTmdNMGJkjCFZdv9y.jpg,Magic is coming.,66.0
+Sleepy Hollow,60.0,2013-09-16,2017-03-31,"['Drama', 'Mystery', 'Supernatural']",Scripted,English,FOX,7.5,4,62,2017-03-31,7.4,917.0,/ooDWFmGR5foBvLNsX1t30Kv6Dlc.jpg,Carry on.,64.0
+The Event,60.0,2010-09-20,2011-05-23,"['Drama', 'Action', 'Science-Fiction']",Scripted,English,NBC,7.5,1,22,2011-05-23,6.0,1.0,/6Q2q7Y4fhAvJNOXc7w5QDOj08s2.jpg,Perfection is served.,67.0
+Luck,60.0,2012-01-29,2012-03-25,"['Drama', 'Crime', 'Sports']",Scripted,English,HBO,7.5,1,9,2012-03-25,6.777,47.0,/ngiaLLLpGeRjww6ZagjZrg9elcg.jpg,Leave nothing to chance.,75.0
+Journeyman,60.0,2007-09-24,2007-12-19,"['Drama', 'Science-Fiction', 'Mystery']",Scripted,English,NBC,7.5,1,13,2007-12-19,7.456,79.0,/vCIvpqJlzxV5BV6kcR3fNd1Sesm.jpg,Time changes everything,52.0
+Witches of East End,60.0,2013-10-06,2014-10-05,"['Drama', 'Fantasy', 'Romance']",Scripted,English,Lifetime,7.5,2,23,2014-10-05,7.613,208.0,/jBWSp8hw8CNUFWxTCawXzAhu2Hj.jpg,Careful what you witch for.,50.0
+Unforgettable,60.0,2011-09-20,2016-01-22,"['Drama', 'Crime']",Scripted,English,A&E,7.5,4,61,2016-01-22,7.198,280.0,/6NsNh4qDhYiGp7SiHyk0Ec3Dns6.jpg,She can do anything but forget.,57.0
+The A-Team,60.0,1983-01-23,1987-03-08,"['Action', 'Adventure']",Scripted,English,NBC,7.5,5,98,1987-03-08,7.472,865.0,/p2qWJJ7Wyaq2xvgIHuBw4zVNBij.jpg,Heroes for hire.,N/A
+Twisted,60.0,2013-03-19,2014-04-01,"['Drama', 'Thriller', 'Mystery']",Scripted,English,Freeform,7.5,1,19,2014-04-01,7.635,52.0,/fMhccRNcOR4bDxxoWsnDZzjf7PB.jpg,The truth can be a killer.,66.0
+Life,60.0,2009-10-12,2009-12-14,['Nature'],Documentary,English,BBC One,7.5,1,10,2009-12-14,8.3,308.0,/lk6lrS81gDVGMAErTwEL9308kq1.jpg,"Four years, 3000 filming days, ten part blockbuster.",N/A
+Alphas,60.0,2011-07-11,2012-10-22,"['Drama', 'Science-Fiction', 'Supernatural']",Scripted,English,Syfy,7.5,2,24,2012-10-22,6.901,267.0,/z4pjaJPojPTue3tGcualzwQqo1Y.jpg,Super. And all too human.,63.0
+Touch,60.0,2012-01-25,2013-05-10,"['Drama', 'Science-Fiction', 'Mystery']",Scripted,English,FOX,7.5,2,26,2013-05-10,6.561,253.0,/thjBc7hm1TUnI68QRf5cnYnX89f.jpg,The world is connected. But only his son sees how.,63.0
+Ballers,30.0,2015-06-21,2019-10-13,"['Drama', 'Comedy', 'Sports']",Scripted,English,HBO,7.5,5,47,2019-10-13,6.7,699.0,/WyIazPyjmcFMC42nWEpI0jr56x.jpg,Legends Don't Die. They Reinvent.,N/A
+Rose Red,90.0,2002-01-27,2002-01-31,['Horror'],Scripted,English,ABC,7.5,1,3,2002-01-31,6.8,349.0,/wpPgTtvxJvTVSI8754VbsSmCzqo.jpg,Every house has a story to tell...this one will kill you.,47.0
+The Mighty Boosh,30.0,2003-05-20,2008-05-22,"['Comedy', 'Fantasy', 'Music']",Scripted,English,BBC Three,7.5,3,20,2008-05-22,7.632,117.0,/dKlYEo7mc1XLN2PutYlRuTLUXlC.jpg,Come with us now on a journey through time and space,N/A
+Blindspot,60.0,2015-09-21,2020-07-23,"['Drama', 'Crime', 'Thriller']",Scripted,English,NBC,7.5,5,100,2020-07-23,7.378,2293.0,/4AeYzamQmd9Fa6hawDmYKbdvBSe.jpg,Piecing together her past. One tattoo at a time.,65.0
+Little House on the Prairie,61.0,1974-09-11,1983-03-21,"['Drama', 'Family', 'Western']",Scripted,English,NBC,7.5,9,200,1983-03-21,7.9,813.0,/rrOItUbzFYzsl2Wl4XJjSeubb97.jpg,"Together, a pioneering family faces a crucial test of its courage and its love!",N/A
+Great Expectations,40.0,2011-12-27,2011-12-29,"['Drama', 'Romance']",Scripted,English,BBC One,7.5,1,3,2011-12-29,7.181,80.0,/lcS3dqdpYj07cysAqkaCpKf6y7Y.jpg,Everything can change in a heartbeat.,N/A
+Great Expectations,40.0,2011-12-27,2011-12-29,"['Drama', 'Romance']",Scripted,English,BBC One,7.5,1,3,2011-12-29,6.816,19.0,/izd70v2VS8SxGvnKxDpb65Q5Bx8.jpg,A classic tale reimagined.,N/A
+Pretty Little Liars,60.0,2010-06-08,2017-06-27,"['Romance', 'Thriller', 'Mystery']",Scripted,English,Freeform,7.5,7,160,2017-06-27,8.028,2425.0,/frB4pyzEnYnO3F67iYPGZGEpEbr.jpg,Time to bring your A game.,54.0
+ALF,30.0,1986-09-22,1996-02-17,"['Comedy', 'Family', 'Science-Fiction']",Scripted,English,NBC,7.5,4,102,1996-02-17,7.681,992.0,/shRed7ZrCRjdIMEYNx2YBVFkkNu.jpg,Got cat?,44.0
+The Goldbergs,30.0,2013-09-24,2023-05-03,"['Comedy', 'Family']",Scripted,English,ABC,7.5,10,229,2023-05-03,7.7,292.0,/pZyaKyry0V1muunoTt6pZ6cLduR.jpg,Picture perfect.,52.0
+Miami Vice,61.0,1984-09-16,1990-01-25,"['Drama', 'Action', 'Crime']",Scripted,English,NBC,7.5,5,110,1990-01-25,7.503,358.0,/b5kLqC6eDiA17nq3jr1Vi340Kns.jpg,There's no stopping them.,N/A
+The Fosters,60.0,2013-06-03,2018-06-06,"['Drama', 'Family', 'Romance']",Scripted,English,Freeform,7.5,5,104,2018-06-06,7.595,279.0,/h8pYmBwj76Pi2vt8HFnzdlsjEsA.jpg,How do you define family?,69.0
+Bewitched,30.0,1964-09-17,1972-03-25,"['Comedy', 'Family', 'Fantasy']",Scripted,English,ABC,7.5,8,254,1972-03-25,7.9,624.0,/7UZVO1SclbgVWM2ELrwWGaS7i94.jpg,Witches are people too!,N/A
+The Flash,60.0,2014-10-07,2023-05-24,"['Drama', 'Action', 'Science-Fiction']",Scripted,English,The CW,7.5,9,184,2023-05-24,7.797,10642.0,/lJA2RCMfsWoskqlQhXPSLFQGXEJ.jpg,The fastest man alive.,67.0
+Constantine,60.0,2014-10-24,2015-02-13,"['Drama', 'Action', 'Horror']",Scripted,English,NBC,7.5,1,13,2015-02-13,7.809,1369.0,/gQ3bA1DBKyZwkDCHJFEAT0MkKpu.jpg,Everyone fights their demons. His fight back.,N/A
+Awake,60.0,2012-03-01,2012-05-24,"['Drama', 'Fantasy', 'Thriller']",Scripted,English,NBC,7.4,1,13,2012-05-24,7.048,166.0,/gAXMk6AhGNNIT00DyCiXZ2gIQnK.jpg,Two dreams. One reality.,74.0
+Hawaii Five-O,60.0,1968-09-20,1980-04-05,"['Action', 'Adventure', 'Crime']",Scripted,English,CBS,7.4,12,284,1980-04-05,7.0,116.0,/6jwEtk9UgHoQCVrqHuRmbgSvwMS.jpg,"Book 'Em, Danno!",N/A
+Believe,60.0,2014-03-10,2014-06-30,"['Drama', 'Action', 'Fantasy']",Scripted,English,NBC,7.4,1,13,2014-06-30,6.738,143.0,/1h1txgv70Rl0b4OrNIJi6korazk.jpg,An extraordinary girl...about to change the world,55.0
+Dirty Sexy Money,60.0,2007-09-26,2009-08-08,['Drama'],Scripted,English,ABC,7.4,2,23,2009-08-08,6.219,64.0,/qZHn3otXV4y7AELII800Gpv3TbW.jpg,You can't be filthy rich... without getting a little dirty.,68.0
+Mixology,30.0,2014-02-26,2014-05-21,"['Comedy', 'Romance']",Scripted,English,ABC,7.4,1,13,2014-05-21,6.7,22.0,/wqmf1BB7BiQKAr3WqYNEt9fEiWg.jpg,A romantic comedy with a twist.,48.0
+Bad Judge,30.0,2014-10-02,2015-01-22,"['Comedy', 'Family']",Scripted,English,NBC,7.4,1,13,2015-01-22,6.5,40.0,/t6xaYRcLvUAWwaoGw6EoUG39U7V.jpg,Upholding the rules by day. Breaking them by night.,38.0
+Surface,60.0,2005-09-19,2006-02-06,"['Action', 'Adventure', 'Science-Fiction']",Scripted,English,NBC,7.4,1,15,2006-02-06,6.5,28.0,/bM2OlmtSFj1CmDNLyP9A7jbDuGr.jpg,Who do you trust when you can't trust yourself?,39.0
+Taxi,30.0,1978-09-12,1983-06-15,['Comedy'],Scripted,English,NBC,7.4,5,114,1983-06-15,7.183,126.0,/pua3A2XSaO6bP6WhVDBRbcyRTAS.jpg,It's off the laugh meter!,77.0
+Recovery Road,60.0,2016-01-25,2016-03-28,"['Drama', 'Family']",Scripted,English,Freeform,7.4,1,10,2016-03-28,6.833,21.0,/awoLSvv65KBx1rzb1BG7GI4o0zD.jpg,They have a connection.,N/A
+Relic Hunter,60.0,1999-09-25,2002-05-20,"['Action', 'Adventure', 'Fantasy']",Scripted,English,Syndication,7.4,3,66,2002-05-20,6.756,129.0,/t04oqIsBlRnxKOWhBL6SlEQowZ5.jpg,Beauty. Brains. Black Belt,N/A
+JAG,60.0,1995-09-23,2005-04-29,"['Drama', 'Crime', 'Legal']",Scripted,English,CBS,7.4,10,227,2005-04-29,7.31,302.0,/zPyHpkJZ5O08lbgrQQIROXtb3xz.jpg,The defense never rests,62.0
+The Bridge,60.0,2013-07-10,2014-10-01,"['Drama', 'Crime', 'Thriller']",Scripted,English,FX,7.4,2,26,2014-10-01,3.7,3.0,/nYAVEIIXcO7tnDbO0zyKfSx4ZRb.jpg,Murderers have no homeland,65.0
+V,60.0,2009-11-03,2011-03-15,"['Drama', 'Adventure', 'Science-Fiction']",Scripted,English,ABC,7.4,2,22,2011-03-15,7.736,851.0,/fV5U1eWPC8Dvxq0BUIoF7cvBK1o.jpg,Humankind's last stand.,57.5
+V,60.0,2009-11-03,2011-03-15,"['Drama', 'Adventure', 'Science-Fiction']",Scripted,English,ABC,7.4,2,22,2011-03-15,6.821,618.0,/b2w3vq0uvfmahS6dB41WeWByhVy.jpg,We are of peace. Always.,57.5
+Jane the Virgin,60.0,2014-10-13,2019-07-31,"['Drama', 'Crime', 'Romance']",Scripted,English,The CW,7.4,5,100,2019-07-31,8.0,777.0,/DRRHgvsNEfBloMgIP8bBw4zi4E.jpg,What's a virgin mother to do?,80.0
+Bitten,60.0,2014-01-11,2016-04-15,"['Drama', 'Horror', 'Romance']",Scripted,English,CTV Sci-Fi Channel,7.4,3,33,2016-04-15,7.328,224.0,/guhxl5I8J1WVEA3yeDt8hwgpYWx.jpg,"Who's afraid of the big, blonde wolf?",59.0
+The Tomorrow People,60.0,2013-10-09,2014-05-05,"['Action', 'Science-Fiction']",Scripted,English,The CW,7.4,1,22,2014-05-05,7.009,293.0,/3EavFY6TuhDm4ERbDGrZ1oEqB57.jpg,Different is dangerous.,50.0
+Medium,60.0,2005-01-03,2011-01-21,"['Drama', 'Crime', 'Supernatural']",Scripted,English,CBS,7.4,7,130,2011-01-21,7.563,468.0,/aqawO5mYblDRwEmHjMiLJa8LyIr.jpg,She Sees What Others Can't.,58.0
+Life Unexpected,60.0,2010-01-18,2011-01-18,"['Drama', 'Family']",Scripted,English,The CW,7.4,2,26,2011-01-18,7.806,67.0,/riHJXZovS7QjhRyiwnm2ULpx5JN.jpg,Family is the new F-word...,69.0
+Rosewood,60.0,2015-09-23,2017-04-28,"['Drama', 'Crime', 'Medical']",Scripted,English,FOX,7.4,2,44,2017-04-28,6.7,138.0,/zjrfQbFzmOaOrgEbJHG2eIwjKbv.jpg,Life. Death. Miami.,37.0
+Arrow,60.0,2012-10-10,2020-01-28,"['Drama', 'Action', 'Science-Fiction']",Scripted,English,The CW,7.4,8,170,2020-01-28,6.793,5569.0,/gKG5QGz5Ngf8fgWpBsWtlg5L2SF.jpg,Heroes fall. Legends rise.,73.0
+Samantha Who?,30.0,2007-10-15,2009-07-23,['Comedy'],Scripted,English,ABC,7.4,2,35,2009-07-23,6.597,62.0,/wAvkXvn5u55osbHYqAv7Y1kEDfO.jpg,"She's been a bad, bad girl... Good thing she can't remember.",59.0
+In Treatment,30.0,2008-01-28,2021-06-28,"['Drama', 'Medical']",Scripted,English,HBO,7.4,4,130,2021-06-28,7.8,128.0,/jT5aE1ghJL9OKrxmAr2GUiWCcYw.jpg,The time is yours.,77.5
+That's So Raven,30.0,2003-01-17,2007-11-10,"['Comedy', 'Children', 'Fantasy']",Scripted,English,Disney Channel,7.4,4,100,2007-11-10,7.215,198.0,/fLo2KYsE7gdM8ti1L9pcdaLoLPD.jpg,She can see the future. But she can't quite see what's coming next.,N/A
+Phineas and Ferb,15.0,2007-08-17,2020-08-28,"['Comedy', 'Children']",Animation,English,Disney Channel,7.4,4,222,2020-08-28,7.875,701.0,/haFnEJx44Uk4w2YEzQpdclVURlS.jpg,There is no such thing as an ordinary day to Phineas and Ferb.,N/A
+Garfunkel and Oates,30.0,2014-08-07,2014-09-25,"['Comedy', 'Music']",Scripted,English,IFC,7.4,1,8,2014-09-25,7.027,37.0,/ssli1RoRtD81vuHPj86OtKJSnBJ.jpg,Going solo together,N/A
+Garfunkel and Oates,30.0,2014-08-07,2014-09-25,"['Comedy', 'Music']",Scripted,English,IFC,7.4,1,8,2014-09-25,5.6,5.0,/rKA1VRobH4qsD7k9J1icyFV1nDR.jpg,These two couldn't be tighter,N/A
+Cristela,30.0,2014-10-10,2015-04-17,"['Comedy', 'Legal']",Scripted,English,ABC,7.3,1,22,2015-04-17,6.6,16.0,/qmvHnL6TP5XoUJB9pUDMaz95tOz.jpg,"She can dream, can't she?",61.0
+Crossing Jordan,60.0,2001-09-24,2007-05-16,"['Drama', 'Crime', 'Mystery']",Scripted,English,NBC,7.3,6,117,2007-05-16,7.346,127.0,/bywFoHoLZvW2vxDc7n4ToAKkR0y.jpg,Every body tells a story,60.0
+Mob City,60.0,2013-12-04,2013-12-18,"['Drama', 'Crime']",Scripted,English,TNT,7.3,1,6,2013-12-18,6.938,65.0,/6W6Xhj1KOIcBtASHHhmpyySoUik.jpg,"Where the good become bad, and the bad become gods.",63.0
+GCB,60.0,2012-03-04,2012-05-06,"['Drama', 'Comedy', 'Romance']",Scripted,English,ABC,7.3,1,10,2012-05-06,6.315,27.0,/cBRvJhjEoVYWqYwTR3P7T6zsVCi.jpg,Love thy neighbor.,55.0
+The Returned,60.0,2015-03-09,2015-05-11,"['Drama', 'Fantasy', 'Horror']",Scripted,English,A&E,7.3,1,10,2015-05-11,7.5,227.0,/x6B2UTMMU06GNzRgbDfaObuWFT6.jpg,The dead have returned. But this is a homecoming like no other.,87.0
+Last Resort,60.0,2012-09-27,2013-01-24,"['Drama', 'Action', 'War']",Scripted,English,ABC,7.3,1,13,2013-01-24,6.776,145.0,/sU4bMBN12QZxSNp6A1U3UHUGxlY.jpg,Honor in defiance.,74.0
+Looking,32.0,2014-01-19,2015-03-22,"['Drama', 'Comedy', 'Romance']",Scripted,English,HBO,7.3,2,18,2015-03-22,7.281,112.0,/cMIRpZUOXwZcDoGyRJnwrrZQYzW.jpg,Find something real.,73.0
+Transporter: The Series,60.0,2013-01-04,2014-12-14,"['Action', 'Adventure', 'Crime']",Scripted,English,RTL,7.3,2,24,2014-12-14,6.047,96.0,/23ESZ6mTcJw8zHOkW4G38uIz147.jpg,Deliver the goods. Get out alive.,N/A
+The Librarians,60.0,2014-12-07,2018-02-07,"['Action', 'Adventure', 'Supernatural']",Scripted,English,TNT,7.3,4,42,2018-02-07,7.275,395.0,/bHozq314oNsSZvomSPFIaGrw1Zx.jpg,Filing evil under history.,N/A
+Covert Affairs,60.0,2010-07-13,2014-12-18,"['Drama', 'Action', 'Crime']",Scripted,English,USA Network,7.3,5,75,2014-12-18,6.9,191.0,/pRWUGSGdByQHW93DH2braqkRjZa.jpg,Single woman. Double life,64.0
+The Six Million Dollar Man,60.0,1974-01-18,1978-03-06,"['Drama', 'Action', 'Adventure']",Scripted,English,ABC,7.3,5,101,1978-03-06,7.3,358.0,/5pd6DayQgZxK9lQHdZZYZuXyaZ2.jpg,Better. Stronger. Faster.,N/A
+Special Unit 2,60.0,2001-04-11,2002-02-13,"['Comedy', 'Action', 'Horror']",Scripted,English,UPN,7.3,2,19,2002-02-13,7.7,20.0,/hGc06r4JZlGOZFDs5yqPtTDj1vE.jpg,Monsters are real. Deal with it!,N/A
+Scorpion,60.0,2014-09-22,2018-04-16,"['Drama', 'Action', 'Thriller']",Scripted,English,CBS,7.3,4,93,2018-04-16,8.246,3688.0,/hzeirSF6bRjssDh5JFrm5WRwFLd.jpg,This team is pure genius.,48.0
+The Practice,60.0,1997-03-04,2004-05-16,"['Drama', 'Legal']",Scripted,English,ABC,7.3,8,167,2004-05-16,7.8,81.0,/7OKZSUIWhjFP0F2s478zTrAYwDB.jpg,Between Justice And Morality Can We Choose?,74.0
+Zoo,60.0,2015-06-30,2017-09-21,"['Drama', 'Science-Fiction', 'Thriller']",Scripted,English,CBS,7.3,3,39,2017-09-21,6.7,499.0,/yg9x4J3ZTslvVSz5Mtu9pH0FWcr.jpg,The wild shall inherit the earth.,55.0
+The Red Road,60.0,2014-02-27,2015-05-07,"['Drama', 'Crime', 'Family']",Scripted,English,SundanceTV,7.3,2,12,2015-05-07,6.81,42.0,/hlUbfYYGmWfLwdCh2H78nRomSg1.jpg,Lines will be crossed.,66.0
+Nash Bridges,60.0,1996-03-29,2001-05-04,"['Drama', 'Crime']",Scripted,English,CBS,7.3,6,122,2001-05-04,6.679,81.0,/hJeHSCFoxWN2Pt2lg56CKOi9g87.jpg,Crime fighter by day. Lady killer by night,N/A
+Remington Steele,61.0,1982-10-01,1987-02-17,"['Comedy', 'Action', 'Mystery']",Scripted,English,NBC,7.3,5,92,1987-02-17,7.097,109.0,/3UGDVrdwavyU0WIddhZf4eov6yv.jpg,Before He Was Bond He Was...,N/A
+Secrets and Lies,60.0,2015-03-01,2016-12-04,"['Drama', 'Crime', 'Thriller']",Scripted,English,ABC,7.3,2,20,2016-12-04,7.489,94.0,/y1HaNebKAtwHOSpC3T3NTChoKtJ.jpg,Did he or didn't he?,48.0
+Gossip Girl,60.0,2007-09-19,2012-12-17,"['Drama', 'Romance']",Scripted,English,The CW,7.3,6,121,2012-12-17,8.302,1852.0,/hvDlmhoImfX5oUYS2gXxsMrpSTB.jpg,You're nobody until you're talked about.,61.0
+Gossip Girl,60.0,2007-09-19,2012-12-17,"['Drama', 'Romance']",Scripted,English,The CW,7.3,6,121,2012-12-17,7.521,264.0,/9oY4OR0jQUbnKC5BhoUOQRrgIp9.jpg,Reputations will be shattered.,61.0
+The World Wars,120.0,2014-05-26,2014-05-28,['War'],Documentary,English,History,7.3,1,3,2014-05-28,7.867,15.0,/y3KL7tlWsaLpB7zL1yAO5BZhoXG.jpg,WW1 made Roosevelt a man. WW2 made him a legend.,62.0
+Hellsing,30.0,2001-10-10,2002-01-16,"['Anime', 'Horror', 'Supernatural']",Animation,Japanese,Fuji TV,7.3,1,13,2002-01-16,8.001,437.0,/wdSi1q7WNLNvxvmjrI4F93zzqQO.jpg,"In the name of God, impure souls of the living dead shall be banished into eternal damnation. Amen.",N/A
+Remedy,60.0,2014-02-24,2015-05-19,"['Drama', 'Family', 'Medical']",Scripted,English,Global,7.3,2,20,2015-05-19,6.0,11.0,/rOLtmCrX4TYx5QJCwAbI1hMlqeA.jpg,One family. Two worlds.,N/A
+The Mysteries of Laura,60.0,2014-09-17,2016-03-02,"['Comedy', 'Crime']",Scripted,English,NBC,7.3,2,38,2016-03-02,7.157,86.0,/f9jBbq8GyuBOK3dAFPaBg7aaMb9.jpg,"Catching bad guys, raising naughty ones",37.0
+Happy Endings,30.0,2011-04-13,2013-05-03,['Comedy'],Scripted,English,ABC,7.3,3,57,2013-05-03,7.014,148.0,/uTrHn5iqu0lRKWjbfnFADNcSQdE.jpg,Share the love.,57.0
+Low Winter Sun,60.0,2013-08-11,2013-10-06,"['Drama', 'Crime']",Scripted,English,AMC,7.3,1,10,2013-10-06,6.2,40.0,/x8tTZpyHY2sTmITWxjLfsYs4Ydj.jpg,Good man. Cop. Killer.,60.0
+Dig,60.0,2015-03-05,2015-05-07,"['Drama', 'Thriller', 'Mystery']",Scripted,English,USA Network,7.3,1,10,2015-05-07,6.4,68.0,/uBv3pEpjgklfirbLhGS0GOJWHbe.jpg,"The deeper you dig, the further you get from the truth.",49.0
+"Dr. Quinn, Medicine Woman",60.0,1993-01-01,1998-05-16,"['Drama', 'Family', 'Western']",Scripted,English,CBS,7.3,6,150,1998-05-16,7.589,388.0,/rF32uo83bzezkEUQ8VGarbCJi32.jpg,Her Courage Forged A New Vision For The Old West,N/A
+Grandfathered,30.0,2015-09-29,2016-05-10,"['Comedy', 'Family']",Scripted,English,FOX,7.3,1,22,2016-05-10,6.7,39.0,/4kxhllcajbzQwjYiyXFGJKXmvY5.jpg,He just found out he's got a kid who's got a kid. He's not suited for this.,62.0
+Clone High,30.0,2002-11-02,2003-04-13,"['Comedy', 'Science-Fiction']",Animation,English,Cartoon Network,7.3,1,13,2003-04-13,7.3,17.0,/pmxq3egWxTEKNnjOdD5x9FGnDbs.jpg,"They're back again, for the first time.",N/A
+Highlander: The Animated Series,30.0,1994-10-16,1995-11-17,"['Action', 'Adventure', 'Fantasy']",Animation,English,USA Network,7.3,2,40,1995-11-17,6.9,14.0,/qSBVGwPl9A5sWoipesXPpaGFKDH.jpg,THERE CAN ONLY BE ONE!,N/A
+Suburgatory,30.0,2011-09-28,2014-05-14,['Comedy'],Scripted,English,ABC,7.2,3,57,2014-05-14,6.8,172.0,/tJ6rU9LZ6SSigvJF5P4sot0T8V3.jpg,Escape is not an option.,71.0
+Alice,120.0,2009-12-06,2009-12-07,"['Adventure', 'Fantasy']",Scripted,English,Syfy,7.2,1,2,2009-12-07,6.622,115.0,/2lvWLSOPtsqkgVIfEz9ai7D6TUr.jpg,Welcome to a whole new Wonderland.,N/A
+Dawson's Creek,60.0,1998-01-20,2003-05-14,"['Drama', 'Romance']",Scripted,English,The WB,7.2,6,128,2003-05-14,7.39,458.0,/dmUJgcexAi235vXwDmYdLQFunbR.jpg,It's the end of something simple. And the beginning of everything else.,62.0
+Kitchen Nightmares,60.0,2007-09-19,2023-12-04,['Food'],Reality,English,FOX,7.2,8,102,2023-12-04,10.0,2.0,/7A1oUuJzIj3Wb3wGnLmrefZKxdb.jpg,Get your shift straight.,66.0
+Eastbound & Down,30.0,2009-02-15,2013-11-17,"['Drama', 'Comedy', 'Sports']",Scripted,English,HBO,7.2,4,29,2013-11-17,7.4,246.0,/hM9Yj5Q0yzZZf8IJ0dtFyUW2D9X.jpg,Every kid has a baseball player to look up to. Kenny Powers is not that guy.,61.0
+Battle Creek,60.0,2015-03-01,2015-05-24,"['Drama', 'Comedy', 'Crime']",Scripted,English,CBS,7.2,1,13,2015-05-24,7.0,66.0,/5oqPaAiwflr1o4PlNvkAGRC9DCX.jpg,Not all cops are buddies.,73.0
+Adventures of Superman,30.0,1952-09-19,1958-04-28,"['Action', 'Adventure', 'Crime']",Scripted,English,Syndication,7.2,6,104,1958-04-28,6.4,47.0,/3eKmwXE2A394l3GB9eIOy7kYm25.jpg,It's a bird! It's a plane! It's Superman!,N/A
+Extant,60.0,2014-07-09,2015-09-09,"['Drama', 'Science-Fiction', 'Thriller']",Scripted,English,CBS,7.2,2,26,2015-09-09,6.344,282.0,/nFwqHXoP1FxFbd8G8dY13y9bfAX.jpg,A new mystery is born.,68.0
+Dominion,60.0,2014-06-19,2015-10-01,"['Action', 'Adventure', 'Fantasy']",Scripted,English,Syfy,7.2,2,21,2015-10-01,6.588,232.0,/2rBiS2m5hZbTSxorXQmUcbt2cTU.jpg,Heaven Will Raise Hell on Earth,47.0
+The Pretender,60.0,1996-09-19,2001-12-10,"['Drama', 'Adventure', 'Mystery']",Scripted,English,NBC,7.2,4,86,2001-12-10,7.3,165.0,/76q5tPOPQkQYIuZu2SG6viZcp2b.jpg,Hero of a thousand faces. Man of a thousand lives.,N/A
+Will & Grace,30.0,1998-09-21,2020-04-23,['Comedy'],Scripted,English,NBC,7.2,11,246,2020-04-23,6.954,415.0,/m2AWZDAHesXDmLwVm73BpGlP55a.jpg,Where there's a Will there's a Grace.,75.0
+Will & Grace,30.0,1998-09-21,2020-04-23,['Comedy'],Scripted,English,NBC,7.2,11,246,2020-04-23,7.65,70.0,/iRsgY1TRNTccltEGk9V9wNqqKOx.jpg,Did somebody say encore?,75.0
+Cupid,60.0,2009-03-31,2009-06-16,"['Drama', 'Romance']",Scripted,English,ABC,7.2,1,7,2009-06-16,5.8,10.0,/gC6Q0P9HBvpIfk6Nttsk8JAaYKQ.jpg,Get a love life.,52.0
+The Gates,60.0,2010-06-20,2010-09-19,"['Drama', 'Crime', 'Supernatural']",Scripted,English,ABC,7.2,1,13,2010-09-19,6.476,63.0,/23cbKVCDdzufFYxmlUIQcHZzwv4.jpg,Beautiful houses. Great schools. Killer neighbors.,52.0
+New Girl,30.0,2011-09-20,2018-05-15,"['Comedy', 'Romance']",Scripted,English,FOX,7.2,7,146,2018-05-15,7.354,1231.0,/8oCqMlKKomCArVtyOjRzMN6g40Z.jpg,Boys will be boys. Jess will be Jess.,66.0
+The Incredible Hulk,61.0,1977-11-04,1982-05-12,"['Action', 'Fantasy', 'Science-Fiction']",Scripted,English,CBS,7.2,5,83,1982-05-12,7.2,412.0,/8q7uFuNuMWTWfcpnCpBuZa3KZXx.jpg,Driven by rage. Pursued by an investigative reporter. Wanted for a murder he didn't commit. No one ever said it was easy being green.,N/A
+Serial Experiments Lain,30.0,1998-07-06,1998-09-28,"['Anime', 'Science-Fiction', 'Thriller']",Animation,Japanese,TV Tokyo,7.2,1,13,1998-09-28,8.198,436.0,/mAbr1imNV7gg4kHhP3VFDghmLrO.jpg,"Close the world, Open the nExt.",N/A
+Survivors,60.0,2008-11-23,2010-02-23,"['Drama', 'Science-Fiction']",Scripted,English,BBC One,7.2,2,12,2010-02-23,7.9,20.0,/djYiHmLuom48ja9g712ZIiHgRbP.jpg,From global pandemic... to rebirth.,63.0
+The Escape Artist,60.0,2013-10-29,2013-11-12,"['Drama', 'Thriller', 'Legal']",Scripted,English,BBC One,7.2,1,3,2013-11-12,6.985,65.0,/vIKU5IHQdavwz9KbMCKY8zJK8rU.jpg,There is a line between law and justice.,71.0
+Stitchers,59.0,2015-06-02,2017-08-14,"['Drama', 'Crime', 'Science-Fiction']",Scripted,English,Freeform,7.2,3,30,2017-08-14,7.0,201.0,/wriOiQ3rdPhoMe1NofcLJRx9fns.jpg,Memories never die.,48.0
+Airwolf,60.0,1984-01-22,1987-08-07,"['Action', 'Adventure', 'Science-Fiction']",Scripted,English,USA Network,7.2,4,80,1987-08-07,7.47,382.0,/4PAN7zPqmR9b73een97WkxqCTQN.jpg,A New Kind of Weapon. A New Kind of Hero.,N/A
+Ravenswood,60.0,2013-10-22,2014-02-04,"['Drama', 'Horror']",Scripted,English,Freeform,7.2,1,10,2014-02-04,7.132,148.0,/iyHfTSDTSkj4sIGcFCaj2LcqAim.jpg,The curse is about to strike again.,N/A
+The Astronaut Wives Club,60.0,2015-06-18,2015-08-20,"['Drama', 'History']",Scripted,English,ABC,7.1,1,10,2015-08-20,7.1,30.0,/2q9bSJnZlMgHwevjiNVKtpgCyrC.jpg,The race for space was fought in high heels.,60.0
+The Neighbors,30.0,2012-09-26,2014-04-11,"['Comedy', 'Science-Fiction']",Scripted,English,ABC,7.1,2,44,2014-04-11,6.2,66.0,/byYckInWgH6fjSc6HVg2CZapeNK.jpg,A down-to-earth family comedy.,42.0
+Superstore,30.0,2015-11-30,2021-03-25,['Comedy'],Scripted,English,NBC,7.1,6,112,2021-03-25,7.583,529.0,/maBJkaBM4UqAttn9UkLCfZEVEfk.jpg,They're getting their shift together.,58.0
+Resurrection,60.0,2014-03-09,2015-01-25,"['Drama', 'Science-Fiction', 'Mystery']",Scripted,English,ABC,7.1,2,21,2015-01-25,7.28,266.0,/2bs5QoJwZmew05052jST9vgIEJc.jpg,What if someone you lost... returned?,60.0
+The Firm,60.0,2012-01-08,2012-07-14,"['Drama', 'Crime', 'Legal']",Scripted,English,NBC,7.1,1,22,2012-07-14,6.194,18.0,/5m3jenqRfwi97xRDD1vlj7rFD2j.jpg,The truth is as dangerous as ever.,N/A
+Blunt Talk,30.0,2015-08-22,2016-12-11,"['Drama', 'Comedy']",Scripted,English,STARZ,7.1,2,20,2016-12-11,6.8,46.0,/tPPJbwR1Z1zZzTvXTu3DaCfUpgk.jpg,America's most trusted newsman. Maybe.,56.0
+Melrose Place,60.0,1992-07-08,1999-05-24,"['Drama', 'Romance']",Scripted,English,FOX,7.1,7,226,1999-05-24,5.763,116.0,/kIc03DwT3DPd48lKlbpyPxx3O1S.jpg,"At Melrose Place, no one is innocent.",55.0
+Melrose Place,60.0,1992-07-08,1999-05-24,"['Drama', 'Romance']",Scripted,English,FOX,7.1,7,226,1999-05-24,5.571,21.0,/90KR19Cqhgl61PwN4O4N6cURAi.jpg,Tuesday's the new Humpday,55.0
+Tut,80.0,2015-07-19,2015-07-21,"['Drama', 'Adventure', 'Romance']",Scripted,English,Paramount Network,7.1,1,3,2015-07-21,7.289,180.0,/AoKHf67aYDUOkZkS9tVOEgDzjMa.jpg,Boy. Rebel. King.,46.0
+Selfie,30.0,2014-09-30,2014-12-30,"['Comedy', 'Romance']",Scripted,English,ABC,7.1,1,13,2014-12-30,6.41,78.0,/wMHyfRltVBvmlkDqMZgMGURnwHn.jpg,Get ready to have a Selfie!,57.0
+Golden Boy,60.0,2013-02-26,2013-05-14,"['Drama', 'Crime']",Scripted,English,CBS,7.1,1,13,2013-05-14,6.13,27.0,/9eHX6eMSsLQlokTC3oIf3xsS2fX.jpg,Power Has Its Price,63.0
+The Jinx: The Life and Deaths of Robert Durst,46.0,2015-02-08,2024-05-26,"['Crime', 'Mystery', 'History']",Documentary,English,HBO,7.1,2,12,2024-05-26,8.047,381.0,/qY3rk9hH6dzgDrIkonxxHBF3rp8.jpg,Four decades. Three murders. And one very rich suspect.,76.0
+Crisis,60.0,2014-03-16,2014-06-21,"['Drama', 'Action', 'Thriller']",Scripted,English,NBC,7.1,1,13,2014-06-21,6.344,122.0,/BvcrUL7G9mVZo7YrfC5uWu4fpa.jpg,How far would you go to protect the ones you love...,63.0
+Necessary Roughness,60.0,2011-06-29,2013-08-21,"['Drama', 'Comedy']",Scripted,English,USA Network,7.1,3,38,2013-08-21,6.889,36.0,/ch0k5IfqOan8YkVEnVebbK0Sk0n.jpg,Everyone has issues to tackle.,62.0
+Mutant X,60.0,2001-10-06,2004-05-17,"['Action', 'Adventure', 'Science-Fiction']",Scripted,English,Syndication,7.1,3,66,2004-05-17,6.571,91.0,/yiKg027jdpkSsguVBI9WqliNWez.jpg,Creation can have it's side effects,N/A
+Invasion,60.0,2005-09-21,2006-05-17,"['Science-Fiction', 'Thriller', 'Supernatural']",Scripted,English,ABC,7.1,1,22,2006-05-17,7.29,800.0,/wWFs3pl9gWHYvDElQVB4CB809m9.jpg,Fight together or fall apart.,72.0
+Reba,30.0,2001-10-05,2007-02-18,"['Drama', 'Comedy', 'Family']",Scripted,English,The CW,7.1,6,125,2007-02-18,6.717,83.0,/ngMBdjwadGj233A3DApyIijCGlg.jpg,"""Good thing we're the only family in Texas without a gun.""",N/A
+The O.C.,60.0,2003-08-05,2007-02-22,"['Drama', 'Comedy', 'Romance']",Scripted,English,FOX,7.1,4,92,2007-02-22,7.814,692.0,/xDc6BMGDaeyalpSZ9KKk7RCBCz5.jpg,It's nothing like where you live. And nothing like you imagine.,67.0
+The Prisoner,60.0,2009-11-15,2009-11-17,"['Drama', 'Science-Fiction', 'Mystery']",Scripted,English,AMC,7.1,1,6,2009-11-17,7.8,159.0,/1FtqAlj6jsBk25PKwL2NrgzdFSo.jpg,No man is just a number.,45.0
+The Cleaner,60.0,2008-07-15,2009-09-15,"['Drama', 'Action']",Scripted,English,A&E,7.1,2,26,2009-09-15,6.885,13.0,/huLx1P9ByuzQWah4mtSAqiSnzg8.jpg,Sometimes your only hope is someone who's been there before,41.0
+In the Flesh,60.0,2013-03-17,2014-06-08,"['Drama', 'Horror', 'Supernatural']",Scripted,English,BBC Three,7.0,2,9,2014-06-08,7.3,125.0,/e4tZDFurNMf1nWzBamhz1hOEsFZ.jpg,Life is hard. Death isn't any easier,N/A
+Crazy Ex-Girlfriend,60.0,2015-10-12,2019-04-05,"['Comedy', 'Music']",Scripted,English,The CW,7.0,4,62,2019-04-05,6.827,142.0,/pvYh3fdrRvreWmqw4onWJJmRXf5.jpg,Never. Let. Go.,82.0
+Shake It Up,30.0,2010-11-07,2013-11-10,"['Comedy', 'Family']",Scripted,English,Disney Channel,7.0,3,78,2013-11-10,7.736,259.0,/d3opexNCkiSaCaIZ104J8LiCqxi.jpg,"Mix It Up, Laugh It Up",N/A
+Franklin & Bash,60.0,2011-06-01,2014-10-22,"['Drama', 'Comedy', 'Legal']",Scripted,English,TNT,7.0,4,40,2014-10-22,7.444,71.0,/so3xbOsAcG5lkxgfRjHbTFkXxM0.jpg,Ripping the law a new one,56.0
+The Passing Bells,30.0,2014-11-03,2014-11-07,"['Drama', 'War', 'History']",Scripted,English,BBC One,7.0,1,5,2014-11-07,7.588,17.0,/3i1Gqt8ejEwjXq3pFiD1P8ykgVK.jpg,Shared hopes. Shared sorrows.,N/A
+Web Therapy,30.0,2011-07-19,2015-01-28,['Comedy'],Scripted,English,Showtime,7.0,4,44,2015-01-28,7.3,25.0,/9LD7OvTYYCuDAEjetcNm6QaCVqQ.jpg,Therapy with no patience.,58.0
+Queer As Folk,40.0,1999-02-23,2000-02-22,['Drama'],Scripted,English,Channel 4,7.0,2,10,2000-02-22,8.287,458.0,/mmhL30PonbrrpEOQH5OdyUguyMg.jpg,You know you want it.,N/A
+Heroes Reborn,60.0,2015-09-24,2016-01-21,"['Drama', 'Action', 'Science-Fiction']",Scripted,English,NBC,7.0,1,13,2016-01-21,6.849,454.0,/bHSkrlwjJgHq8Aa6AdDJvWuSI2X.jpg,A new phenomenon begins,N/A
+Enlightened,30.0,2011-10-10,2013-03-03,"['Drama', 'Comedy']",Scripted,English,HBO,7.0,2,18,2013-03-03,7.268,69.0,/cTRcV3AT69iEVFq7HRa3maqylZB.jpg,Meet the new face of tranquility.,84.5
+Aquarius,60.0,2015-05-28,2016-09-10,"['Drama', 'Crime']",Scripted,English,NBC,7.0,2,26,2016-09-10,6.622,144.0,/dTihIjUI2ScBXVgcZiyTAq1PBBA.jpg,Murder. Madness. Manson.,58.0
+Alcatraz,60.0,2012-01-16,2012-03-26,"['Drama', 'Science-Fiction', 'Thriller']",Scripted,English,FOX,7.0,1,13,2012-03-26,6.335,233.0,/yES1yqjp6Jl2CEVKHdfwKrIsnqd.jpg,302 vanished. 3 must find them.,62.0
+My Boys,30.0,2006-11-28,2010-09-12,"['Drama', 'Comedy']",Scripted,English,TBS,7.0,4,49,2010-09-12,5.2,5.0,/LtZpbZsxsnHsXe25RoyWky1s14.jpg,The family you'd have... if you got to choose.,59.0
+October Road,60.0,2007-03-15,2008-03-10,['Drama'],Scripted,English,ABC,7.0,2,19,2008-03-10,7.5,11.0,/xDgOxRaPI0iAHaWWyzcSJUqjVbs.jpg,Sometimes you've got to look back to see where you're going.,23.0
+The Following,60.0,2013-01-21,2015-05-18,"['Drama', 'Crime', 'Thriller']",Scripted,English,FOX,7.0,3,45,2015-05-18,6.821,438.0,/tiSvhb2cyPAULTql5atgxceNvpF.jpg,Killer instinct.,53.0
+Sex and the City,30.0,1998-06-06,2004-02-22,"['Drama', 'Comedy', 'Romance']",Scripted,English,HBO,7.0,6,94,2004-02-22,7.4,1871.0,/jfLp8gTfdi9d8onEFJ60kp1Bl1e.jpg,The next best thing to being there.,52.0
+Scream Queens,60.0,2015-09-22,2016-12-20,"['Comedy', 'Horror']",Scripted,English,FOX,7.0,2,23,2016-12-20,7.899,1609.0,/yeayXZYSU8xdmC8i5g5jTdxeggp.jpg,Pretty evil.,59.0
+DC's Legends of Tomorrow,60.0,2016-01-21,2022-03-02,"['Drama', 'Action', 'Science-Fiction']",Scripted,English,The CW,7.0,7,110,2022-03-02,7.332,2130.0,/icv3e1l8od9VjQD4NlvpBySyY09.jpg,A roaring rewind.,58.0
+Titanic,60.0,2012-03-25,2012-04-15,['Drama'],Scripted,English,ITV1,7.0,1,4,2012-04-15,5.898,49.0,/aivkYWP73tsbfC4AUudYfbMHII2.jpg,One voyage. A world of untold stories.,51.0
+Supergirl,60.0,2015-10-26,2021-11-09,"['Drama', 'Action', 'Science-Fiction']",Scripted,English,The CW,7.0,6,126,2021-11-09,7.334,3974.0,/vqBsgL9nd2v04ZvCqPzwtckDdFD.jpg,Better. Stronger. Together.,N/A
+Star-Crossed,60.0,2014-02-17,2014-05-12,"['Drama', 'Romance', 'Science-Fiction']",Scripted,English,The CW,7.0,1,13,2014-05-12,6.888,120.0,/xcKlTgoRlVMyIG8t9c1br8RO7zI.jpg,Two worlds. Two lives. One hope.,50.0
+Accidentally on Purpose,30.0,2009-09-21,2010-04-21,"['Comedy', 'Romance']",Scripted,English,CBS,7.0,1,18,2010-04-21,5.6,31.0,/tokyJacZ4Fhfafs23PGsyhYdEj1.jpg,"She's With Child, And Pregnant Too.",50.0
+Scream: The TV Series,60.0,2015-06-30,2019-07-10,"['Horror', 'Mystery']",Scripted,English,VH1,7.0,3,28,2019-07-10,6.9,1047.0,/9hI1eJW2EMVM2KpOLqIjJ3jkYvj.jpg,"If you thought it was over, you're dead wrong.",N/A
+Mickey Mouse Clubhouse,25.0,2006-05-06,2016-11-06,"['Comedy', 'Children']",Animation,English,Disney Channel,6.9,4,123,2016-11-06,6.7,292.0,/gHtEhlAZHxMawOiPq7JoKwkmETQ.jpg,Mickey leads kids on an interactive adventure of learning.,N/A
+The Whispers,60.0,2015-06-01,2015-08-31,"['Drama', 'Science-Fiction', 'Thriller']",Scripted,English,ABC,6.9,1,13,2015-08-31,6.744,158.0,/kSoXUOYmzvCfXzElnAVl9cSEnTa.jpg,Not all imaginary friends are imaginary.,61.0
+Party of Five,60.0,1994-09-12,2000-05-03,"['Drama', 'Family']",Scripted,English,FOX,6.9,6,142,2000-05-03,8.0,17.0,/3GhdzcEKitGNt3hhsSv3uOecsGf.jpg,The story of an American family.,79.0
+My Wife and Kids,30.0,2001-03-28,2005-05-17,"['Comedy', 'Family']",Scripted,English,ABC,6.9,5,123,2005-05-17,7.438,393.0,/eyQsN8bU27fdIs2D66gFmcIo0dM.jpg,He thinks he's the head of the family. Humor him.,N/A
+The Odd Couple,30.0,2015-02-19,2017-01-30,['Comedy'],Scripted,English,CBS,6.9,3,38,2017-01-30,7.833,54.0,/5NYUeWc7lXq6pbHDP0Pz3xxKhPC.jpg,A Perfect Mismatch,N/A
+Mr. Sunshine,30.0,2011-02-09,2012-01-01,"['Comedy', 'Sports']",Scripted,English,ABC,6.9,1,13,2012-01-01,8.5,126.0,/iftMALeIzTYYOVmPOCsS1mQvoNz.jpg,Guns. Glory. Sad endings.,54.0
+Mr. Sunshine,30.0,2011-02-09,2012-01-01,"['Comedy', 'Sports']",Scripted,English,ABC,6.9,1,13,2012-01-01,6.37,54.0,/bGhKW250g40wsHp60GQJxa65Mg1.jpg,"Oh, joy.",54.0
+Your Family or Mine,30.0,2015-04-07,2015-06-09,"['Comedy', 'Family']",Scripted,English,TBS,6.9,1,10,2015-06-09,7.0,10.0,/xnwz5MnXHXcHcNLS5QDRlgN4p7Z.jpg,We love our family more than anything. Just not when we're all together.,N/A
+Allegiance,60.0,2015-02-05,2015-04-30,"['Drama', 'Crime', 'Thriller']",Scripted,English,NBC,6.9,1,13,2015-04-30,7.1,35.0,/a3JebriAnBipohn5qtWuezuA0D6.jpg,His first case in the CIA... his own family.,N/A
+The River,60.0,2012-02-07,2012-03-20,"['Drama', 'Horror', 'Supernatural']",Scripted,English,ABC,6.9,1,8,2012-03-20,5.0,1.0,/xmeSVYn04zvs6KI2w88YrtubpHg.jpg,How much is enough?,65.0
+Dracula,60.0,2013-10-25,2014-01-24,"['Drama', 'Horror']",Scripted,English,NBC,6.9,1,10,2014-01-24,7.031,608.0,/5SqUNnExnN7Cr8rzyTXJTWmEMHn.jpg,Bloody Legend,55.0
+Dracula,60.0,2013-10-25,2014-01-24,"['Drama', 'Horror']",Scripted,English,NBC,6.9,1,10,2014-01-24,7.1,352.0,/oQUU8LKVl10ejpxJC0qfsSuPZeF.jpg,The legend takes new life.,55.0
+Missing,60.0,2003-08-02,2006-02-05,"['Drama', 'Crime', 'Mystery']",Scripted,English,Lifetime,6.9,3,55,2006-02-05,6.286,77.0,/m6vmCXWDU5iNPxDag5Wi0nmUoU0.jpg,She'll stop at nothing to find her son.,N/A
+Missing,60.0,2003-08-02,2006-02-05,"['Drama', 'Crime', 'Mystery']",Scripted,English,Lifetime,6.9,3,55,2006-02-05,6.391,23.0,/5RdCx8fplh39dYh3YkwI7x3zSda.jpg,Common sense. Sixth sense. Together they're the FBI's newest team,N/A
+L.A. Law,60.0,1986-09-15,2002-05-12,"['Drama', 'Crime', 'Legal']",Scripted,English,NBC,6.8,8,171,2002-05-12,7.38,50.0,/hs1TBk6KlPBlnb7ybpqgK6IzcCx.jpg,The professionals who will take you into the jungles of American justice,83.0
+The Nine Lives of Chloe King,60.0,2011-06-14,2011-08-16,"['Drama', 'Action', 'Supernatural']",Scripted,English,Freeform,6.8,1,10,2011-08-16,7.407,81.0,/5dbVI8Cwf0HwDmPCjsw36ZgBXNq.jpg,Her life began on the day she died.,68.0
+Minority Report,60.0,2015-09-21,2015-11-30,"['Action', 'Crime', 'Science-Fiction']",Scripted,English,FOX,6.8,1,10,2015-11-30,5.96,150.0,/a5roakc7vI1UlS9tgbfGEomqC7X.jpg,They see the future. She stops the crime.,N/A
+Cashmere Mafia,60.0,2008-01-06,2008-02-20,[],Scripted,English,ABC,6.8,1,7,2008-02-20,4.75,8.0,/s0XnXWg8p0p4my2VJg0XnUz1ml1.jpg,"They can have it all, as long as they have each other.",48.0
+Texas Rising,88.0,2015-05-25,2015-06-15,"['Drama', 'Action', 'Western']",Scripted,English,History,6.8,1,5,2015-06-15,6.5,50.0,/lnJLfFEpXgmTGUGzKqgHCsjYtMJ.jpg,Don't mess with Texas.,52.0
+21 Jump Street,60.0,1987-04-12,1991-04-27,"['Drama', 'Action', 'Adventure']",Scripted,English,Syndication,6.8,5,103,1991-04-27,6.9,114.0,/9w2y0146P5EjLw63FHGWRRpqQ6v.jpg,Too cool for school.,N/A
+Missing,60.0,2012-03-15,2012-05-17,"['Drama', 'Action', 'Thriller']",Scripted,English,ABC,6.8,1,10,2012-05-17,6.286,77.0,/m6vmCXWDU5iNPxDag5Wi0nmUoU0.jpg,She'll stop at nothing to find her son.,N/A
+Missing,60.0,2012-03-15,2012-05-17,"['Drama', 'Action', 'Thriller']",Scripted,English,ABC,6.8,1,10,2012-05-17,6.391,23.0,/5RdCx8fplh39dYh3YkwI7x3zSda.jpg,Common sense. Sixth sense. Together they're the FBI's newest team,N/A
+The Powerpuff Girls,29.0,1998-11-18,2005-03-25,"['Action', 'Children', 'Crime']",Animation,English,Cartoon Network,6.8,6,78,2005-03-25,7.542,812.0,/4CMPCuP6ihU5UvTStv23aGEEMuC.jpg,Saving the world before bedtime.,N/A
+Red Widow,60.0,2013-03-03,2013-05-05,"['Drama', 'Crime', 'Thriller']",Scripted,English,ABC,6.7,1,8,2013-05-05,5.7,23.0,/7QFn1uHKHzE7PcPS5sYH9d4YIok.jpg,No time to mourn.,N/A
+Trophy Wife,30.0,2013-09-24,2014-05-13,['Comedy'],Scripted,English,ABC,6.7,1,22,2014-05-13,6.581,43.0,/wmTyEMtSNSsWyBnBo2DaKGpq7gK.jpg,Not as glamorous as it sounds.,64.0
+The Secret Life of the American Teenager,60.0,2008-07-01,2013-06-03,"['Drama', 'Comedy', 'Family']",Scripted,English,Freeform,6.7,5,121,2013-06-03,7.281,105.0,/k2XTj9D0tzca3dSgvVojU9xk8F5.jpg,Expect the Unexpected,48.0
+Dallas,60.0,1978-04-02,1991-05-03,"['Drama', 'Family']",Scripted,English,CBS,6.7,14,356,1991-05-03,6.568,170.0,/w8Frf2mO0DUVHmSRJWJWldntKCt.jpg,A family ruthless in its quest for power and passion,N/A
+V.I.P.,60.0,1998-09-26,2002-05-18,"['Comedy', 'Action', 'Crime']",Scripted,English,Syndication,6.7,4,88,2002-05-18,5.235,51.0,/2pHBPVGn2DpYEAHBdT62nc0untt.jpg,Action never looked so good.,N/A
+The Carmichael Show,30.0,2015-08-26,2017-08-09,"['Comedy', 'Family']",Scripted,English,NBC,6.7,3,32,2017-08-09,7.392,37.0,/g0DgyieyTGYrlQvT3xCjItF8TbS.jpg,One family. Lot's of opinions.,74.33
+Women's Murder Club,60.0,2007-10-12,2008-05-13,"['Drama', 'Crime', 'Mystery']",Scripted,English,ABC,6.7,1,13,2008-05-13,7.987,39.0,/60wKdEKCzp244Han7HLQF8il0Yb.jpg,Friends who are always on each others case,51.0
+Empire,60.0,2015-01-07,2020-04-21,"['Drama', 'Music']",Scripted,English,FOX,6.7,6,102,2020-04-21,7.184,697.0,/gTrzYR6gWMhQ8yINW9JCLeoJHvf.jpg,Their reign. Their rules.,N/A
+Empire,60.0,2015-01-07,2020-04-21,"['Drama', 'Music']",Scripted,English,FOX,6.7,6,102,2020-04-21,6.348,23.0,/5p7en3Ct3bdwYyECA4oHkjSfJim.jpg,Empire,N/A
+Empire,60.0,2015-01-07,2020-04-21,"['Drama', 'Music']",Scripted,English,FOX,6.7,6,102,2020-04-21,6.6,13.0,/sdLoCTgidFSVzzKthQwzmNcAVS0.jpg,Chosen by destiny. Seduced by power.,N/A
+Bag of Bones,120.0,2011-12-11,2011-12-12,"['Drama', 'Horror', 'Mystery']",Scripted,English,A&E,6.7,1,2,2011-12-12,6.004,141.0,/ziIOygc0X8rOSRw3AIGzDJdq7F.jpg,Beware the lake.,N/A
+The Messengers,60.0,2015-04-17,2015-07-24,"['Drama', 'Mystery', 'Supernatural']",Scripted,English,The CW,6.7,1,13,2015-07-24,6.272,123.0,/8kLGrSeupZQh4XFU95DcHiWC7sL.jpg,"When evil rises, good awakens.",N/A
+Intelligence,60.0,2014-01-07,2014-03-31,"['Action', 'Science-Fiction']",Scripted,English,CBS,6.7,1,13,2014-03-31,6.439,180.0,/yWO3w2isgxBarZEH4vE4qbrpqTd.jpg,What's in his head will blow your mind.,N/A
+Intelligence,60.0,2014-01-07,2014-03-31,"['Action', 'Science-Fiction']",Scripted,English,CBS,6.7,1,13,2014-03-31,8.3,11.0,/6WYhnGhfEvNAy7bYaiwUbjGlIYz.jpg,"Sex, drugs & spies.",N/A
+Significant Mother,30.0,2015-08-03,2015-10-05,['Comedy'],Scripted,English,The CW,6.7,1,9,2015-10-05,5.8,19.0,/8efSSGqrIlQFgmJGIdDHIxq672l.jpg,It's momplicated.,N/A
+Knight Rider,60.0,2008-02-17,2009-03-04,"['Action', 'Adventure', 'Science-Fiction']",Scripted,English,NBC,6.7,1,17,2009-03-04,7.518,1123.0,/t57NXzTrwp5rnPXiaX4BThrDxt1.jpg,"Michael Knight is today's hero! Driving the car of tomorrow! Together, they're the ultimate crimecrashers!",21.0
+Knight Rider,60.0,2008-02-17,2009-03-04,"['Action', 'Adventure', 'Science-Fiction']",Scripted,English,NBC,6.7,1,17,2009-03-04,7.431,539.0,/e93H0P6GYoDUhHR5uCdmfLDAvKt.jpg,An icon reborn.,21.0
+Sonny with a Chance,30.0,2009-02-08,2011-01-09,"['Comedy', 'Family', 'Music']",Scripted,English,Disney Channel,6.7,2,47,2011-01-09,7.989,307.0,/o1ZEkSiqzWcGV5lldAhLfaTzxQS.jpg,She's in for the ride of her life.,N/A
+Two and a Half Men,30.0,2003-09-22,2015-02-19,['Comedy'],Scripted,English,CBS,6.6,12,262,2015-02-19,7.452,2843.0,/A9QDK4OWpv41W27kCv0LXe30k9S.jpg,Two adults. One kid. No grown-ups.,67.0
+Spies of Warsaw,90.0,2013-01-09,2013-01-16,"['Drama', 'Thriller', 'Espionage']",Scripted,English,BBC Four,6.6,1,2,2013-01-16,6.6,30.0,/s76PIU65SPAhdWho32UGnwUampm.jpg,Bravery takes many forms.,64.0
+Lipstick Jungle,60.0,2008-02-07,2009-01-09,"['Drama', 'Romance']",Scripted,English,NBC,6.6,2,20,2009-01-09,6.4,22.0,/75WJq16w7BYh1uIIsoP8ad2Zk2G.jpg,Bright lights. Big city. Best friends,40.0
+The Slap,60.0,2015-02-12,2015-04-02,['Drama'],Scripted,English,NBC,6.6,1,8,2015-04-02,7.179,28.0,/x31d878edbJnHmJ1w2IMTPP81nx.jpg,Whose side are you on?,N/A
+666 Park Avenue,60.0,2012-09-30,2013-07-13,"['Drama', 'Mystery', 'Supernatural']",Scripted,English,ABC,6.6,1,13,2013-07-13,6.19,105.0,/gWBT8NpjeoPlOq6GtwiNVzCuukX.jpg,Evil has an address.,62.0
+90210,60.0,2008-09-02,2013-05-13,"['Drama', 'Romance']",Scripted,English,The CW,6.6,5,114,2013-05-13,5.863,164.0,/6uy8Le8X8qqvc5X7pSFn3BJA69M.jpg,New drama. Same ZIP Code.,47.0
+Crash,60.0,2008-10-17,2009-12-18,['Drama'],Scripted,English,STARZ,6.5,2,26,2009-12-18,5.8,11.0,/8DhxZi3N0Apuea8K8gJgeGHsgtq.jpg,"In L.A., there are no accidents",43.0
+Labyrinth,120.0,2012-11-24,2012-12-01,"['Adventure', 'Fantasy', 'Mystery']",Scripted,English,Channel 4,6.5,1,2,2012-12-01,5.7,63.0,/7ze6V3XYVBeQe3Y9opRw3Hbyhbh.jpg,"Separated by time, joined by destiny.",42.0
+The Carrie Diaries,60.0,2013-01-14,2014-01-31,"['Drama', 'Comedy', 'Romance']",Scripted,English,The CW,6.5,2,26,2014-01-31,7.298,203.0,/ogoii8a7JsMFH4RNioptkyhzX2b.jpg,You never forget your first love.,58.0
+Glee,60.0,2009-05-19,2015-03-20,"['Drama', 'Music', 'Romance']",Scripted,English,FOX,6.5,6,121,2015-03-20,6.713,696.0,/62T2vsZYTje3KhdCsiLR1K1RFJW.jpg,Join the club.,77.0
+Helix,60.0,2014-01-10,2015-04-10,"['Horror', 'Science-Fiction', 'Thriller']",Scripted,English,Syfy,6.5,2,26,2015-04-10,6.703,374.0,/7goT0IcsXjRo9fdMlWKr6ZRmaNP.jpg,Play God. Pay the price.,67.0
+iCarly,32.0,2007-09-08,2012-11-23,"['Comedy', 'Children', 'Family']",Scripted,English,Nickelodeon,6.5,6,97,2012-11-23,7.668,742.0,/ooQbYPupFxyvzEaJreuAUkcjqUA.jpg,#IYKYK,N/A
+Hello Ladies,30.0,2013-09-29,2013-11-17,['Comedy'],Scripted,English,HBO,6.5,1,8,2013-11-17,6.799,87.0,/2jUOzE8pcwn0bDGfbX7GtTqSqsT.jpg,Single and desperate to mingle.,58.0
+10 Things I Hate About You,30.0,2009-07-07,2010-05-24,"['Drama', 'Comedy']",Scripted,English,Freeform,6.5,1,20,2010-05-24,7.2,57.0,/l9GRXCwm2ixVzX0hgr4KKxgpUwF.jpg,A comedy about fitting in and standing out.,66.0
+The Cape,60.0,2011-01-09,2011-03-11,"['Drama', 'Crime', 'Supernatural']",Scripted,English,NBC,6.5,1,10,2011-03-11,4.795,61.0,/byr4EjvdT3seQYfzDsOeQewqhrn.jpg,Suit up. Fight Back,54.0
+Girls,30.0,2012-04-15,2017-04-16,"['Drama', 'Romance']",Scripted,English,HBO,6.5,6,62,2017-04-16,6.219,320.0,/ikyT3hnELofnYRsPIqVGgUhDbOT.jpg,Living the dream. One mistake at a time.,79.0
+Drawn Together,30.0,2004-10-27,2010-03-18,['Comedy'],Animation,English,Comedy Central,6.5,3,36,2010-03-18,8.199,1120.0,/xhshQ2WgAa5zyXqwRcxKMDwRBGd.jpg,Reality TV had it coming!,N/A
+Wonder Woman,60.0,1975-11-07,1979-09-11,"['Action', 'Adventure', 'Fantasy']",Scripted,English,CBS,6.5,3,60,1979-09-11,7.0,415.0,/7vHxWO6ahByDWzWufFL48MXaktT.jpg,"From a land of myth, to a world in turmoil.",N/A
+The Grinder,30.0,2015-09-29,2016-05-10,['Comedy'],Scripted,English,FOX,6.4,1,22,2016-05-10,6.833,75.0,/4oKpcD8KcLI7Fsh9WmUE8D4ys9C.jpg,Two brothers. One's a lawyer. The other played one on TV.,71.0
+Make It or Break It,60.0,2009-06-22,2012-05-14,"['Drama', 'Comedy', 'Sports']",Scripted,English,Freeform,6.4,3,48,2012-05-14,7.84,53.0,/qT20SwKLFiHEeSwqrccLwLQYzHR.jpg,Competition. Deception. Perfection.,N/A
+Quantico,60.0,2015-09-27,2018-08-03,"['Crime', 'Mystery', 'Espionage']",Scripted,English,ABC,6.4,3,57,2018-08-03,6.551,586.0,/3ofY2mALEiE0QDyRlVOV3sDNMYC.jpg,The FBI's top recruit is now their most wanted.,70.0
+Aldnoah.Zero,25.0,2014-07-06,2015-03-28,"['Action', 'Adventure', 'Anime', 'Science-Fiction']",Animation,Japanese,BS11,6.4,2,24,2015-03-28,7.737,118.0,/jyMfRWgO0vPFtmbKEN2zQLCxXyQ.jpg,"Let justice be done, though the heavens fall",N/A
+Dallas,60.0,2012-06-13,2014-09-22,"['Drama', 'Family']",Scripted,English,TNT,6.4,3,40,2014-09-22,6.568,170.0,/w8Frf2mO0DUVHmSRJWJWldntKCt.jpg,A family ruthless in its quest for power and passion,N/A
+Punky Brewster,30.0,1984-09-16,1988-05-27,"['Comedy', 'Family']",Scripted,English,Syndication,6.3,4,88,1988-05-27,7.385,13.0,/ap4hlAB5pZn7CSJAtSs8GjpOrpV.jpg,A new generation of punk.,N/A
+"Beverly Hills, 90210",60.0,1990-10-04,2000-05-17,"['Drama', 'Romance']",Scripted,English,FOX,6.3,10,293,2000-05-17,7.431,646.0,/b7BYfkhu653D894krwGO1ysIKTf.jpg,New faces and dangerous places!,46.0
+Hostages,60.0,2013-09-23,2014-01-06,"['Drama', 'Thriller']",Scripted,English,CBS,6.3,1,15,2014-01-06,4.7,3.0,/p1pPd1HcXdlmXfC1uOzCXTCwIhZ.jpg,444 days. Decades in the making.,64.0
+Hunters,60.0,2016-04-11,2016-07-11,"['Drama', 'Science-Fiction', 'Thriller']",Scripted,English,Syfy,6.3,1,13,2016-07-11,5.483,58.0,/5EUETA5wONEgYsoSUgpu19So00K.jpg,A new breed of terrorist.,34.0
+Perry Mason,60.0,1957-09-21,1995-04-10,"['Drama', 'Crime', 'Legal']",Scripted,English,CBS,6.2,9,271,1995-04-10,7.3,280.0,/5QcaEyfSbJEmiaxf7ch8nBl0GO4.jpg,There's power in the truth.,N/A
+Perry Mason,60.0,1957-09-21,1995-04-10,"['Drama', 'Crime', 'Legal']",Scripted,English,CBS,6.2,9,271,1995-04-10,7.7,103.0,/1th2fC46icNw67k51FykUn3wwC0.jpg,Almost anyone is capable of a crime under certain circumstances.,N/A
+Happy Tree Friends,12.0,1999-12-24,2023-09-28,"['Comedy', 'Horror', 'Thriller']",Animation,English,G4,6.2,6,133,2023-09-28,7.803,504.0,/2rYqJg1OzaDlc5kiBK4IdgrELMf.jpg,"Cute, cuddly and horribly wrong",N/A
+Truth Be Told,30.0,2015-10-16,2015-12-25,['Comedy'],Scripted,English,NBC,6.2,1,10,2015-12-25,7.305,164.0,/zBc5nqwYy9cwJGoA16Sc4jmgyuP.jpg,No disappearance is a coincidence.,N/A
+Mistresses,60.0,2008-01-08,2010-08-26,"['Drama', 'Romance']",Scripted,English,BBC One,6.2,3,16,2010-08-26,5.4,56.0,/6ayoSSIrbLYm6MrgBhzw2tTp96a.jpg,Four friends. Four hearts. 13 weeks of seduction.,N/A
+Doubt,60.0,2017-02-15,2017-08-12,"['Drama', 'Crime', 'Legal']",Scripted,English,CBS,6.2,1,13,2017-08-12,4.5,21.0,/eYsR9J2aT8dUsRodmUG7PQkhA8E.jpg,"Guilty or not, here they come.",58.0
+Baywatch,61.0,1989-09-22,2001-05-14,"['Drama', 'Action', 'Adventure']",Scripted,English,Syndication,6.2,11,233,2001-05-14,5.9,403.0,/34t8WxHn1OcIVpcTxmjYmjX9tE4.jpg,"Cause I'm always ready, I won't let you out of my sight",N/A
+Ben and Kate,30.0,2012-09-25,2013-01-22,['Comedy'],Scripted,English,FOX,6.1,1,16,2013-01-22,6.872,47.0,/uhzXOjujMk1c0Olp3Cha9lpNB4v.jpg,His sister. Her daughter. Who's raising who?,N/A
+A.D. The Bible Continues,60.0,2015-04-05,2015-06-21,"['Drama', 'Adventure']",Scripted,English,NBC,6.1,1,12,2015-06-21,6.371,31.0,/MqDwyYfPhEeVgV8a0KXi9baMQh.jpg,The crucifixion was only the beginning.,N/A
+Family Tree,30.0,2013-05-12,2013-07-07,"['Drama', 'Comedy']",Scripted,English,HBO,6.1,1,8,2013-07-07,6.4,29.0,/aR1QlhiZVPxey4Hb5WxjJI8bpue.jpg,Finding himself. One relative at a time.,74.0
+Black Scorpion,60.0,2001-01-05,2001-06-30,"['Action', 'Crime', 'Science-Fiction']",Scripted,English,Syfy,6.1,1,22,2001-06-30,6.0,6.0,/s6bPEbHXUYfrU6IQ3rE2aGkjKqQ.jpg,She's bold. She's beautiful. Her sting is deadly.,N/A
+Undercover Boss,60.0,2010-02-07,2022-04-08,[],Reality,English,CBS,6.1,11,127,2022-04-08,5.767,43.0,/7SWB59uwzkxWRAeApEY6xt5Az1F.jpg,The toughest job the boss will ever do is yours.,59.0
+Fatal Vows,60.0,2012-11-17,2020-04-20,"['Drama', 'Crime', 'Thriller']",Documentary,English,Investigation Discovery,6.0,7,88,2020-04-20,7.4,7.0,/Hx7pD9L2etQkOcKW6V6NjCXiRL.jpg,"Love may be blind and marriage, bliss - but divorce is murder.",N/A
+Fantasy Island,60.0,1998-09-26,1999-01-23,"['Drama', 'Fantasy']",Scripted,English,ABC,6.0,1,13,1999-01-23,6.109,55.0,/bl6qV6nO0Cd4N9boVJo08pJUoB2.jpg,Reimagine the possibilities.,62.0
+Coupling,30.0,2003-09-25,2003-10-23,"['Drama', 'Comedy', 'Romance']",Scripted,English,NBC,6.0,1,10,2003-10-23,7.924,249.0,/dWfEw2YPrpKwHxH2K9SloCcMrnI.jpg,The naughty new comedy about nothing...but SEX!,N/A
+Mulaney,30.0,2014-10-05,2015-02-15,"['Comedy', 'Family']",Scripted,English,FOX,6.0,1,13,2015-02-15,4.2,21.0,/t8muZQjwcNQ1Z9zWBLdWQFzlJKA.jpg,You can't keep a good standup down.,38.0
+Marry Me,30.0,2014-10-14,2015-05-14,['Comedy'],Scripted,English,NBC,5.9,1,18,2015-05-14,6.9,21.0,/qc1RrwXA5xjFE8kPRrRLRVYWhDI.jpg,She wanted a prince. She got three.,63.0
+Marry Me,30.0,2014-10-14,2015-05-14,['Comedy'],Scripted,English,NBC,5.9,1,18,2015-05-14,5.7,13.0,/iUT8oHqb8N7jqaZCU8NpRlylZFd.jpg,Together every crazy step of the way,63.0
+Marry Me,30.0,2014-10-14,2015-05-14,['Comedy'],Scripted,English,NBC,5.9,1,18,2015-05-14,10.0,1.0,/7Nhrd80o2VdmUPvGVOOVypvBLYM.jpg,Marry Me,63.0
+Roseanne,30.0,1988-10-18,2018-05-22,"['Comedy', 'Family']",Scripted,English,ABC,5.8,10,231,2018-05-22,6.918,297.0,/4UARHgxTm7xwhcEHiVDwF0Gv4j0.jpg,The first family that made you feel better about your own!,74.0
+Ringer,60.0,2011-09-13,2012-04-17,"['Drama', 'Crime', 'Mystery']",Scripted,English,The CW,5.8,1,22,2012-04-17,5.918,91.0,/hgsiNvtG8BdLvCqhbBR172T3YQB.jpg,"When your life is a lie, can anything be real?",59.0
+Dr. Ken,30.0,2015-10-02,2017-03-31,"['Comedy', 'Family', 'Medical']",Scripted,English,ABC,5.7,2,44,2017-03-31,5.528,54.0,/rLuRcr3E7mFGR4jGnNjEuAWWO8p.jpg,The gloves are coming off.,26.0
+Melrose Place,60.0,2009-09-08,2010-04-13,"['Drama', 'Romance']",Scripted,English,The CW,5.7,1,18,2010-04-13,5.763,116.0,/kIc03DwT3DPd48lKlbpyPxx3O1S.jpg,"At Melrose Place, no one is innocent.",55.0
+Melrose Place,60.0,2009-09-08,2010-04-13,"['Drama', 'Romance']",Scripted,English,The CW,5.7,1,18,2010-04-13,5.571,21.0,/90KR19Cqhgl61PwN4O4N6cURAi.jpg,Tuesday's the new Humpday,55.0
+Cult,60.0,2013-02-19,2013-07-12,"['Drama', 'Thriller', 'Mystery']",Scripted,English,The CW,5.7,1,13,2013-07-12,5.3,29.0,/3qSnfv0tRUnWGOgVGebpZRGjQRG.jpg,Seeing is deceiving.,46.0
+Picket Fences,60.0,1992-09-18,1996-06-26,"['Drama', 'Family']",Scripted,English,CBS,5.6,4,88,1996-06-26,7.632,38.0,/qADC5L8vScqkLK11ZjNjkwYN2vn.jpg,"Douglas Wambaugh, for the defense!",61.0
+Manhattan Love Story,30.0,2014-09-30,2014-12-04,"['Comedy', 'Romance']",Scripted,English,ABC,5.4,1,11,2014-12-04,6.4,32.0,/5bazJO9disPJruhyqMhljEwWXqK.jpg,"Love, sex, and every thought in between.",42.0
+Saved by the Bell,30.0,1989-08-20,1994-10-07,['Comedy'],Scripted,English,NBC,4.8,4,86,1994-10-07,7.8,588.0,/9YC576fs6XQR2pfPDJn4kcmG8T5.jpg,Welcome to California's hippest high school,N/A
+Saved by the Bell,30.0,1989-08-20,1994-10-07,['Comedy'],Scripted,English,NBC,4.8,4,86,1994-10-07,6.98,101.0,/9iIIRPetuBmOl0gd7KC5dNcK7bX.jpg,Bayside's back. Get so excited.,N/A
+The Spoils Before Dying,30.0,2015-07-08,2015-07-10,"['Comedy', 'Crime']",Scripted,English,IFC,4.4,1,6,2015-07-10,5.792,12.0,/AhIFPJBUge7H8gAO1JMyZZLg3tt.jpg,A groovy trip in free-form jazz.,65.0
+Femme Fatales,30.0,2011-05-13,2012-08-10,"['Crime', 'Thriller']",Scripted,English,Cinemax,4.0,2,28,2012-08-10,7.0,22.0,/qpSL3JdIOVM99hvgXpu23pSCWJb.jpg,Pretty. Deadly.,N/A
+I Am Cait,60.0,2015-07-26,2016-04-24,['Drama'],Reality,English,E!,3.6,2,16,2016-04-24,5.214,28.0,/m27KexNPrOREbxw4413BUvQijqA.jpg,Sometimes it takes a lifetime to start living.,67.0
+Keeping Up with the Kardashians,60.0,2007-10-14,2021-06-20,['Drama'],Reality,English,E!,3.1,20,272,2021-06-20,7.5,845.0,/nddXOC8wYpIDv7giLzjjqIg8WDA.jpg,Family ever after.,N/A
