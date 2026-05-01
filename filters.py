@@ -62,7 +62,9 @@ def critic_rating_filter():
             print()
             continue
 
-        # valid rating entered
+        # valid rating entered, repeat to user their selection
+        print()
+        print(f'  Minimum Critic Rating set to {value}.')
         return value
 
 # -----------------------------------------------------------------------
@@ -125,5 +127,7 @@ def user_rating_filter():
             print()
             continue
 
-        # valid rating entered
+        # valid rating entered, repeat selection to user
+        print()
+        print(f'  Minimum User Rating set to {value}.')
         return value
