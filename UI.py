@@ -6,6 +6,7 @@ import sys
 import time
 from LoadData import load_data
 from filters import critic_rating_filter, user_rating_filter
+from app_results import results_screen
 
 
 # load data at startup, exit if data cannot be loaded
@@ -33,7 +34,7 @@ def wait_screen(critic_rating_value, user_rating_value):
     print('  Your selected criteria are:')
 
     if critic_rating_value is None and user_rating_value is None:
-        print('    No filters applied (showing all shows)')
+        print('    No filters applied (Showing limit of 10 shows)')
     if critic_rating_value is not None:
         print(f'    Minimum Critic Rating of {critic_rating_value}')
     if user_rating_value is not None:
@@ -58,23 +59,6 @@ def exit_app():
     print('-' * 60)
     print()
     sys.exit(0)
-
-# print TV show attributes of machine learning results
-def print_results(row):
-    name          = row.get('Name', 'N/A')
-    genres        = row.get('Genres', 'N/A')
-    network       = row.get('Network', 'N/A')
-    language      = row.get('Language', 'N/A')
-    seasons       = row.get('Total Seasons', 'N/A')
-    episodes      = row.get('Total Episodes', 'N/A')
-    runtime       = row.get('Average Runtime', 'N/A')
-    critic_rating = row.get('Critic_Rating', 'N/A')
-    user_rating   = row.get('User_Rating', 'N/A')
-    metacritic    = row.get('Metacritic_Rating', 'N/A')
-
-    print(f'  - {name} | {genres} | Language: {language} | Network: {network} | '
-          f'{seasons} Seasons | {episodes} Episodes | Runtime: {runtime} min | '
-          f'Critic: {critic_rating} | User: {user_rating} | Metacritic: {metacritic}')
 
 
 # ---------------------------------------------------------------------------
@@ -170,57 +154,26 @@ while running:
     if user_rating_value is not None:
         results = results[results['User_Rating'] >= user_rating_value]
 
-    # limit to 10 if no filters applied
+    # limit to 10 if no filters applied otherwise 15
     if critic_rating_value is None and user_rating_value is None:
         results = results.head(10)
-
-    # no filters implemented yet. limit output to 10. Will carry to all results displayed.
-    results = app_data.copy()
-    results = results.head(10)
-
+    else:
+        results = results.head(15)
     # ---------------------------------------------------------------------------
     # Results Screen
     # ---------------------------------------------------------------------------
 
-    # results functionality to be added. For now, skips results display and prints user entered filters. Give
-    # user option to loop back through or exit.
-
+    print("Here are your selected filters and the TV Show results:\n")
     # reiterate selections to user at results screen
     if critic_rating_value is None and user_rating_value is None:
-        print('    No filters applied (showing all shows)')
+        print('    No filters applied (showing maximum of 10 shows)')
     if critic_rating_value is not None:
         print(f'    Minimum Critic Rating of {critic_rating_value}')
     if user_rating_value is not None:
         print(f'    Minimum User Rating of {user_rating_value}')
 
-    # user option to search again
-    print('-' * 60)
-    print('  Enter a command:')
-    print('    [1] Search Again')
-    print('    [0] Exit')
-    print('-' * 60)
-
-    # get user input and validate and loop until valid command entered
-    results_valid = False
-    while not results_valid:
-        results_input = input('  > ').strip()
-
-        if results_input == '1':
-            # search again, loop back to welcome screen
-            results_valid = True
-
-        elif results_input == '0':
-            # user chose to exit, close program
-            results_valid = True
-            running = False
-
-        else:
-            # invalid command entered
-            print()
-            print('  You entered an invalid command. Please enter a valid command and press Enter.')
-            print('    1 to Search Again')
-            print('    0 to Exit')
-            print()
+    # display results and give user option to loop back or exit
+    running = results_screen(results)
 
 
 # ---------------------------------------------------------------------------

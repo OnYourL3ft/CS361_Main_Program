@@ -12,8 +12,8 @@ def load_data():
     # ---------------------------------
     # Process first dataset - TMDB
     # ---------------------------------
-    # variable to hold absolute file path for TMDB dataset
-    filepath = '/Users/bsmith/Desktop/CS361/Main_Project/TMDB.csv'
+    
+    filepath = 'TMDB.csv'
 
     # initialize dataframe and read CSV into dataframe. Exit and display message to user if no file found.
     try:
@@ -51,9 +51,7 @@ def load_data():
     # Process second dataset - Primary
     # ---------------------------------
 
-
-    # variable to hold absolute file path for Primary dataset
-    filepath = '/Users/bsmith/Desktop/CS361/Main_Project/Primary.csv'
+    filepath = 'Primary.csv'
 
     # initialize dataframe and read CSV into dataframe, save to local repo
     try:
@@ -85,8 +83,7 @@ def load_data():
     # Metacritic dataset processing/cleaning
     # ----------------------------------------
 
-    # variable to hold absolute file path for Metacritic dataset
-    filepath = '/Users/bsmith/Desktop/CS361/Main_Project/Metacritic.csv'
+    filepath = 'Metacritic.csv'
 
     # initialize dataframe and read CSV into dataframe
     try:
