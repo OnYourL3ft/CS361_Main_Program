@@ -5,6 +5,7 @@
 import sys
 import time
 from LoadData import load_data
+from filters import critic_rating_filter, user_rating_filter
 
 
 # load data at startup, exit if data cannot be loaded
@@ -17,8 +18,12 @@ if app_data is None or app_data.empty:
 else:
     print('TV Show data loaded successfully\n')
 
-# wait screen while results are being retrieved
-def wait_screen():
+# -----------------------------------------------------------
+# Function: informs user of their choices and displays wait screen while results are being retrieved
+# Receives: critic value and user value floats representing user entered ratings
+# Returns: None
+# -----------------------------------------------------------
+def wait_screen(critic_rating_value, user_rating_value):
     print()
     print('-' * 60)
     print('  Please wait while results are being retrieved.')
@@ -26,7 +31,13 @@ def wait_screen():
     print('-' * 60)
     print()
     print('  Your selected criteria are:')
-    print('    No filters applied (showing all shows)')
+
+    if critic_rating_value is None and user_rating_value is None:
+        print('    No filters applied (showing all shows)')
+    if critic_rating_value is not None:
+        print(f'    Minimum Critic Rating of {critic_rating_value}')
+    if user_rating_value is not None:
+        print(f'    Minimum User Rating of {user_rating_value}')
     print()
     print('  Results will display soon.')
     print()
@@ -120,12 +131,48 @@ while running:
 
 
     # ---------------------------------------------------------------------------
-    # Waiting Screen
-    # No filters have been implemented yet. This screen will be updated
-    # when the Ratings Filter story is implemented.
+    # Filters Screens
+    # Iterate over different TV show filters and gather user input
+    # Currently critic ratings and user ratings implemented
     # ---------------------------------------------------------------------------
-    
-    wait_screen()
+
+    # list of filters
+    filters = [critic_rating_filter, user_rating_filter]
+    filter_values = [None] * len(filters)
+    i = 0
+
+    # iterate over list of filter functions, calling at same time
+    while i < len(filters):
+        result = filters[i]()
+        if result == 'back':
+            i -= 1
+            if i < 0:
+                break
+        else:
+            filter_values[i] = result
+            i += 1
+
+    # if user backed all the way out, restart welcome screen
+    if i < 0:
+        continue
+
+    # store filter values in specific variable
+    critic_rating_value = filter_values[0]
+    user_rating_value = filter_values[1]
+
+    # call wait screen with filter values
+    wait_screen(critic_rating_value, user_rating_value)
+
+    # apply filters
+    results = app_data.copy()
+    if critic_rating_value is not None:
+        results = results[results['Critic_Rating'] >= critic_rating_value]
+    if user_rating_value is not None:
+        results = results[results['User_Rating'] >= user_rating_value]
+
+    # limit to 10 if no filters applied
+    if critic_rating_value is None and user_rating_value is None:
+        results = results.head(10)
 
     # no filters implemented yet. limit output to 10. Will carry to all results displayed.
     results = app_data.copy()
@@ -135,9 +182,16 @@ while running:
     # Results Screen
     # ---------------------------------------------------------------------------
 
-    # results functionality to be added. For now, skips results display and give
-    # user option to loop back through or exit. 
+    # results functionality to be added. For now, skips results display and prints user entered filters. Give
+    # user option to loop back through or exit.
 
+    # reiterate selections to user at results screen
+    if critic_rating_value is None and user_rating_value is None:
+        print('    No filters applied (showing all shows)')
+    if critic_rating_value is not None:
+        print(f'    Minimum Critic Rating of {critic_rating_value}')
+    if user_rating_value is not None:
+        print(f'    Minimum User Rating of {user_rating_value}')
 
     # user option to search again
     print('-' * 60)
