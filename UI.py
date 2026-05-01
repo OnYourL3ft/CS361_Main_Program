@@ -1,5 +1,6 @@
 # Brandon Smith
 # CS 361
+# Spring 2026
 # Main Project: TV Show Finder - UI
 
 import sys
@@ -7,6 +8,7 @@ import time
 from LoadData import load_data
 from filters import critic_rating_filter, user_rating_filter
 from app_results import results_screen
+from MLRanking import fit_model, rank_shows
 
 
 # load data at startup, exit if data cannot be loaded
@@ -18,6 +20,9 @@ if app_data is None or app_data.empty:
     #sys.exit(1)
 else:
     print('TV Show data loaded successfully\n')
+
+# create and fit model on all data using KMeans
+fit_model(app_data)
 
 # -----------------------------------------------------------
 # Function: informs user of their choices and displays wait screen while results are being retrieved
@@ -173,7 +178,8 @@ while running:
         print(f'    Minimum User Rating of {user_rating_value}')
 
     # display results and give user option to loop back or exit
-    running = results_screen(results)
+    ranked = rank_shows(results)
+    running = results_screen(ranked)
 
 
 # ---------------------------------------------------------------------------

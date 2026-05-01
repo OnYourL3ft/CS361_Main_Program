@@ -1,6 +1,8 @@
 # Brandon Smith
-# TV Show App
-# AppData Preparation - Data Loading, Cleaning, and Merging
+# CS 361
+# Spring 2026
+# Main Projct - TV Show App
+# Data Prep: Data Loading, Cleaning, and Merging
 
 import pandas as pd
 import numpy as np
