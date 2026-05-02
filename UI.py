@@ -159,6 +159,9 @@ while running:
     if user_rating_value is not None:
         results = results[results['User_Rating'] >= user_rating_value]
 
+    # apply model
+    results = rank_shows(results)
+
     # limit to 10 if no filters applied otherwise 15
     if critic_rating_value is None and user_rating_value is None:
         results = results.head(10)
@@ -178,8 +181,7 @@ while running:
         print(f'    Minimum User Rating of {user_rating_value}')
 
     # display results and give user option to loop back or exit
-    ranked = rank_shows(results)
-    running = results_screen(ranked)
+    running = results_screen(results)
 
 
 # ---------------------------------------------------------------------------
