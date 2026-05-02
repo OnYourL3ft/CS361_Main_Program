@@ -17,7 +17,7 @@ app_data = load_data()
 
 if app_data is None or app_data.empty:
     print('Error: Could not load TV show data. Please contact support at smithb35@oregonstate.edu.')
-    #sys.exit(1)
+    sys.exit(1)
 else:
     print('TV Show data loaded successfully\n')
 
