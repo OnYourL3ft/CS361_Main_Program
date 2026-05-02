@@ -53,6 +53,10 @@ def critic_rating_filter():
             print()
             print(
                 f'You entered an invalid rating of "{user_input}". Please enter a valid rating or optional command followed by Enter.')
+            print(' Optional commands:')
+            print('   [1] Continue  (proceed to next filter)')
+            print('   [0] Skip      (do not apply this filter)')
+            print('   [2] Back      (return to previous screen)')
             print()
             continue
 
