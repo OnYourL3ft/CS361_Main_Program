@@ -5,10 +5,15 @@
 
 import sys
 import time
+import subprocess
 from LoadData import load_data
 from filters import critic_rating_filter, user_rating_filter
 from app_results import results_screen
 from MLRanking import fit_model, rank_shows
+import zmq
+import json
+import pandas as pd
+from io import StringIO
 
 
 # load data at startup, exit if data cannot be loaded
@@ -23,6 +28,23 @@ else:
 
 # create and fit model on all data using KMeans
 fit_model(app_data)
+
+# start microservices in their own processes
+sort_process = subprocess.Popen(['python', 'sort_microservice.py'])
+time.sleep(2)
+# create the environment and connection with the server
+context = zmq.Context()
+
+# create socket for sort microservice
+sort_socket = context.socket(zmq.REQ)
+sort_socket.connect("tcp://localhost:5556")
+
+# placeholder to create socket for microservice 2
+
+# placeholder to create socket for microservice 3
+
+# placeholder to create socket for microservice 4
+
 
 # -----------------------------------------------------------
 # Function: informs user of their choices and displays wait screen while results are being retrieved
@@ -55,8 +77,13 @@ def wait_screen(critic_rating_value, user_rating_value):
 
     print()
 
-# app exit
+# -----------------------------------------------------------
+# Function: closes program down gracefully, terminating subprocesses
+# Receives: None
+# Returns: None
+# -----------------------------------------------------------
 def exit_app():
+    sort_process.terminate()
     print()
     print('-' * 60)
     print('  Goodbye!')
@@ -65,7 +92,32 @@ def exit_app():
     print()
     sys.exit(0)
 
+# # -----------------------------------------------------------
+# # Function: prints sort menu intro
+# # Receives: None
+# # Returns: None
+# # -----------------------------------------------------------
+def sort_menu_intro():
+    print('    You may choose to sort by the TV show characteristics listed below.')
+    print('     The next screen allows you to specify sort order')
+    print('     Enter the number associated with your chosen filter and then press Enter.')
+    print('     Press Enter without any entry or Enter 1 to default to sorting by TV Show Title.')
+    print('     You may return to the previous screen by using the Back option')
+    print()
 
+# -----------------------------------------------------------
+# Function: prints sort options for TV show results
+# Receives: None
+# Returns: None
+# -----------------------------------------------------------
+def sort_menu_attr():
+    print('    0 to Exit Program')
+    print('    1 to Proceed')
+    print('    2 to go Back')
+    print('    3 to sort by Critic Rating')
+    print('    4 to sort by User Rating')
+    print('    5 to sort by Metacritic Score')
+    print('    6 to sort by average episode runtime')
 # ---------------------------------------------------------------------------
 # Welcome Screen
 # ---------------------------------------------------------------------------
@@ -95,7 +147,7 @@ while running:
     print('-' * 60)
     print('  Enter a command and press Enter:')
     print('    [1] Proceed')
-    print('    [0] Exit')
+    print('    [0] Exit Program')
     print('-' * 60)
 
     # get user input and validate - loop until valid command entered
@@ -115,7 +167,7 @@ while running:
             print()
             print('  You entered an invalid command. Please enter a valid command and press Enter.')
             print('    1 to Proceed')
-            print('    0 to Exit')
+            print('    0 to Exit Program')
             print()
 
 
@@ -182,6 +234,145 @@ while running:
 
     # display results and give user option to loop back or exit
     running = results_screen(results)
+
+    # ------------------------------------------------------------------------
+    # Sort Screen
+    # ------------------------------------------------------------------------
+    while running == '12':
+
+        # display sort information and options to user
+        sort_menu_intro()
+        sort_menu_attr()
+
+
+        sort_attr = [None, None, None]
+        sort_valid = False
+        while not sort_valid:
+            # display options to user
+
+
+
+            # get user input
+            sort_input = input('  > ').strip()
+            if sort_input == '1' or sort_input == '':
+                sort_attr[0] = results.to_json()
+                sort_attr[1] = 'Name'
+            elif sort_input == '0':
+                # user chose to exit
+                sort_socket.send_string('Q')
+                time.sleep(1)
+                exit_app()
+                # return to results screen
+            elif sort_input == '2':
+                running = results_screen(results)
+                break
+            elif sort_input == ('3'):
+                sort_attr[0] = results.to_json()
+                sort_attr[1] = 'Critic_Rating'
+            elif sort_input == ('4'):
+                sort_attr[0] = results.to_json()
+                sort_attr[1] = 'User_Rating'
+            elif sort_input == ('5'):
+                # metacritic scores have mixed data types, so convert to Nan and back after sort.
+                results['Metacritic_Rating'] = pd.to_numeric(results['Metacritic_Rating'], errors='coerce')
+                sort_attr[0] = results.to_json()
+                sort_attr[1] = 'Metacritic_Rating'
+            elif sort_input == ('6'):
+                sort_attr[0] = results.to_json()
+                sort_attr[1] = 'Average Runtime'
+            else:
+                # invalid command entered
+                print()
+                print('  You entered an invalid command. Please enter a valid command and press Enter.')
+                sort_menu_attr()
+                print()
+
+
+            # Enter sort direction screen if valid response
+            if sort_attr[1] is not None:
+                while not sort_valid:
+                    print('    You may choose to sort the TV shows in ascending or descending order by your chosen criteria.')
+                    print('     Enter 3 to choose ascending sort.')
+                    print('     Enter 4 to choose descending sort.')
+                    print('     Pressing Enter without any entry or 1 to proceed will default to ascending sort.')
+                    print('     You may return to the previous screen by using the Back option')
+                    print()
+                    print('    0 to Exit Program')
+                    print('    1 to Proceed')
+                    print('    2 to go Back')
+                    print(f'   3 to sort {sort_attr[1]} in ascending order.')
+                    print(f'   4 to sort {sort_attr[1]} in descending order.')
+
+                    sort_input = input('  > ').strip()
+                    if sort_input == '1' or sort_input == '':
+                        sort_attr[2] = 3
+                        sort_valid = True
+                    elif sort_input == '0':
+                        # user chose to exit
+                        sort_socket.send_string('Q')
+                        time.sleep(1)
+                        exit_app()
+                        # return to attribute selection screen
+                    elif sort_input == '2':
+                        print('    You may choose to sort by the TV show characteristics listed below.')
+                        print('     The next screen allows you to specify sort order')
+                        print('     Enter the number associated with your chosen filter and then press Enter.')
+                        print('     Press Enter without any entry or Enter 1 to default to sorting by TV Show Title.')
+                        print('     You may return to the previous screen by using the Back option')
+                        print()
+                        print('    0 to Exit Program')
+                        print('    1 to Proceed')
+                        print('    2 to go Back')
+                        print('    3 to sort by Critic Rating')
+                        print('    4 to sort by User Rating')
+                        print('    5 to sort by Metacritic Score')
+                        print('    6 to sort by average episode runtime')
+                        sort_attr[1] = None
+                        break
+                    elif sort_input == ('3'):
+                        sort_attr[2] = 3
+                        sort_valid = True
+                    elif sort_input == ('4'):
+                        sort_attr[2] = 4
+                        sort_valid = True
+                    else:
+                        # invalid command entered
+                        print()
+                        print('  You entered an invalid command. Please enter a valid command and press Enter.')
+                        print('    0 to Exit Program')
+                        print('    1 to Proceed')
+                        print('    2 to go Back')
+        if sort_valid == True:
+            # send request
+            request = json.dumps(sort_attr)
+            sort_socket.send_string(request)
+            # receive request and display results
+            sorted_data = sort_socket.recv_string()
+
+            # check for invalid response
+            if sorted_data:
+                results = pd.read_json(StringIO(sorted_data))
+                # convert Metacritic NaN back to N/A
+                if sort_attr[1] == 'Metacritic_Rating':
+                    results = results.fillna('N/A')
+                print()
+                print()
+                print('-' * 60)
+                print('-' * 60)
+                if sort_attr[2] == 3:
+                    print(f' Your results sorted by {sort_attr[1]} in ascending order. ')
+                else:
+                    print(f' Your results sorted by {sort_attr[1]} in descending order. ')
+                running = results_screen(results)
+
+            else:
+                print('-' * 60)
+                print(" Error: Sort request could not be completed. Please try again. ")
+                print('-' * 60)
+                running = results_screen(results)
+
+                    
+
 
 
 # ---------------------------------------------------------------------------

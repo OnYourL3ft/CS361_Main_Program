@@ -45,18 +45,24 @@ def results_screen(results):
         print("  We're sorry. There are no TV shows that match your")
         print('  selected criteria. You can adjust your filters and try again.')
         print()
+        # user option to search again, exit, or sort
+        print('-' * 60)
+        print('  Enter a command:')
+        print('    [1] Search Again')
+        print('    [0] Exit')
+        print('-' * 60)
     # display results
     else:
         for index, row in results.iterrows():
             print_results(row)
         print()
-
-    # user option to search again
-    print('-' * 60)
-    print('  Enter a command:')
-    print('    [1] Search Again')
-    print('    [0] Exit')
-    print('-' * 60)
+        # user option to search again, exit, or sort
+        print('-' * 60)
+        print('  Enter a command:')
+        print('    [1] Search Again')
+        print('    [0] Exit')
+        print('    [12] Sort Results by critic rating, user score, metacritic rating, or runtime')
+        print('-' * 60)
 
     # get user input and validate and loop until valid command entered
     results_valid = False
@@ -70,11 +76,19 @@ def results_screen(results):
         elif results_input == '0':
             # user chose to exit, close program
             return False
+        elif results_input =='12' and not results.empty:
+            # display sort screen to user with sort options
+            return '12'
 
-        else:
+        elif results.empty:
             # invalid command entered
             print()
             print('  You entered an invalid command. Please enter a valid command and press Enter.')
             print('    1 to Search Again')
             print('    0 to Exit')
             print()
+        else:
+            print('  You entered an invalid command. Please enter a valid command and press Enter.')
+            print('    1 to Search Again')
+            print('    0 to Exit')
+            print('    12 to sort results by critic rating, user score, metacritic rating, or runtime')
