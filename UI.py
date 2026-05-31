@@ -31,6 +31,7 @@ fit_model(app_data)
 
 # start microservices in their own processes
 sort_process = subprocess.Popen(['python', 'sort_microservice.py'])
+limit_process = subprocess.Popen(['python', 'results_limit_microservice.py'])
 time.sleep(2)
 # create the environment and connection with the server
 context = zmq.Context()
@@ -39,7 +40,9 @@ context = zmq.Context()
 sort_socket = context.socket(zmq.REQ)
 sort_socket.connect("tcp://localhost:5556")
 
-# placeholder to create socket for microservice 2
+# create socket for result limit microservice
+limit_socket = context.socket(zmq.REQ)
+limit_socket.connect("tcp://localhost:5560")
 
 # placeholder to create socket for microservice 3
 
@@ -84,6 +87,7 @@ def wait_screen(critic_rating_value, user_rating_value):
 # -----------------------------------------------------------
 def exit_app():
     sort_process.terminate()
+    limit_process.terminate()
     print()
     print('-' * 60)
     print('  Goodbye!')
@@ -118,6 +122,8 @@ def sort_menu_attr():
     print('    4 to sort by User Rating')
     print('    5 to sort by Metacritic Score')
     print('    6 to sort by average episode runtime')
+
+
 # ---------------------------------------------------------------------------
 # Welcome Screen
 # ---------------------------------------------------------------------------
@@ -235,6 +241,9 @@ while running:
     # display results and give user option to loop back or exit
     running = results_screen(results)
 
+    # save results for use until user searches again or exits
+    original_results = results.copy()
+
     # ------------------------------------------------------------------------
     # Sort Screen
     # ------------------------------------------------------------------------
@@ -248,10 +257,6 @@ while running:
         sort_attr = [None, None, None]
         sort_valid = False
         while not sort_valid:
-            # display options to user
-
-
-
             # get user input
             sort_input = input('  > ').strip()
             if sort_input == '1' or sort_input == '':
@@ -259,7 +264,6 @@ while running:
                 sort_attr[1] = 'Name'
             elif sort_input == '0':
                 # user chose to exit
-                sort_socket.send_string('Q')
                 time.sleep(1)
                 exit_app()
                 # return to results screen
@@ -314,19 +318,8 @@ while running:
                         exit_app()
                         # return to attribute selection screen
                     elif sort_input == '2':
-                        print('    You may choose to sort by the TV show characteristics listed below.')
-                        print('     The next screen allows you to specify sort order')
-                        print('     Enter the number associated with your chosen filter and then press Enter.')
-                        print('     Press Enter without any entry or Enter 1 to default to sorting by TV Show Title.')
-                        print('     You may return to the previous screen by using the Back option')
-                        print()
-                        print('    0 to Exit Program')
-                        print('    1 to Proceed')
-                        print('    2 to go Back')
-                        print('    3 to sort by Critic Rating')
-                        print('    4 to sort by User Rating')
-                        print('    5 to sort by Metacritic Score')
-                        print('    6 to sort by average episode runtime')
+                        sort_menu_intro()
+                        sort_menu_attr()
                         sort_attr[1] = None
                         break
                     elif sort_input == ('3'):
@@ -355,6 +348,9 @@ while running:
                 # convert Metacritic NaN back to N/A
                 if sort_attr[1] == 'Metacritic_Rating':
                     results = results.fillna('N/A')
+
+                # update original dataframe to sorted
+                original_results = results.copy()
                 print()
                 print()
                 print('-' * 60)
@@ -370,7 +366,57 @@ while running:
                 print(" Error: Sort request could not be completed. Please try again. ")
                 print('-' * 60)
                 running = results_screen(results)
+    # ------------------------------------------------------------------------
+    # Result Limit Screen
+    # ------------------------------------------------------------------------
+    while running == '13':
+        print()
+        print('-' * 60)
+        print('  Enter the number of results to display.')
+        print('  Press Enter without any entry to keep current results.')
+        print('  Enter 0 to Exit Program.')
+        print('-' * 60)
 
+        limit_input = input('  > ').strip()
+
+        # user chooses exit
+        if limit_input == '0':
+            time.sleep(1)
+            exit_app()
+
+        elif limit_input == '':
+            # keep current results, return to results screen
+            running = results_screen(results)
+
+        else:
+            # validate input is a positive integer
+            try:
+                result_limit = int(limit_input)
+                if result_limit <= 0:
+                    raise ValueError
+            except ValueError:
+                print()
+                print('  You entered an invalid number. Please enter a positive integer.')
+                print()
+                continue
+
+            # send request to results limit microservice, track original count
+            original_count = len(original_results)
+            request = json.dumps([original_results.to_json(), result_limit])
+            limit_socket.send_string(request)
+            limited_data = limit_socket.recv_string()
+
+            if limited_data:
+                results = pd.read_json(StringIO(limited_data))
+                if result_limit >= original_count:
+                    print()
+                    print('  All search results displayed.')
+                running = results_screen(results)
+            else:
+                print('-' * 60)
+                print('  Error: Result limit request could not be completed. Please try again.')
+                print('-' * 60)
+                running = results_screen(results)
                     
 
 

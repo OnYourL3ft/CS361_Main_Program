@@ -62,6 +62,7 @@ def results_screen(results):
         print('    [1] Search Again')
         print('    [0] Exit')
         print('    [12] Sort Results by critic rating, user score, metacritic rating, or runtime')
+        print('    [13] Change number of displayed results')
         print('-' * 60)
 
     # get user input and validate and loop until valid command entered
@@ -79,6 +80,9 @@ def results_screen(results):
         elif results_input =='12' and not results.empty:
             # display sort screen to user with sort options
             return '12'
+        elif results_input == '13' and not results.empty:
+            # show user result limit selection
+            return '13'
 
         elif results.empty:
             # invalid command entered
@@ -92,3 +96,4 @@ def results_screen(results):
             print('    1 to Search Again')
             print('    0 to Exit')
             print('    12 to sort results by critic rating, user score, metacritic rating, or runtime')
+            print('    13 to change number of displayed results')
