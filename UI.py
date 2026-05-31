@@ -92,11 +92,11 @@ def exit_app():
     print()
     sys.exit(0)
 
-# # -----------------------------------------------------------
-# # Function: prints sort menu intro
-# # Receives: None
-# # Returns: None
-# # -----------------------------------------------------------
+# -----------------------------------------------------------
+# Function: prints sort menu intro
+# Receives: None
+# Returns: None
+# -----------------------------------------------------------
 def sort_menu_intro():
     print('    You may choose to sort by the TV show characteristics listed below.')
     print('     The next screen allows you to specify sort order')
@@ -359,7 +359,7 @@ while running:
                 print()
                 print('-' * 60)
                 print('-' * 60)
-                if sort_attr[2] == 3:
+                if sort_attr[2] == 3 or sort_attr[2] is None:
                     print(f' Your results sorted by {sort_attr[1]} in ascending order. ')
                 else:
                     print(f' Your results sorted by {sort_attr[1]} in descending order. ')
