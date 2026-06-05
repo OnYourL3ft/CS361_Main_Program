@@ -31,6 +31,8 @@ def sort_micro(datafile, attribute=None, sort_method=3):
     except:
         return None
 
+    # convert json to dataframe
+    my_data = pd.read_json(StringIO(datafile))
 
     # sort by column 1 if no attribute specified
     if attribute is None:

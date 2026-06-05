@@ -3,6 +3,17 @@
 # Spring 2026
 # Main Project - TV Show App Results
 
+import pandas as pd
+import os
+
+# -------------------------------------------------------------------
+# Function: clears screen before each results displays
+# Receives: None
+# Returns: None
+# -------------------------------------------------------------------
+def clear_screen():
+    os.system('cls' if os.name=='nt' else 'clear')
+
 # -------------------------------------------------------------------
 # Function: prints the TV show attributes for each search result
 # Receives: TV show vector
@@ -10,21 +21,27 @@
 # -------------------------------------------------------------------
 
 # print TV show attributes of machine learning results
-def print_results(row):
-    name          = row.get('Name', 'N/A')
-    genres        = row.get('Genres', 'N/A')
-    network       = row.get('Network', 'N/A')
-    language      = row.get('Language', 'N/A')
-    seasons       = row.get('Total Seasons', 'N/A')
-    episodes      = row.get('Total Episodes', 'N/A')
-    runtime       = row.get('Average Runtime', 'N/A')
-    critic_rating = row.get('Critic_Rating', 'N/A')
-    user_rating   = row.get('User_Rating', 'N/A')
-    metacritic    = row.get('Metacritic_Rating', 'N/A')
+def print_results(results_df, format_socket):
+    num_rows = len(results_df)
+    width = os.get_terminal_size().columns
 
-    print(f'  - {name} | {genres} | Language: {language} | Network: {network} | '
-          f'{seasons} Seasons | {episodes} Episodes | Runtime: {runtime} min | '
-          f'Critic: {critic_rating} | User: {user_rating} | Metacritic: {metacritic}')
+    # display only TV show attributes pertinent
+    display_cols = ['Name', 'Genres', 'Network', 'Language', 'Total Seasons',
+                    'Total Episodes', 'Average Runtime', 'Critic_Rating',
+                    'User_Rating', 'Metacritic_Rating']
+    display_df = results_df[display_cols].astype(str)
+
+
+    # send request with data and display parameters
+    format_socket.send_json({
+    "width": width,
+    "limit": num_rows,
+    "data": display_df.to_dict(orient='records'),
+    "format_headers": True
+})
+
+    response = format_socket.recv_json()
+    print(response["data"])
 
 
 # -----------------------------------------------------------------
@@ -32,8 +49,9 @@ def print_results(row):
 # Receives: results as dataframe
 # Returns: None
 # -----------------------------------------------------------------
-def results_screen(results):
+def results_screen(results, format_socket):
 
+    clear_screen()
     print()
     print('-' * 60)
     print('-' * 60)
@@ -53,9 +71,7 @@ def results_screen(results):
         print('-' * 60)
     # display results
     else:
-        for index, row in results.iterrows():
-            print_results(row)
-        print()
+        print_results(results, format_socket)
         # user option to search again, exit, or sort
         print('-' * 60)
         print('  Enter a command:')
@@ -63,6 +79,7 @@ def results_screen(results):
         print('    [0] Exit')
         print('    [12] Sort Results by critic rating, user score, metacritic rating, or runtime')
         print('    [13] Change number of displayed results')
+        print('    [14] Search result TV Show Titles by keyword')
         print('-' * 60)
 
     # get user input and validate and loop until valid command entered
@@ -83,7 +100,9 @@ def results_screen(results):
         elif results_input == '13' and not results.empty:
             # show user result limit selection
             return '13'
-
+        elif results_input == '14' and not results.empty:
+            # allow user to search titles by keyword
+            return '14'
         elif results.empty:
             # invalid command entered
             print()
@@ -97,3 +116,4 @@ def results_screen(results):
             print('    0 to Exit')
             print('    12 to sort results by critic rating, user score, metacritic rating, or runtime')
             print('    13 to change number of displayed results')
+            print('    [14] Search results by TV Show Title')
